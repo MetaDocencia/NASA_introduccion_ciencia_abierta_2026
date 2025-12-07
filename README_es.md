@@ -1,16 +1,57 @@
-# Plan de estudios del curso "Introducción a la Ciencia Abierta"
+# Introducción a Open Science 101
+
+**Importante:** una vez que finalices nuestras capacitaciones, la emisión de tu insignia digital puede demorar una hora o más. Este tiempo varía según la cantidad de solicitudes que estemos procesando en un momento dado. ¡Gracias por tu comprensión!
+
+## Administrar notificaciones
+¿Recibes demasiados correos electrónicos de este curso? Puedes gestionar tus preferencias de notificación [aquí](https://nasastem.instructure.com/profile).
+
+## ¿Necesitas ayuda?
+Puedes comunicarte con nosotros a través del [buzón de mensajes](https://nasastem.instructure.com/conversations).
+
+## Cómo tomar este curso
+Visita la página de [Módulos](https://nasastem.instructure.com/courses/283/modules) para acceder al contenido de cada módulo.  
+Cada módulo tiene una evaluación asociada. Completa las 5 [evaluaciones](https://nasastem.instructure.com/courses/283/quizzes) para finalizar el curso.
+
+## Obtener la insignia digital
+Cuando finalices las 5 evaluaciones, recibirás automáticamente una insignia digital emitida por Credly. Podrás compartirla en tu currículum o en tus perfiles de redes sociales. También puedes agregar tu insignia digital de Credly a tu perfil de ORCID en el módulo [Open Science 101 completo](https://nasastem.instructure.com/courses/283/modules/900).
+
+[IMG: readme1.png](https://drive.google.com/file/d/1Jz-LxjX6OQL3lCMlZoNX9g4xkgdq0jG8/view?usp=drive_link)
+
+---
 
 ## Descripción del plan de estudios
 
-Transfórmate de la Ciencia Abierta (del inglés Transform to Open Science - TOPS) es una iniciativa de la NASA diseñada para transformar rápidamente agencias, organizaciones y comunidades a una cultura inclusiva de la Ciencia Abierta. Desarrollado por la iniciativa TOPS la guía proporcionada por el plan de estudios del curso "Introducción a la Ciencia Abierta" promoverá la transformación del panorama de investigación y el avance simultáneo del descubrimiento científico. El plan de estudios de "Introducción a la Ciencia Abierta" tiene como objetivo introducir una comprensión matizada de la Ciencia Abierta, que permita a las personas participantes comprender mejor el flujo de trabajo de Ciencia Abierta de principio a fin. El enfoque será proporcionar una comprensión básica de la Ciencia Abierta, su espíritu y beneficios, y cómo participar activamente en comunidades relacionadas a la Ciencia Abierta. El plan de estudios de TOPS también se utilizará para apoyar a quienes investigan y buscan comprometerse con la NASA a medida que ésta adopta requisitos científicos de Ciencia Abierta. Quienes investigan deberán adquirir las nuevas habilidades destacadas en el plan de estudios para participar eficazmente en la Ciencia Abierta y demostrar esas habilidades al aplicar a oportunidades de financiación de la NASA.
+La capacitación en Ciencia Abierta de la NASA es una iniciativa diseñada para transformar rápidamente agencias, organizaciones y comunidades hacia una cultura colaborativa de Ciencia Abierta. Desarrollado por el equipo de Ciencia Abierta de la NASA, el plan de estudios de "Introducción a la Ciencia Abierta" acompaña la transformación del panorama de investigación y el avance del descubrimiento científico.
+
+El plan de estudios tiene como objetivo introducir una comprensión matizada de la Ciencia Abierta que permita comprender el flujo de trabajo completo de Ciencia Abierta, de principio a fin. El enfoque está en brindar una comprensión básica sobre cómo compartir y publicar investigación de manera abierta y responsable para maximizar el impacto científico y económico de los proyectos, habilitando que futuras investigaciones puedan construirse sobre trabajos previamente compartidos.
+
+La NASA también utilizará este plan de estudios para apoyar a quienes investigan y buscan comprometerse con la agencia a medida que se adoptan nuevos requisitos de Ciencia Abierta. Quienes investigan deberán adquirir las habilidades destacadas en este plan de estudios para participar eficazmente en la Ciencia Abierta y demostrar sus capacidades al aplicar a oportunidades de financiamiento.
+
+---
 
 ## Plan de estudios
 
 ### 5 módulos organizados como flujo de trabajo científico
 
-<img src="./Module_1/images/media/image441_es.png" style="width:100%;height:auto;" />
+<img src="./Module_1/images/media/image441.png" style="width:100%;height:auto;" />
 
-Completando los cinco módulos y aprobando la evaluación al final de cada uno de ellos se obtiene una insignia digital de "Ciencia Abierta de la NASA (del inglés "NASA Open Science").
+[IMG: badge1.png](https://drive.google.com/file/d/1os_7dqHlsVOYAUOzb5JRu-DtKA316maK/view?usp=drive_link)
+
+Completando los cinco módulos y aprobando la evaluación final de cada uno se obtiene la insignia digital de "Ciencia Abierta de la NASA" (en inglés, *NASA Open Science*).
+
+---
+
+## Únete a la comunidad de Ciencia Abierta
+
+A lo largo del curso compartiremos información sobre cómo involucrarte en oportunidades de Ciencia Abierta y cómo participar más activamente en la comunidad. Una manera sencilla de comenzar es suscribirte al boletín gratuito de la NASA sobre Ciencia Abierta.
+
+Este boletín mensual destaca iniciativas actuales, nuevas herramientas y recursos diseñados para que la comunidad científica pueda aprovechar más efectivamente la amplia cantidad de datos científicos de la NASA. En próximos números se incluirán novedades sobre herramientas de IA, el desarrollo del motor de búsqueda Science Discovery Engine y más.
+
+**¡Suscríbete aquí!**
+
+[Button](https://lp.constantcontactpages.com/sl/dngxZy8/NASAOpenScience)
+
+---
 
 ## Contenidos
 
@@ -54,7 +95,11 @@ Completando los cinco módulos y aprobando la evaluación al final de cada uno d
 - [Lección 4: Compartir Resultados Abiertos](./Module_5/Lesson_4)
 - [Lección 5: De la teoría a la práctica](./Module_5/Lesson_5)
 
-## Sobre esta versión 
+## Sobre esta versión
+
+[Completar]
+
+## Sobre la versión anterior 
 
 Como parte de nuestro trabajo para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativas, en [MetaDocencia](https://www.metadocencia.org/) reconocemos que es fundamental poder compartir recursos accesibles para comunidades hispanohablantes. Por ello, y gracias al financiamiento de la NASA, en MetaDocencia trabajamos colaborativamente entre abril y junio de 2024 en el desarrollo de versiones contextualizadas y más accesibles de los contenidos de los 5 módulos de NASA-TOPS Open Science 101. 
 Este trabajo de contextualización busca desarrollar recursos de calidad en español a partir de material originalmente en otro idioma, donde calidad no implica sólo una correcta traducción del contenido sino también su adaptación a contextos hispanohablantes de manera que resulte accesible y significativo.
