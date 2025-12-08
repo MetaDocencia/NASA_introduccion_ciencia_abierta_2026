@@ -10,7 +10,7 @@
 
 ## Overview
 
-In this lesson, you learn how adopting open science benefits you as a researcher and society. You also learn about some of the challenges and hurdles with using open science principles and how to navigate them.
+In this lesson, you will learn how adopting open science benefits you as a researcher and society more broadly. Open science practices such as using, making, and sharing also ensures that everyone involved in the process receives their due credit. You will also learn about some of the challenges with using open science principles. By learning these hurdles and how to navigate them, you will be better-prepared for implementing the practice of open science.
 
 ## Learning Objectives
 
@@ -19,7 +19,6 @@ After completing this lesson, you should be able to:
 - Describe the ways in which open science benefits your career with attribution, reach, and more collaborations.
 - Describe the ways in which open science can advance science.
 - List the benefits society receives when open science principles are adopted.
-
 
 ## Open Science Breaks Down Stovepipes and Increases Innovation
 
