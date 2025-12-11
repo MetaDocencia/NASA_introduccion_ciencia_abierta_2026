@@ -11,102 +11,114 @@
 
 ## Descripción general
 
-Esta lección presenta las herramientas de mayor uso en Ciencia Abierta. Comienza con una breve introducción a las herramientas de Ciencia Abierta y describe identificadores persistentes, una de las herramientas de Ciencia Abierta más comunes que garantiza la reproducibilidad, la accesibilidad y el reconocimiento de los productos científicos. A continuación, se describen otras herramientas comunes de Ciencia Abierta que son aplicables independientemente del campo de estudio. La lección concluye con una descripción de Planes de Ciencia Abierta y Gestión de Datos, un componente clave para compartir la ciencia durante todo el proceso de investigación.
+En esta lección se presentan herramientas de uso frecuente en Ciencia Abierta. Por ejemplo, los identificadores persistentes son una de las herramientas más utilizadas en Ciencia Abierta, y contribuyen a garantizar la reproducibilidad, la disponibilidad y el reconocimiento de los productos científicos. En esta lección también se describen otras herramientas habituales de Ciencia Abierta que pueden aplicarse independientemente del campo de estudio. Finalmente, se muestra que los planes de Ciencia Abierta y gestión de datos son un componente clave para compartir la producción científica en forma abierta y hacerla disponible a lo largo de todo el proceso de investigación.
 
 ## Objetivos de aprendizaje
 
-Al finalizar esta lección deberías ser capaz de:
+Al finalizar esta lección se debería poder:
 
 - Recordar la definición de herramientas de Ciencia Abierta.
-- Describir qué es un identificador persistente y dar un ejemplo.
-- Enumerar algunas herramientas científicas abiertas comúnmente utilizadas que respaldan la investigación.
-- Enumerar los componentes de un Plan de Ciencia Abierta y Gestión de Datos y lo que incluye.
+- Describir qué es un identificador persistente y mencionar un ejemplo.
+- Enumerar algunas herramientas frecuentes de Ciencia Abierta que respaldan la investigación.
+- Enumerar los componentes de un plan de Ciencia Abierta y gestión de datos y qué incluyen.
 
 ## Introducción a las herramientas para la Ciencia Abierta
 
-La palabra "herramientas" se refiere a cualquier tipo de recurso o instrumento que pueda utilizarse para respaldar tu investigación. En este sentido, las herramientas pueden ser una colección de recursos útiles que puedas consultar durante tu investigación, software que podrías utilizar para crear y gestionar tus datos o incluso la infraestructura humana, como una red comunitaria a la que puedas unirte para obtener más orientación y apoyo en asuntos específicos.
+La palabra «herramientas» se refiere a cualquier tipo de recurso o instrumento que pueda usarse para apoyar un proceso de investigación. En este sentido, las herramientas pueden ser un conjunto de recursos útiles que se consultan durante un trabajo de investigación, programas de software que sirven para crear y gestionar datos, o también infraestructura humana, como una red comunitaria a la que sea posible unirse para recibir más orientación y apoyo sobre cuestiones específicas.
 
-En este contexto, las herramientas de Ciencia Abierta son cualquier herramienta que permita y facilite la apertura en la investigación y apoye prácticas responsables de Ciencia Abierta. Es importante señalar que las herramientas de Ciencia Abierta suelen ser de Código Abierto y/o de uso libre, pero no siempre es así.
+En este contexto, las herramientas de Ciencia Abierta son aquellas que permiten y facilitan la apertura en la investigación y que respaldan prácticas responsables de Ciencia Abierta. Es importante señalar que las herramientas de Ciencia Abierta con frecuencia son de código abierto o gratuitas, pero no siempre.
 
-Las herramientas de Ciencia Abierta se pueden utilizar para:
+Las herramientas de Ciencia Abierta pueden utilizarse para:
 
-- **Descubrimiento** - Herramientas de descubrimiento de información para utilizar en tu investigación.
-- **Análisis** - Herramientas para procesar los resultados de tu investigación, por ejemplo, herramientas para el análisis de datos y su visualización.
-- **Redacción** - Herramientas para producir contenidos, como Planes de Gestión de Datos, presentaciones y preimpresiones (_preprints_).
-- **Publicaciones** - Herramientas para compartir y/o conservar investigaciones.
-- **Divulgación** - Herramientas para promocionar tu investigación.
+- **Descubrimiento**  
+  Herramientas para encontrar contenido que se pueda usar en una investigación.
 
-En esta lección, te presentamos algunas de las herramientas más generales de la Ciencia Abierta como los identificadores persistentes, metadatos, documentación y Planes de Gestión de Datos Abiertos. Sin importar el campo de estudio, estas herramientas y prácticas son algunas de las cosas que encontrarás al usar, hacer o compartir tu investigación. Lee más sobre las herramientas de Ciencia Abierta en [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
+- **Análisis**  
+  Herramientas para procesar resultados de investigación (por ejemplo, herramientas para análisis y visualización de datos).
+
+- **Escritura**  
+  Herramientas para producir contenidos como planes de gestión de datos, presentaciones y preprints.
+
+- **Publicaciones**  
+  Herramientas para compartir y/o archivar resultados de investigación.
+
+- **Difusión**  
+  Herramientas para promocionar la investigación.
+
+En esta lección se introducen algunas de las herramientas más generales de Ciencia Abierta, como los identificadores persistentes, los metadatos, la documentación y los planes de Ciencia Abierta y gestión de datos. Independientemente del campo de estudio, es probable que estas herramientas y prácticas aparezcan en el camino al usar, producir o compartir resultados de investigación. Se puede leer más sobre herramientas de Ciencia Abierta en [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html) (enlace externo).
 
 ## Identificadores persistentes
 
-Un identificador persistente digital (o _PID_ por sus siglas en inglés) es una "referencia duradera a un recurso digital" que es legible por máquinas y apunta de manera única a una entidad digital, según [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-). A continuación, se describen ejemplos de identificadores persistentes utilizados en el medio científico.
+Un identificador digital persistente (o «PID», por sus siglas en inglés) es una «referencia duradera a un recurso digital» que es legible por computadora y apunta de manera única a una entidad digital, según ORCID. (ORCID, s. f.) A continuación se describen ejemplos de identificadores persistentes utilizados en ciencia.
 
 ### ORCID
 
-<img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">
+<img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">  
+Fuente de la imagen: ORCID Logo - CC0 1.0
 
-El identificador único conocido como ORCID (en inglés, _Open Researcher and Contributor Identifier_) proporciona información válida sobre la identidad de una persona. A continuación, se listan algunos detalles clave sobre los ORCID.
+ORCID es la sigla de «Open Researcher and Contributor IDentifier» y está pensado para proporcionar información profesional sobre una persona.
 
-Un código numérico gratuito no propietario que:
+Los ORCID iDs son códigos numéricos gratuitos y no propietarios que:
 
-- Identifica de manera única y persistente a personas autoras y a quienes colaboran en la producción de comunicaciones académicas.
-- Es similar a los números de identificación fiscal para propósitos tributarios (dependiendo del país de residencia).
+- Identifican de manera única y persistente a quienes firman y contribuyen a la comunicación académica.
+- Se usan de forma similar a como se utilizan los números de identificación fiscal en los trámites impositivos.
 
-Los ORCID se utilizan para vincular a las personas con sus investigaciones y productos relacionados con la investigación. Es un número de 16 dígitos que identifica individualmente a las personas que investigan y que se integra con diferentes organizaciones, incluyendo editoriales, para vincular productos de investigación, como artículos publicados, al perfil ORCID de la persona investigadora. Los ORCID están diseñados para preservarse a lo largo de la carrera profesional de una persona, y ayudan a evitar confusiones cuando la información sobre la persona investigadora se actualiza con el tiempo (por ejemplo, cambio de carrera o de nombre). (Fuente: [https://orcid.org/](https://orcid.org/)).
+Los ORCID iDs se utilizan para vincular a quienes investigan con sus investigaciones y con productos relacionados con su actividad académica. Es un número de 16 dígitos que identifica de manera única a una persona que hace investigación y está integrado con ciertas organizaciones (como algunas editoriales) que añaden productos de investigación (como un artículo publicado) al perfil ORCID correspondiente. Los ORCID iDs están pensados para acompañar a lo largo de toda la carrera profesional y ayudan a evitar confusiones cuando la información sobre una persona cambia con el tiempo (por ejemplo, un cambio de institución o un cambio de nombre).
 
-Gran cantidad de editoriales, instituciones académicas y organismos gubernamentales respaldan la utilización de ORCID. En 2023, ORCID reportó más de 1.300 organizaciones miembros y más de 9 millones de cuentas activas anuales. Puedes vincularlo con tu información profesional (afiliaciones, subvenciones, publicaciones, revisión por pares y más).
+Muchas editoriales, instituciones académicas y organismos públicos respaldan ORCID. En 2024, ORCID informó que más de 1400 organizaciones eran miembros y que había más de 9 millones de cuentas activas por año. (ORCID, 2025) Es posible vincular un ORCID iD con información profesional como afiliaciones, subsidios, publicaciones, actividades de revisión por pares y más. Hay información y materiales adicionales en el [sitio web de ORCID](https://orcid.org/) (enlace externo).
 
-### Identificador de objeto digital (DOI)
+### Identificadores de objeto digital (DOI)
 
-Un DOI (por las siglas en inglés de _Digital Object Identifier_) es un identificador persistente utilizado para citar datos, software, artículos de revistas y otros tipos de medios (incluidos diapositivas de presentaciones, entradas de blogs, videos, logotipos, etc.).
+Un DOI es un identificador persistente utilizado para citar datos, software, artículos de revistas y otros tipos de materiales, incluidos diapositivas de presentaciones, entradas de blog, videos, logotipos, entre otros.
 
-A diferencia de las URLs, que suelen ser inconstantes o inestables, los DOI son referencias permanentes a documentos en internet. Dado a que un DOI es estático, cada nueva versión de datos o software que desees citar necesitará un nuevo DOI. Algunos proveedores de DOI permiten que un solo DOI refiera a todas las versiones del mismo objeto y a una serie de DOI individuales para cada versión específica. Normalmente, los individuos no pueden solicitar un DOI por sí mismos, sino que deben hacerlo a través de una organización intermediaria autorizada que pueda hacerlo por ellos.
+A diferencia de los enlaces URL transitorios y dinámicos, los DOI son punteros estáticos a documentos en internet. Dado que un DOI es estático, cada versión nueva de un conjunto de datos o de un software que se quiera citar necesita un DOI nuevo. Algunas entidades que proveen DOI permiten que un DOI remita a «todas las versiones» y, al mismo tiempo, ofrecen una serie de DOI individuales para cada versión específica. Por lo general, las personas no pueden solicitar un DOI directamente, sino que deben hacerlo a través de una organización autorizada que presente la solicitud.
 
-¡Crear un DOI para tu producto de investigación puede asegurar que sea perdurable! Esto significa que si citas un DOI en un artículo de investigación, puedes confiar en que quienes lo lean en el futuro podrán seguir esa cita hasta su fuente, incluso si los sitios web han cambiado completamente entretanto.
+Crear un DOI para un producto ayuda a garantizar su permanencia. Esto significa que, si se cita un DOI en un artículo, se puede confiar en que quienes lean ese trabajo más adelante podrán seguir la referencia hasta la fuente, incluso si los sitios web cambiaron por completo mientras tanto.
 
-Por ejemplo, el DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) siempre resolverá en una página web que explica qué es el conjunto de datos CERES_EBAF-TOA_Edition4.1 y cómo descargarlo. (¡Mira la captura de pantalla abajo si tienes curiosidad por saber qué es realmente este conjunto de datos!)
+Por ejemplo, el DOI [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) (enlace externo) siempre llevará a una página web que explica qué es el conjunto de datos CERES_EBAF-TOA_Edition4.1 y cómo descargarlo. En la captura siguiente se puede ver cómo luce esta información para ese conjunto de datos.
 
-Los DOI son proporcionados y mantenidos por la Organización Internacional de Normalización ([ISO por sus siglas en inglés](https://www.iso.org/es/home)): [https://www.doi.org/](https://www.doi.org/).
+Los DOI fueron estandarizados por la [Organización Internacional de Normalización (ISO)](https://www.iso.org/home.html) (enlace externo) y son provistos y mantenidos por la [International DOI Foundation](https://www.doi.org/) (enlace externo).
 
-<img src="../images/media/image18.png" style="width:350px;height:auto;" />
+<img src="../images/media/image18.png" style="width:350px;height:auto;" />  
+Fuente de la imagen: DOI Foundation Logo - CC 4.0
 
-### Citación utilizando los DOI
+### Citas que usan DOI
 
- <img src="../images/media/image19_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />  
+ASDC Citation Example [captura de pantalla]. (2023). Atmospheric Science Data Center. [https://asdc.larc.nasa.gov/](https://asdc.larc.nasa.gov/)
 
-Los DOI facilitan y hacen más práctica la citación de productos de investigación.
+Los DOI hacen que citar productos de investigación sea más sencillo y útil.
 
-Los repositorios de datos normalmente te ilustrarán sobre la manera exacta de cómo citar tus datos, lo cual incluye el DOI correcto. Por ejemplo, vamos a examinar el conjunto de datos CERES_EBAF-TOA_Edition4.1 mencionado anteriormente. Este es un [ejemplo del sitio web del Centro de Datos de Ciencias Atmosféricas (ASDC, por sus siglas en inglés)](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
+Los repositorios de datos suelen indicar de manera explícita cómo citar sus datos, incluyendo el DOI correspondiente. Por ejemplo, se puede volver al conjunto de datos CERES_EBAF-TOA_Edition4.1 mencionado antes. El ejemplo de la imagen proviene del sitio web del [Atmospheric Science Data Center (ASDC) de la NASA](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
 
 ### Actividad 2.1: Encontrar y resolver un DOI
 
-En esta actividad debes buscar el DOI para un conjunto de datos o un software que utilices y luego usar el sitio web de DOI para “resolver” el nombre del DOI. Por "resolver" se entiende que serás dirigido a la información sobre el producto identificado por ese DOI específico.
+En esta actividad se buscará un DOI de un conjunto de datos o de una pieza de código que se utilice en la propia práctica, y luego se usará el sitio web de DOI para «resolver» ese DOI. «Resolver» significa acceder a la información sobre el producto asociado con ese DOI particular.
 
-1. Encuentra el DOI para un conjunto de datos o software que uses frecuentemente.
-   1. Esto debería de localizarse ya sea en el archivo de citación o en el sitio web donde se publica ese conjunto de datos o software.
-   2. Si no puedes encontrar un DOI, en su lugar puedes localizar el DOI listado en esta página: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
-2. Ve a https://www.doi.org/ y desplázate hacia abajo en la página hasta "TRY RESOLVING A DOI NAME" (INTENTE RESOLVER UN NOMBRE DOI).
-3. Copia y pega el DOI que encontraste en el campo debajo de "TRY RESOLVING A DOI NAME".
-4. Haz clic en enviar.
-5. La acción te debería redirigir automáticamente a una página que explica y contiene el objeto citado.
+1. Encontrar el DOI de un conjunto de datos o de un software que se use con frecuencia.  
+   1. Este DOI debería figurar en el archivo de cita correspondiente o en el sitio web donde se publica ese conjunto de datos o ese código.  
+   2. Si no se encuentra un DOI, se puede usar el DOI indicado en esta página: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1  
+2. Ir a https://www.doi.org/ (enlace externo) y desplazarse hasta el final de la página, donde dice «TRY RESOLVING A DOI NAME».  
+3. Copiar y pegar el DOI encontrado en el formulario «TRY RESOLVING A DOI NAME».  
+4. Hacer clic en «Submit».  
+5. La página debería redirigir automáticamente a una página que explique y contenga los datos citados.
 
 **Conclusiones de la actividad: Encontrar y resolver un DOI**
 
-Esta actividad variará según el DOI que elijas utilizar. Sin embargo, si has utilizado el ejemplo presentado, deberías encontrar el DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
+El resultado de esta actividad variará según el DOI que se haya elegido. Sin embargo, si se utilizó el ejemplo mencionado, debería aparecer el DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1.
 
-Y después del paso 5, deberías terminar en la página https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
+Y, después del paso 5, el navegador debería dirigir nuevamente a la página https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 
-Así de fácil debería ser para quienes lean tus artículos encontrar y utilizar la información de citación que les proporciones.
+Esta es la facilidad con la que se espera que quienes lean un trabajo científico puedan encontrar y utilizar la información de una cita.
 
-### Ejemplos de Identificadores Persistentes (PID) en acción
+### Ejemplos de PIDs en acción
 
-<img src="../images/media/image22_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
 
 <table>
   <thead>
     <tr>
-        <th>Ejemplo 1 ☑</th>
+        <th>Ejemplo 1 &#9745;</th>
         <th>Ejemplo 2</th>
         <th>Ejemplo 3</th>
     </tr>
@@ -114,7 +126,7 @@ Así de fácil debería ser para quienes lean tus artículos encontrar y utiliza
   <tbody>
     <tr>
         <td colspan="3">
-            <p>La necesidad de un identificador persistente (PID) comienza cuando una persona investigadora escribe un código de programación. Para hacer posible la búsqueda del código, la persona investigadora sube su código a un repositorio y registra un DOI para su script. Ahora otras personas pueden valorar, usar el código y citarlo correctamente.</p>
+            <p>La necesidad de un identificador persistente (PID) puede aparecer desde el momento en que una persona que investiga escribe código. Para lograr que el código sea localizable, se sube el código a un repositorio y se registra un DOI para ese script. De esta forma, otras personas pueden revisar y usar el código, e incluso citarlo de manera adecuada.</p>
         </td>
     </tr>
   </tbody>
@@ -124,14 +136,14 @@ Así de fácil debería ser para quienes lean tus artículos encontrar y utiliza
   <thead>
     <tr>
         <th>Ejemplo 1</th>
-        <th>Ejemplo 2 ☑</th>
+        <th>Ejemplo 2 &#9745;</th>
         <th>Ejemplo 3</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Un comité de planificación de un taller redacta de manera colaborativa un documento que resume los resultados del taller. Recopilan los ORCID de todas las personas que participaron en el taller y los asientan en el documento. Finalmente, publican en una revista académica que automáticamente le asigna un DOI al artículo.</p>
+            <p>El comité organizador de un taller escribe en forma colaborativa un artículo que resume los resultados del encuentro. Para ello, recopila los ORCID iDs de todas las personas que participaron en el taller y los incluye en el artículo. Finalmente, se publica el artículo en una revista académica que asigna un DOI al texto de manera automática.</p>
         </td>
     </tr>
   </tbody>
@@ -142,101 +154,101 @@ Así de fácil debería ser para quienes lean tus artículos encontrar y utiliza
     <tr>
         <th>Ejemplo 1</th>
         <th>Ejemplo 2</th>
-        <th>Ejemplo 3 ☑</th>
+        <th>Ejemplo 3 &#9745;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Una persona que hace ciencia en comunidad se presenta en una conferencia en línea y da una breve charla. Ésta deposita sus diapositivas en un repositorio en línea, luego crea un DOI para facilitar su difusión entre colegas y propiciar su correcta citación.</p>
+            <p>Una persona que participa en ciencia ciudadana asiste a una conferencia en línea y ofrece una presentación breve. Luego deposita las diapositivas en un repositorio en línea y crea un DOI para facilitar que sus colegas accedan al material y puedan citarlo sin dificultad.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-## Herramientas útiles para la Ciencia Abierta
+## Herramientas útiles de Ciencia Abierta
 
 ### Metadatos
 
-Los metadatos son datos que describen tus datos, ya sea acompañando a tus datos como un archivo separado o incrustados en tus mismos archivos de datos. A menudo se utilizan para proporcionar un conjunto estándar de información general sobre un conjunto de datos (por ejemplo, cobertura temporal/espacial de los datos o información del proveedor de datos) para permitir un fácil uso e interpretación de los datos.
+Los metadatos son datos que describen otros datos. Pueden acompañar a los datos en un archivo separado o estar integrados en el propio archivo de datos. En general, los metadatos se utilizan para ofrecer un conjunto estándar de información general sobre un conjunto de datos (por ejemplo, información sobre la cobertura temporal o espacial de los datos o información sobre quien provee los datos) y favorecer así su uso e interpretación.
 
-Los metadatos son esenciales para la implementación de los principios FAIR porque permiten que los datos se puedan buscar en un archivo, proporcionan contexto para uso futuro y presentan un vocabulario estándar.
+Los metadatos son fundamentales para la implementación de los principios FAIR, porque hacen que los datos sean localizables en un archivo, aportan contexto para su uso futuro y presentan un vocabulario estándar.
 
-Los metadatos se pueden compartir más fácilmente que los datos: normalmente no contienen información restringida y son mucho más pequeños que el conjunto de datos completo.
+Los metadatos pueden compartirse más fácilmente que los datos. Por lo general, no contienen información restringida y son mucho más livianos que el conjunto de datos completo.
 
 ### Propósito de los metadatos
 
-Los metadatos pueden facilitar la evaluación de la calidad del conjunto de datos y el intercambio de datos respondiendo preguntas clave, como información sobre:
+Los metadatos pueden facilitar la evaluación de la calidad de un conjunto de datos y promover el intercambio de datos al responder preguntas clave, como la siguiente información:
 
-- Cómo se recolectaron y procesaron los datos.
-- Qué variables/parámetros se incluyen en el conjunto de datos.
-- Qué variables son y cómo están relacionadas.
-- Quién recolectó los datos (equipo científico, organización, etc.).
-- Cómo y dónde encontrar los datos (por ejemplo, DOI).
+- Cómo se recopilaron y procesaron los datos.
+- Qué variables o parámetros se incluyen en el conjunto de datos.
+- Qué representa cada variable y cómo se relacionan las variables entre sí.
+- Quién recopiló los datos (por ejemplo, el equipo científico, una organización y otros).
+- Cómo y dónde encontrar los datos (por ejemplo, el DOI).
 - Cómo citar los datos.
-- Qué región espacio-temporal / tiempo cubren los datos.
-- Toda información legal, pauta o estándar sobre los datos.
+- Qué región espacial y período temporal abarcan los datos.
+- Qué información legal, normativa o estándar se relaciona con los datos.
 
-Los metadatos mejoran la búsqueda y la accesibilidad de los datos y permiten que otras máquinas lean e interpreten los conjuntos de datos.
+Los metadatos mejoran la capacidad de búsqueda y la localización de los datos, y también pueden permitir que otros sistemas automáticos lean e interpreten conjuntos de datos.
 
-De acuerdo con [La Universidad de Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "Un estándar de metadatos es un documento de alto nivel que establece una manera común de estructurar y entender los datos, e incluye principios y problemas de implementación para utilizar el estándar."
+Según la Universidad de Pittsburgh, «un estándar de metadatos es un documento de alto nivel que establece una forma común de estructurar y comprender los datos, e incluye principios y cuestiones de implementación para utilizar el estándar». (University of Pittsburgh, s. f.)
 
-Existen muchos estándares para los campos y estructuras de metadatos para describir la información general de los datos. Es una buena práctica usar un estándar que se utiliza comúnmente en tu dominio, cuando sea aplicable, o que sea solicitado por tu repositorio de datos. Algunos ejemplos de estándares de metadatos para diferentes dominios incluyen:
+Existen muchos estándares para los campos y las estructuras de los metadatos que describen información general sobre los datos. Es una buena práctica emplear un estándar de uso habitual en el propio campo de trabajo, cuando sea aplicable, o el estándar que requiera el repositorio de datos seleccionado. Ejemplos de estándares de metadatos para distintos campos incluyen:
 
-- [Convenciones de metadatos de CF](https://cfconventions.org/)
-- [Organización Meteorológica Mundial WIS 2.0](https://community.wmo.int/en/activity-areas/wis/wis2-implementation)
-- [Grupo de trabajo de GeneLab](https://genelab.nasa.gov/awg/members)
+- [CF Metadata Conventions](https://cfconventions.org/) (enlace externo)
+- [World Meteorological Organization WIS 2.0](https://community.wmo.int/en/activity-areas/wis/wis2-implementation) (enlace externo)
+- [Grupo de trabajo GeneLab de la NASA](https://www.nasa.gov/osdr-genelab-about/)
 
-### Tipos de Metadatos
+### Tipos de metadatos
 
-Hay diferentes tipos/categorías de metadatos que abordan diferentes propósitos:
+Existen diferentes tipos o categorías de metadatos que responden a distintos propósitos:
 
- <table>
+<table>
   <thead>
     <tr>
-        <th>Metadatos Descriptivos ☑</th>
-        <th>Metadatos Estructurales</th>
-        <th>Metadatos Administrativos</th>
+        <th>Metadatos descriptivos &#9745;</th>
+        <th>Metadatos estructurales</th>
+        <th>Metadatos administrativos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los metadatos descriptivos pueden contener información sobre el contexto y el contenido de tus datos, tales como la definición de variables, limitación de datos, descripción de medición/muestreo, resumen, título y palabras claves del tema.</p>
+            <p>Los metadatos descriptivos pueden contener información sobre el contexto y el contenido de los datos, como la definición de las variables, las limitaciones de los datos, la descripción de las mediciones o del muestreo, el resumen, el título y las palabras clave temáticas.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
- <table>
+<table>
   <thead>
     <tr>
-        <th>Metadatos Descriptivos</th>
-        <th>Metadatos Estructurales ☑</th>
-        <th>Metadatos Administrativos</th>
+        <th>Metadatos descriptivos</th>
+        <th>Metadatos estructurales &#9745;</th>
+        <th>Metadatos administrativos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los metadatos estructurales se utilizan para describir la estructura de los datos (por ejemplo, el formato de archivo, la jerarquía del conjunto de datos y las dimensiones).</p>
+            <p>Los metadatos estructurales se utilizan para describir la estructura de los datos (por ejemplo, el formato de archivo, la jerarquía del conjunto de datos y sus dimensiones).</p>
         </td>
     </tr>
   </tbody>
 </table>
 
- <table>
+<table>
   <thead>
     <tr>
-        <th>Metadatos Descriptivos</th>
-        <th>Metadatos Estructurales</th>
-        <th>Metadatos Administrativos ☑</th>
+        <th>Metadatos descriptivos</th>
+        <th>Metadatos estructurales</th>
+        <th>Metadatos administrativos &#9745;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los metadatos administrativos explican la información utilizada para administrar los datos (por ej. cuándo y cómo fueron creados, el software y en qué versión fue usado para generarlos).</p>
+            <p>Los metadatos administrativos explican la información utilizada para gestionar los datos (por ejemplo, cuándo y cómo se crearon, qué software se usó y qué versiones de ese software se emplearon para crear los datos).</p>
         </td>
     </tr>
   </tbody>
@@ -244,14 +256,14 @@ Hay diferentes tipos/categorías de metadatos que abordan diferentes propósitos
 
 ### Documentación
 
-Documentar la producción y gestión de tu ciencia beneficia tanto a ti como a aquellos que puedan usar tus datos, código o resultados en el futuro. Tú eres tu mejor ayudante. La documentación puede salvarte de un dolor de cabeza si necesitas hacer referencia o reutilizar tu trabajo en seis meses o intentar recordar detalles meticulosos sobre el proceso más adelante. Los productos de investigación debidamente documentados incrementan su usabilidad.
+Documentar la producción y la gestión de la actividad científica beneficia tanto a quien realiza la investigación como a quienes podrían utilizar sus datos, código o resultados en el futuro. En este sentido, cada persona es su propio mejor colaborador. La documentación puede evitar muchos dolores de cabeza si es necesario consultar o reutilizar el propio trabajo seis meses después, o si resulta necesario recordar detalles minuciosos del proceso más adelante. Los productos de investigación bien documentados son más utilizables.
 
-Los tipos de documentación incluyen (muchos de los cuales serán ampliados más adelante en este plan de estudios):
+A continuación se enumeran tipos frecuentes de documentación, aunque muchos de estos elementos se desarrollarán más adelante en este programa:
 
- <table>
+<table>
   <thead>
     <tr>
-        <th>Datos ☑</th>
+        <th>Datos &#9745;</th>
         <th>Software</th>
         <th>Resultados</th>
     </tr>
@@ -259,13 +271,13 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
   <tbody>
     <tr>
         <td colspan="3">
-        <p>Resumen de los datos (por ejemplo, como un archivo README (en español, _LEEME_) o una guía de usuario) que responde preguntas como:</p>
+        <p>Resumen de los datos (por ejemplo, en un archivo README o guía de uso) que responda preguntas como las siguientes:</p>
         <ul>
-            <li>¿Cuáles son los errores conocidos para estos datos?</li>
-            <li>¿Cómo se pueden utilizar estos datos?</li>
-            <li>¿Cómo se recolectaron los datos?</li>
+            <li>¿Cuáles son los errores conocidos de estos datos?</li>
+            <li>¿Cómo pueden utilizarse estos datos?</li>
+            <li>¿Cómo se recopilaron los datos?</li>
         </ul>
-        <p>Publicaciones asociadas – ¿Cómo utilizaron otros equipos estos datos?</p>
+        <p>Publicaciones asociadas: ¿cómo se usaron estos datos en otros trabajos?</p>
         </td>
     </tr>
   </tbody>
@@ -275,17 +287,17 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
   <thead>
     <tr>
         <th>Datos</th>
-        <th>Software ☑</th>
+        <th>Software &#9745;</th>
         <th>Resultados</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Archivos README (en español, _LEEME_): Instrucciones básicas de instalación y uso.</p>
-            <p>Comentarios en el código: Anotaciones sobre componentes de código (o código comentado).</p>
-            <p>Notas de la versión: ¿Qué hay de nuevo en esta versión?</p>
-            <p>Publicaciones asociadas: ¿Cómo utilizaron otras personas este software?</p>
+            <p>Archivos README: instrucciones básicas de instalación y uso.</p>
+            <p>Comentarios dentro del código: anotaciones sobre distintos componentes del código.</p>
+            <p>Notas de publicación de versiones (release notes): qué hay de nuevo en cada versión.</p>
+            <p>Publicaciones asociadas: ¿cómo se utilizó este software en otros trabajos?</p>
         </td>
     </tr>
   </tbody>
@@ -296,14 +308,14 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
     <tr>
         <th>Datos</th>
         <th>Software</th>
-        <th>Resultados ☑</th>
+        <th>Resultados &#9745;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Publicaciones asociadas: ¿Cuál fue el proceso de investigación?</p>
-            <p>Paquetes de datos y software para la regeneración de resultados.</p>
+            <p>Publicaciones asociadas: ¿cómo fue el proceso de investigación?</p>
+            <p>Paquetes que incluyen datos y software necesarios para regenerar los resultados.</p>
         </td>
     </tr>
   </tbody>
@@ -311,36 +323,36 @@ Los tipos de documentación incluyen (muchos de los cuales serán ampliados más
 
 ### Repositorios
 
-Los repositorios son lugares de almacenamiento de datos, resultados, código y software compilado, que proporcionan la forma más común de compartir y encontrar cada uno de estos componentes. En general, se desea utilizar un repositorio a largo plazo que alojará y almacenará sus datos de forma independiente, asegurándose de que se comparten y conservan. Los diferentes tipos de repositorios sirven para diferentes propósitos. Por ejemplo, Zenodo actúa como un repositorio de archivos para versiones individuales de datos, software y publicaciones.
+Los repositorios son espacios de almacenamiento de datos, resultados, código y software compilado. Son el medio más habitual para compartir y encontrar cada uno de estos componentes. En general, se busca utilizar un repositorio de largo plazo que aloje y almacene los datos de manera independiente, y que garantice que se comparten y se preservan. Distintos tipos de repositorios cumplen funciones distintas. Por ejemplo, Zenodo funciona como repositorio de archivo para publicar versiones individuales de datos, software y publicaciones.
 
-Diferentes tipos de repositorios:
+Tipos de repositorios:
 
-- Repositorios generales
-- Repositorios específicos de dominios
-- Repositorios institucionales
-- Repositorios nacionales
+- Repositorios generales.
+- Repositorios específicos por disciplina.
+- Repositorios institucionales.
+- Repositorios nacionales.
 
-Las personas usuarias deben seleccionar los repositorios basados en sus necesidades. Mira las lecciones del resto de este módulo y los módulos 3-5 para más detalles.
+La elección del repositorio depende de las necesidades de uso. En el resto de esta lección y en los Módulos 3 a 5 se ofrecen más detalles.
 
-### Prerregistro
+### Pre-registro
 
-El prerregistro es el proceso mediante el cual una persona investigadora documenta sus planes de investigación en un formato de acceso abierto antes del inicio de un proyecto. Esto proporciona una prueba bloqueada y fechada del origen de un concepto. En la actualidad, el prerregistro es más ampliamente adoptado por ciertas disciplinas, en particular las ciencias sociales.
+El pre-registro es el proceso mediante el cual quien investiga documenta sus planes de investigación en un formato de acceso abierto antes de iniciar un proyecto. Esto proporciona una prueba bloqueada y con sello de tiempo sobre el origen de un concepto. Actualmente, el pre-registro está más extendido en algunas disciplinas, en particular en las ciencias sociales.
 
-Los tipos de prerregistro incluyen:
+Tipos de pre-registro:
 
 <table>
   <thead>
     <tr>
-        <th>Prerregistro estándar ☑</th>
-        <th>Reportes registrados</th>
-        <th>Reporte de replicación registrado</th>
-        <th>Compartir propuestas de subsidios</th>
+        <th>Pre-registro estándar &#9745;</th>
+        <th>Registered Reports</th>
+        <th>Registered Replication Report</th>
+        <th>Compartir propuestas de subsidio</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>El equipo investigador documenta sus planes por escrito y los envía a un servicio de prerregistro. Esto documenta los planes del equipo investigador antes de llevar a cabo la investigación y proporciona, tanto a los equipos de investigación como revisores, una manera de distinguir entre las hipótesis a priori y los análisis exploratorios post-hoc. El documento puede mantenerse en privado durante algún tiempo, pero normalmente se hace público cuando se envía el manuscrito para su publicación.</p>
+            <p>Una persona que investiga documenta sus planes por escrito y los envía a un servicio de pre-registro. Esto deja asentados sus planes antes de comenzar la investigación y ofrece a quienes investigan y a quienes evalúan el trabajo una forma de distinguir las hipótesis planteadas a priori de los análisis exploratorios realizados a posteriori. El documento puede mantenerse privado durante cierto período, pero suele hacerse público cuando se envía el manuscrito a una revista para su publicación.</p>
         </td>
     </tr>
   </tbody>
@@ -349,16 +361,16 @@ Los tipos de prerregistro incluyen:
 <table>
   <thead>
     <tr>
-        <th>Prerregistro estándar</th>
-        <th>Reportes registrados ☑</th>
-        <th>Reporte de replicación registrado</th>
-        <th>Compartir propuestas de subsidios</th>
+        <th>Pre-registro estándar</th>
+        <th>Registered Reports &#9745;</th>
+        <th>Registered Replication Report</th>
+        <th>Compartir propuestas de subsidio</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>El equipo investigador escribe un manuscrito que describe la motivación para un estudio y una descripción detallada de los métodos, y lo envía a una revista para la revisión por pares antes de emprender la investigación. El manuscrito es revisado en base a la importancia de la pregunta de investigación y la calidad de los métodos. Si se acepta, la revista acuerda publicar el artículo sin importar los resultados, suponiendo que no haya problemas con la implementación de los métodos.</p>
+            <p>Una persona que investiga redacta un manuscrito en el que describe la motivación de un estudio y detalla los métodos que utilizará, y lo envía a una revista para su revisión por pares antes de realizar la investigación. El manuscrito se evalúa en función de la importancia de la pregunta de investigación y la calidad de los métodos propuestos. Si se acepta, la revista se compromete a publicar el trabajo independientemente de los resultados, siempre que no haya problemas con la implementación de los métodos.</p>
         </td>
     </tr>
   </tbody>
@@ -367,16 +379,16 @@ Los tipos de prerregistro incluyen:
 <table>
   <thead>
     <tr>
-        <th>Prerregistro estándar</th>
-        <th>Reportes registrados</th>
-        <th>Reporte de replicación registrado ☑</th>
-        <th>Compartir propuestas de subsidios</th>
+        <th>Pre-registro estándar</th>
+        <th>Registered Reports</th>
+        <th>Registered Replication Report &#9745;</th>
+        <th>Compartir propuestas de subsidio</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Un tipo de reporte registrado en el que el equipo investigador desea intentar replicar un hallazgo publicado en particular, generalmente involucrando múltiples centros de investigación.</p>
+            <p>Un tipo de Registered Report en el que se busca replicar un resultado publicado en particular, por lo general con la participación de múltiples sitios de investigación.</p>
         </td>
     </tr>
   </tbody>
@@ -385,225 +397,242 @@ Los tipos de prerregistro incluyen:
 <table>
   <thead>
     <tr>
-        <th>Prerregistro estándar</th>
-        <th>Reportes registrados</th>
-        <th>Reporte de replicación registrado</th>
-        <th>Compartir propuestas de subsidios ☑</th>
+        <th>Pre-registro estándar</th>
+        <th>Registered Reports</th>
+        <th>Registered Replication Report</th>
+        <th>Compartir propuestas de subsidio &#9745;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Otra forma de documentar y fechar los planes de investigación y conceptos es compartir públicamente las propuestas de subsidios financiadas. Esto tiene el beneficio añadido de hacer que el proceso de financiación sea más transparente ofreciendo ejemplos de propuestas de subsidios exitosas para otros equipos de investigación, en particular los que se encuentran en su fase temprana de la carrera.</p>
+            <p>Otra forma de documentar y fechar en el tiempo los planes y conceptos de investigación es compartir públicamente propuestas de subsidio que hayan sido financiadas. Esto además hace más transparente el proceso de financiamiento y ofrece ejemplos de propuestas exitosas para otras personas, en particular quienes se encuentran en etapas tempranas de su carrera.</p>
         </td>
     </tr>
   </tbody>
 </table>
 
-### ¿Por qué es importante el prerregistro?
+### ¿Por qué es importante el pre-registro?
 
-- Fuerza al equipo investigador a planificar y considerar detalladamente por qué y cómo están siguiendo su pregunta de investigación.
-- Proporciona a la persona que investiga una manera de determinar si una hipótesis realmente se celebró a priori en lugar de confiar en la memoria.
-- Fuerza al equipo investigador a reflexionar sobre su plan de análisis con más detalle, lo que puede hacer surgir cuestiones que podrían influir en el diseño del estudio.
-- Ayuda a prevenir la manipulación no ética del análisis de los datos y el diseño de proyectos para obtener resultados estadísticamente relevantes.
-- Ayuda a evitar el reporte selectivo de resultados.
+- Obliga a planificar y reflexionar tanto sobre los motivos como sobre la forma de abordar una pregunta de investigación.
+- Ofrece una forma de determinar si una hipótesis fue planteada realmente a priori, en lugar de confiar en el propio recuerdo.
+- Invita a pensar con más detalle el plan de análisis, lo que puede permitir detectar cuestiones que influyan en el diseño del estudio.
+- Contribuye a prevenir la manipulación poco ética de los análisis y del diseño del proyecto para obtener resultados estadísticamente significativos.
+- Ayuda a evitar la presentación selectiva de medidas.
 
-### ¿Cuándo se puede/debe prerregistrar una investigación?
+### ¿Cuándo se puede o se debería pre-registrar una investigación?
 
-Una actividad de investigación planificada puede ser prerregistrada en cualquier momento, siempre y cuando la actividad particular que se registra no haya comenzado. Sin embargo, existen varios puntos en los que el registro es más común:
+De acuerdo con la guía de Ciencia Abierta del Departamento de Psicología de la Universidad de Stanford, una actividad de investigación planificada puede pre-registrarse en cualquier momento, siempre que la actividad concreta que se registra no haya comenzado. Sin embargo, hay momentos en los que el registro es más habitual:
 
-- Antes de la recolección de datos para un proyecto
-- Antes del análisis de un conjunto de datos existente o abiertamente disponible
+- Antes de recolectar datos para un proyecto nuevo.
+- Antes de analizar un conjunto de datos existente o disponible abiertamente.
 
-Fuente: [Registration — Guía para hacer Ciencia Abierta del departamento de Psicología de Stanford) (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_preregistration.html)
+(Stanford Psychology, s. f.)
 
-Una [encuesta de la revista *Nature* de 2023](https://www.nature.com/articles/s41467-023-41111-1) sobre actitudes de las personas que investigan hacia las prácticas científicas abiertas determinó que alrededor del 88% de las personas encuestadas están a favor de compartir datos o código en línea, mientras que sólo el 58% apoya el prerregistro. Este apoyo moderado al prerregistro entre las personas encuestadas sugiere que la conciencia de sus beneficios y la persistencia de las preocupaciones siguen siendo un problema. En la siguiente sección, presentaremos un método para elaborar estrategias sobre cómo implementar mejor la Ciencia Abierta desde el comienzo de un estudio hasta su fin.
+Una encuesta publicada en 2023 en la revista Nature sobre actitudes hacia prácticas de Ciencia Abierta mostró que alrededor del 88 % de quienes respondieron estaban a favor de compartir datos o código en línea, mientras que solo el 58 % apoyaba el pre-registro. (Ferguson et al., 2023) Este apoyo moderado al pre-registro sugiere que se reconocen sus beneficios, aunque siguen existiendo preocupaciones. En la próxima sección se presenta un método para pensar estrategias que permitan implementar la Ciencia Abierta de manera adecuada desde el inicio de un estudio y hasta su finalización.
 
-## Planes de Ciencia Abierta y Gestión de Datos
+## Planes de Ciencia Abierta y gestión de datos
 
-Para usar, hacer y compartir con éxito la ciencia abiertamente, necesitamos un Plan de Ciencia Abierta y Gestión de Datos (PCAGD).
+Para usar, producir y compartir ciencia de manera abierta de forma adecuada se necesita un plan de Ciencia Abierta y gestión de datos (OSDMP, por sus siglas en inglés).
 
-- Desde el día 1, establece un plan para la gestión, conservación y publicación de datos, software y resultados.
-- Este plan es tu guía para la Ciencia Abierta: consulta tu plan a menudo para asegurarte de tener éxito en tu objetivo de apertura.
+Desde el primer día de trabajo conviene establecer un plan para la gestión, la preservación y la publicación de datos, código y resultados.  
+Este plan es el plano de la Ciencia Abierta del proyecto. Conviene consultarlo con frecuencia para sostener el objetivo de apertura.  
+Cada componente (datos, código y resultados) se analiza cuando se trabaja en el módulo correspondiente.
 
-Discutiremos cada componente (datos, software y resultados) cuando cubramos cada tema.
+**Nota:** Muchas convocatorias de financiamiento (por ejemplo, NASA ROSES) exigen un OSDMP como parte de la propuesta. Para más información sobre los requisitos de la Dirección de Misiones Científicas (SMD) de la NASA, se puede consultar la página informativa [ROSES Open Science and Data Management Plan](https://science.nasa.gov/researchers/sara/faqs/osdmp/).
 
-**Nota: Muchas oportunidades de financiación (por ejemplo, NASA ROSES) requieren un PCAGD como parte de tu propuesta. Para obtener más información sobre las políticas del Directorio de Misión de Ciencia de la NASA (SMD's), por favor revisa la [Guía de la NASA sobre Planes de Administración](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) y la [Guía de Ciencia de Código Abierto para Investigadores.](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)**
+### Diseñar la ciencia para que sea abierta
 
-### Diseña tu ciencia para que sea abierta
+Organizaciones y agencias de financiamiento de todo el mundo empiezan a exigir planes de Ciencia Abierta. En este programa se hace foco en el Plan de Ciencia Abierta y Gestión de Datos de la NASA, aunque estos planes no son exclusivos de esa agencia. Saber redactar uno para la NASA prepara para enfrentar casi cualquier oportunidad de financiamiento.
 
-Organizaciones y agencias de financiamiento alrededor del mundo están empezando a exigir Plan de Ciencia Abierta y Gestión de Datos. En este plan de estudios, nos centraremos en el Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) (en inglés, _Open Science and Data Management Plan_, OSDMP). Los PCAGD no son exclusivos de la NASA. Sin embargo, saber cómo escribir uno para esta agencia debería prepararte para casi cualquier oportunidad de financiamiento.
+El OSDMP describe cómo se gestionará y se pondrá a disposición en forma abierta la información científica producida por las actividades de investigación. En concreto, un plan debería incluir secciones sobre gestión de datos, gestión de software y difusión de publicaciones. Si el estudio incluye otros tipos de productos, como muestras físicas, hardware u otros materiales, estos también deberían incorporarse al plan. Un OSDMP ayuda a pensar en detalle cómo se planea compartir los resultados.
 
-El PCAGD describe cómo se gestiona y se pone a disposición del público la información que se produce a partir de la actividad científica. Específicamente, un plan de estas características debe incluir secciones sobre gestión de datos, gestión de software y difusión de publicaciones. Si tu estudio tiene otros tipos de resultados, tales como muestras físicas, hardware o cualquier otra cosa, debes incluirlos en el plan. Un PCAGD ayuda a las personas investigadoras a pensar en los detalles sobre la forma en que planean compartir los resultados.
+Un OSDMP bien escrito puede ayudar a obtener financiamiento, porque demuestra la capacidad de trabajar con prácticas de Ciencia Abierta.
 
-¡Un PCAGD bien escrito puede ayudarte a obtener financiamiento porque demuestra tus habilidades para hacer Ciencia Abierta!
+[IMG: https://drive.google.com/file/d/1cnwft2os8RxvTofxUetfIQx-lq6XeX7r/view?usp=drive_link]
 
- <img src="../images/media/image24_es.jpg" style="width:100%;height:auto;" />
+Secciones de ejemplo para incluir en un OSDMP:
 
-Secciones de ejemplo para incluir en un PCAGD:
-
-1. Plan de Gestión de Datos (PGD) (en inglés, _Data Management Plan_, DMP)
-2. Plan de Gestión de Software (PGS) (en inglés, _Software Management Plan_, SMP)
-3. Difusión de Publicaciones
+1. Plan de gestión de datos (DMP)
+2. Plan de gestión de software (SMP)
+3. Plan de difusión de publicaciones
 4. Otras actividades de Ciencia Abierta
 5. Roles y responsabilidades
 
-Los pasos para cada una de estas secciones deben incluir:
+Los pasos para cada una de estas secciones deberían incluir:
 
-- ¿Qué?
-  - Descripción de los tipos de materiales que se producirán
-- ¿Cuándo?
-  - El cronograma para archivar y compartir
-- ¿Dónde?
-  - Los repositorios y archivos que se utilizarán para compartir los materiales
-- ¿Cómo?
-  - Los detalles sobre cómo se permite el reúso de materiales (por ejemplo, licencias, documentación, metadatos)
-- ¿Quién?
-  - Roles y responsabilidades de los miembros del equipo
+- ¿Qué?  
+  - Descripción de los tipos de materiales que se producirán.
 
-### Plan de Gestión de Datos
+- ¿Cuándo?  
+  - Cronograma para archivar y compartir.
 
-Las principales fundaciones y agencias de gobierno exigen en la actualidad que quienes investigan presenten un Plan de Gestión de Datos (PGD) junto con la propuesta de su plan de investigación. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y flujo de trabajo, que deben estar incluidos en el plan. Los PGD son un aspecto crítico de la Ciencia Abierta y ayudan a mantener a otras personas investigadoras informadas y encaminados durante todo el ciclo de la gestión de datos.
+- ¿Dónde?  
+  - Repositorios y archivos que se utilizarán para compartir materiales.
 
-Los PGD que tienen éxito suelen incluir una terminología clara sobre los principios FAIR y CARE y cómo se aplicarán.
+- ¿Cómo?  
+  - Detalles sobre la forma de habilitar la reutilización de materiales (por ejemplo, licencias, documentación, metadatos).
 
-El ciclo de vida de la gestión de datos es típicamente circular. Los datos de investigación son de gran valor y se pueden reutilizar mucho tiempo después de que finalice un proyecto. La reutilización de datos puede extenderse más allá de nuestra propia vida. Por lo tanto, al diseñar un proyecto o respaldar un corpus de datos existente, debemos ser conscientes de lo que sucede con los datos una vez finalizada nuestra propia relación con la investigación.
+- ¿Quién?  
+  - Roles y responsabilidades del equipo.
 
-Los Planes de Gestión de Datos suelen incluir lo siguiente:
+### Plan de gestión de datos
 
-- La descripción de los datos que se espera producir a partir de las actividades propuestas, incluyendo los tipos de datos que se producirán, la cantidad aproximada prevista para cada tipo de datos, el formato de lectura de los datos, el formato del archivo de datos y cualquier norma aplicable a los datos o metadatos asociados.
-- El repositorio (o repositorios) que se utilizará para archivar los datos y metadatos que surjan de las actividades y el cronograma para ponerlos a disposición del público.
-- Descripción de los tipos de datos que están sujetos a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos de intercambio.
-- Roles y responsabilidades del personal del proyecto que garantizará la implementación de los planes de gestión de datos.
+En la actualidad, toda gran fundación de investigación y toda agencia pública de financiamiento exigen que se presente un plan de gestión de datos (DMP) junto con el plan de investigación propuesto. Los datos y otros elementos, como el código y las publicaciones, tienen su propio ciclo de vida y su propio flujo de trabajo, que deben contemplarse en el plan. Los DMP son un aspecto crítico de la Ciencia Abierta y ayudan a mantener informadas a otras personas y a sostener el trabajo a lo largo del ciclo de vida de los datos.
 
-### Plan de Gestión de Software
+Los DMP que funcionan bien suelen incluir terminología clara sobre los principios FAIR y CARE y sobre la forma en que se aplicarán.
 
-Los Planes de Gestión de Software describen cómo se gestionará, publicará y preservará el software como parte del proceso científico. Esto ayuda a garantizar la transparencia y la reproducibilidad en el proceso científico. El Módulo 4 sobre Código Abierto incluye más detalles sobre la importancia de compartir código como parte del proceso científico.
+El ciclo de vida de la gestión de datos suele ser circular. Los datos de investigación son valiosos y reutilizables mucho después de que termina el financiamiento de un proyecto. La reutilización de datos puede extenderse más allá de la propia vida de quienes los generaron. Por lo tanto, al diseñar un proyecto o al sostener un corpus de datos existente, conviene tener en cuenta qué sucederá con esos datos cuando finalice la interacción directa con ellos.
 
-Componentes generales de un Plan de Gestión de Software:
+Los planes de gestión de datos suelen incluir lo siguiente:
 
-- Descripción del software.
-- Repositorio(s) y archivo(s) en los que se compartirá el software.
-- Pautas para compartir.
+- Descripciones de los datos que se espera producir a partir de las actividades propuestas, incluyendo tipos de datos, cantidad aproximada de cada tipo de datos, formato legible por computadora, formato de archivo y estándares aplicables a los datos o a los metadatos asociados.
+- Repositorio o repositorios que se utilizarán para archivar los datos y los metadatos derivados de las actividades, y cronograma previsto para ponerlos a disposición del público.
+- Descripción de los tipos de datos que están sujetos a leyes, regulaciones o políticas que los excluyen de los requisitos de publicación de datos.
+- Roles y responsabilidades del personal del proyecto que se encargará de implementar el plan de gestión de datos.
+
+### Plan de gestión de software
+
+Los planes de gestión de software describen cómo se gestionará, preservará y publicará el software y el código como parte del proceso científico. Esto contribuye a garantizar transparencia y reproducibilidad. El Módulo 4, «Código Abierto», ofrece más detalles sobre la importancia de compartir código como parte del proceso científico.
+
+Componentes generales de un plan de gestión de software:
+
+- Descripción del software o del código.
+- Repositorios y archivos donde se compartirá el software o el código.
+- Guías de uso compartido.
 - Roles y responsabilidades del personal.
-- Cualquier información destacable específica de la comunidad.
+- Información específica de la comunidad que sea relevante.
 
-Como mínimo, un Plan de Gestión de Software para investigaciones financiadas debe incluir:
+Como mínimo, un plan de gestión de software para investigaciones financiadas por la Dirección de Misiones Científicas (SMD) de la NASA debería incluir:
 
-- Descripción del software que se espera producir a partir de las actividades propuestas, incluidos los tipos de software que se producirán, la forma en que se desarrollará el software y la incorporación de nuevas funciones o actualizaciones al software existente. Se pueden incluir las plataformas utilizadas para todo lo vinculado con el desarrollo, la gestión del proyecto y las buenas prácticas basadas en la comunidad, como la documentación, las pruebas, las dependencias y el control de versiones.
-- El(los) repositorio(s) que se utilizarán para archivar el software que surja de las actividades y el cronograma para ponerlo a disposición del público.
-- Descripción del software que está sujeto a leyes, regulaciones o políticas relevantes que los excluyen de los requisitos para ser compartido.
-- Roles y responsabilidades del personal del proyecto que garantizará la implementación del plan de gestión de software.
+- Descripción del software o del código que se espera producir a partir de las actividades propuestas, incluyendo tipos de software, forma en que se desarrollará, incorporación de nuevas funcionalidades o actualizaciones de software existente. Esto puede incluir las plataformas utilizadas para el desarrollo, la gestión del proyecto y las buenas prácticas comunitarias que se adoptarán (como documentación, pruebas, dependencias y control de versiones).
+- Repositorios que se utilizarán para archivar el software o el código derivados de las actividades, y cronograma para ponerlos a disposición del público.
+- Descripción del software o del código que esté sujeto a leyes, regulaciones o políticas que lo excluyan de los requisitos de publicación de software.
+- Roles y responsabilidades del personal del proyecto que se encargará de implementar el plan de gestión de software.
 
 ### Plan de Ciencia Abierta
 
-El PCAGD también debe describir otros procesos abiertos. Esto incluye los tipos de publicaciones que se esperan producir a partir de las actividades, como ser los artículos revisados por pares, los informes técnicos, las publicaciones en conferencias y libros. Además, debe especificar los métodos que se esperan utilizar para que las publicaciones puedan ser accesibles al público.
+El OSDMP también debería describir otros procesos abiertos que formen parte del plan. Esto incluye los tipos de publicaciones que se espera producir a partir de las actividades, como manuscritos revisados por pares, informes técnicos, materiales de congresos y libros. El plan también debería presentar los métodos previstos para hacer que estas publicaciones estén disponibles al público.
 
-Asimismo, esta sección también puede incluir una descripción de las actividades adicionales de Ciencia Abierta asociadas con el proyecto. Esto puede comprender:
+Esta sección puede incluir además la descripción de actividades adicionales de Ciencia Abierta asociadas al proyecto. Por ejemplo:
 
-- Llevar a cabo talleres y reuniones científicas de forma abierta para permitir una amplia participación.
-- Prerregistrar planes de investigación antes de realizar una actividad científica.
-- Proporcionar al personal del proyecto capacitación o entrenamiento en Ciencia Abierta (si no se describe en otra parte de la propuesta).
-- Implementar prácticas que apoyen la inclusión de comunidades amplias y diversas en el proceso científico lo más cerca posible del inicio de las actividades de investigación (si no se describen en otra parte de la propuesta).
-- Integrar de prácticas de Ciencia Abierta en las actividades de ciencia ciudadana.
-- Contribuir o participar en comunidades de Ciencia Abierta.
+- Organización de talleres y reuniones científicas de manera abierta, para favorecer la participación amplia.
+- Pre-registro de planes de investigación antes de realizar actividades científicas.
+- Formación y apoyo en Ciencia Abierta para el personal del proyecto (si no se describe en otras partes de la propuesta).
+- Integración de prácticas de Ciencia Abierta en proyectos de ciencia ciudadana.
+- Contribuciones o participación en comunidades de Ciencia Abierta.
 
-### Plan de Publicaciones
+### Plan de publicaciones
 
-El Plan de Publicaciones es una pieza crucial del PCAGD. Dicho plan posee las siguientes características:
+Un plan de publicaciones es una pieza clave del OSDMP. Un plan de publicaciones debería incluir las siguientes características:
 
-- Describe cómo se gestionarán, publicarán y conservarán los resultados; en otras palabras, cómo se hará la difusión de los resultados.
-- Incluye la planificación de presentaciones en conferencias, documentos técnicos, artículos en revistas con evaluación de pares, libros y otros documentos similares.
-- Debe redactarse conforme a las normas y reglamentos de tu organización, así como de tu agencia de financiación.
-- Al igual que los planes de datos y software, sirve como marco fundamental para el proyecto de principio a fin.
+- Describe cómo se gestionarán, preservarán y publicarán los resultados, es decir, cómo se comunicarán los hallazgos.
+- Incluye planes para presentaciones en congresos, documentos técnicos, artículos revisados por pares, libros y otros tipos de materiales.
+- Se redacta respetando todas las normas y regulaciones tanto de la organización en la que se trabaja como de la entidad financiadora.
+- Al igual que los planes de datos y de software, sirve como marco de referencia para orientar el proyecto desde el inicio hasta el final.
 
-### Ejemplos de requerimientos para Planes de Gestión de Ciencia Abierta
+### Ejemplos de requisitos para planes de gestión de Ciencia Abierta
 
-Las organizaciones y agencias a nivel mundial están avanzando hacia la Ciencia Abierta y comienzan a exigir planes como requerimiento para el financiamiento. Aquí se presentan algunos de ellos:
+En todo el mundo, organizaciones y agencias avanzan hacia la Ciencia Abierta y comienzan a exigir planes como parte de la asignación de fondos. Algunos ejemplos:
 
 **Estados Unidos**
 
-- **NASA**
-  - [Plan de Ciencia Abierta y Gestión de Datos](https://science.nasa.gov/researchers/sara/faqs/osdmp/)
-- **NSF**
-  - [Plan de Gestión de Datos](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan)
-- **NIH**
-  - [Plan de Gestión e Intercambio de Datos](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
-- **NOAA**
-  - [Plan de Intercambio de Datos e Información](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
+- **NASA**  
+  - [Open Science and Data Management Plan](https://science.nasa.gov/researchers/sara/faqs/osdmp/)
 
-**INSTITUTOS GLOBALES**
+- **NSF**  
+  - [Data Management Plan](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan) (enlace externo)
 
-- **Australian Research Council (Consejo Australiano de Investigación)**
-  - [Plan de Gestión de Datos](https://www.arc.gov.au/about-arc/strategies/research-data-management)
-- **Requerimientos de Ciencia Abierta de la Unión Europea**
-  - [Ciencia Abierta en Horizonte Europeo](https://openscience.eu/Open-Science-in-Horizon-Europe)
-- **Wellcome Trust - Reino Unido**
-  - [Plan de Gestión de Resultados](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
-- **Korea's National Research Foundation (Fundación Nacional de Investigación de Corea)**
-  - [Guía DMP](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&amp;menu_no=53&amp;nts_no&amp;search_type=ALL&amp;search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&amp;page=90)
-- **Japan Science & Technology Agency (JST) (Agencia Japonesa de Ciencia y Tecnología)**
-  - [Acceso Abierto a publicaciones de investigación y gestión de datos de investigación](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
+- **NIH**  
+  - [Data Management and Sharing Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan) (enlace externo)
 
-Y recuerda, ¡la Ciencia Abierta tiene matices! Aunque uno de los principios de la Ciencia Abierta es compartir sus productos, no todos los productos pueden o deben compartirse. La organización o agencia de financiación puede especificar cómo los comparte. Al adoptar los principios de la Ciencia Abierta para un proyecto, considera si el tema y el enfoque de tu proyecto son adecuados para ser compartidos. Piensa en las siguientes preguntas:
+- **NOAA**  
+  - [Data and Information Sharing Plan (DISP)](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf) (enlace externo)
 
-- ¿Se pueden compartir los productos de la investigación?
-- ¿Quién te ayudó a obtener tus datos?
-- ¿Se beneficiarán de la divulgación?
-- ¿Quién tiene la responsabilidad y autoridad de lo que sucede con los datos?
-- ¿Deberían compartirse los productos de la investigación?
+**INSTITUCIONES DE OTROS PAÍSES**
 
-En los siguientes módulos encontrarás más detalles sobre cómo redactar los planes de datos, códigos y resultados.
+- **Australian Research Council**  
+  - [Data Management Plan](https://www.arc.gov.au/about-arc/strategies/research-data-management) (enlace externo)
 
-## Lección 2: Resumen 
+- **Requisitos de Ciencia Abierta de la Unión Europea**  
+  - [https://openscience.eu/Open-Science-in-Horizon-Europe](https://openscience.eu/Open-Science-in-Horizon-Europe) (enlace externo)
 
-En esta lección has aprendido:
+- **Wellcome Trust (Reino Unido)**  
+  - [(Output Management Plan)](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan) (enlace externo)
 
-- La definición de herramientas científicas, sus ejemplos más comunes y qué parte del proceso científico pueden ayudar.
-- La definición y el propósito de los identificadores persistentes. La utilidad de ORCID y DOI en el proceso científico.
-- Ejemplos de herramientas de Ciencia Abierta útiles y comunes, como metadatos, documentación, repositorios y prerregistro.
-- Los pasos para redactar un Plan de Ciencia Abierta y Gestión de Datos.
+- **Fundación Nacional de Investigación de Corea (NRF)**  
+  - [DMP Guideline](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&menu_no=53&nts_no&search_type=ALL&search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&page=90) (enlace externo)
 
-## Lección 2: Evaluación 
+- **Agencia de Ciencia y Tecnología de Japón (JST)**  
+  - [Open Access to Research Publications and Research Data Management](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf) (enlace externo)
 
-Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
+Y es importante recordar que la Ciencia Abierta es matizada. Aunque uno de sus principios es compartir los productos de investigación, no todos los productos pueden ni deben compartirse. La forma de compartirlos puede estar definida por la organización o la entidad financiadora. Al comenzar a adoptar la Ciencia Abierta en un proyecto, conviene considerar si el tema y el enfoque del trabajo permitirán compartir los productos. Es útil reflexionar sobre las siguientes preguntas:
 
-_Pregunta_
+- ¿Se pueden compartir los productos de investigación?
+- ¿Quién ayudó a obtener los datos?
+- ¿Las personas o comunidades involucradas se beneficiarán de la publicación de los datos?
+- ¿Quién tiene la responsabilidad o la autoridad sobre lo que ocurre con los datos?
+- ¿Se deberían compartir los productos de investigación?
+
+En los módulos siguientes se presentan más detalles sobre cómo redactar estos planes para datos, código y resultados.
+
+## Lección 2: Resumen
+
+En esta lección se vio:
+
+- La definición de herramientas científicas, ejemplos frecuentes y qué parte del flujo de trabajo científico pueden apoyar.
+- La definición y el propósito de los identificadores persistentes, así como la utilidad de los ORCID iDs y de los DOI en el proceso científico.
+- Ejemplos de herramientas útiles y habituales de Ciencia Abierta, como metadatos, documentación, repositorios y pre-registro.
+- Los pasos para redactar un plan de Ciencia Abierta y gestión de datos.
+
+## Lección 2: Evaluación de conocimientos
+
+Responder las siguientes preguntas para poner a prueba lo aprendido.
+
+*Pregunta*
 
 **01/03**
 
-¿En qué pueden ayudar las herramientas para la Ciencia Abierta?
+¿Con qué pueden ayudar las herramientas de Ciencia Abierta?
 
-- Descubrimiento
-- Escritura
-- Divulgación
-- Todas las anteriores
+- Descubrimiento  
+- Escritura  
+- Difusión  
+- Todas las anteriores  
 
-_Pregunta_
+*Pregunta*
 
 **02/03**
 
-Completa la afirmación:
+Completar la afirmación:
 
-_Unos metadatos adecuados y precisos _____._
+*Los metadatos buenos y claros ____.*  
 
-Selecciona todas las que correspondan.
+Seleccionar todas las opciones que correspondan.
 
-- Facilitan la búsqueda
-- Mejoran la accesibilidad
-- Mejoran la interoperabilidad
-- Mejoran la reutilización
-- Son una pérdida de tiempo
+- Mejoran la capacidad de localización  
+- Mejoran la accesibilidad  
+- Mejoran la interoperabilidad  
+- Mejoran la reutilización  
+- Son una pérdida de tiempo  
 
-_Pregunta_
+*Pregunta*
 
 **03/03**
 
-¿Cuáles son los componentes de un Plan de Gestión de Software? Selecciona todas las que correspondan.
+¿Cuáles son componentes de un Plan de gestión de software? Seleccionar todas las opciones que correspondan.
 
-- Descripción del Software
-- Repositorio(s) en el que se archivará el software
-- Pautas para compartir
-- Roles y responsabilidades del personal
-- Cualquier información destacable específica de la comunidad
-- Creación de un logo
+- Descripción del software o del código  
+- Repositorios en los que se archivará el software  
+- Guías de uso compartido  
+- Roles y responsabilidades del personal  
+- Cualquier información relevante específica de la comunidad  
+- Crear un logotipo  
+
+## Referencias citadas
+
+- Ferguson, J., Littman, R., Christensen, G. et al. Survey of open science practices and attitudes in the social sciences. Nat Commun 14, 5401 (2023). [https://doi.org/10.1038/s41467-023-41111-1](https://doi.org/10.1038/s41467-023-41111-1) (enlace externo)  
+- ORCID (2025). ORCID 2024 Annual Report. ORCID. Recurso en línea. [https://doi.org/10.23640/07243.28633913.v1](https://doi.org/10.23640/07243.28633913.v1) (enlace externo)  
+- ORCID. (s. f.). What are persistent identifiers (PIDs)?. [https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs) (enlace externo)  
+- Stanford Psychology. (s. f.). Pre-registration. Stanford Psychology Guide to Doing Open Science. [https://poldrack.github.io/psych-open-science-guide/1_preregistration.html](https://poldrack.github.io/psych-open-science-guide/1_preregistration.html) (enlace externo)  
+- University of Pittsburgh. (s. f.). Course & Subject Guides. University of Pittsburgh Library System. [https://pitt.libguides.com/metadatadiscovery/metadata-standards](https://pitt.libguides.com/metadatadiscovery/metadata-standards) (enlace externo)
