@@ -10,7 +10,7 @@
 
 ## Overview
 
-This lesson introduces you to the commonly used tools in open science. It starts out by providing a brief introduction to open science tools and describes persistent identifiers - one of the most common open science tools in use that ensures reproducibility, accessibility, and recognition of scientific products. This is followed by descriptions of other common open science tools that are applicable regardless of your field of study. The lesson wraps up with a description of open science and data management plans that is a key component to sharing your science throughout the research process.
+This lesson will introduce you to commonly-used tools in open science. For example, persistent identifiers are one of the most common open science tools in use, ensuring reproducibility, availability, and recognition of scientific products. This lesson will also go over descriptions of other common open science tools that can be applicable regardless of your field of study. Finally, you'll learn that open science and data management plans are a key component to sharing your science publicly and making it available throughout the research process.
 
 ## Learning Objectives
 
@@ -19,74 +19,75 @@ After completing this lesson, you should be able to:
 - Recall the definition of open science tools.
 - Describe what a persistent identifier is and state an example.
 - List a few commonly used open science tools that support research.
-- List the components of an Open Science and Data Management Plan and what they include.
-
+- List the components of an open science and data management plan and what they include.
 
 ## Introduction to Open Science Tools
 
-The word "tools" refers to any type of resource or instrument that can be used to support your research. In this sense, tools can be a collection of useful resources that you might consult during your research, software that you could use to create and manage your data, or even human infrastructure such as a community network that you join to get more guidance and support on specific matters.
+The word "tools" refers to any type of resource or instrument that can be used to support your research. In this sense, tools can be a collection of useful resources that you might consult during your research, software that you could use to create and manage your data, or even human infrastructure such as a community network that you can join to get more guidance and support on specific matters.
 
 In this context, open science tools are any tools that enable and facilitate openness in research, and support responsible open science practices. It is important to note that open science tools are often open source and/or free to use, but not always.
 
 Open science tools can be used for:
 - **Discovery** - Tools for finding content to use in your research.
-- **Analysis** - Tools to process your research output, e.g. tools for data analysis and visualization.
-- **Writing** - Tools to produce content, such as Data Management Plans, presentations, and preprints.
+- **Analysis** - Tools to process your research output (e.g. tools for data analysis and visualization).
+- **Writing** - Tools to produce content, such as data management plans, presentations, and preprints.
 - **Publications** - Tools to use for sharing and/or archiving research.
 - **Outreach** - Tools to promote your research.
 
-In this lesson, we introduce you to some of the most general open science tools such as persistent identifiers, metadata, documentation, and open science and data management plans. Regardless of the field of study, these tools and practices are some of the things that you will encounter as you use, make, or share your research. Read more about open science tools on [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html).
-
+In this lesson, we'll introduce you to some of the most general open science tools such as persistent identifiers, metadata, documentation, and open science and data management plans. Regardless of the field of study, these tools and practices are some of the things that you will encounter as you use, make, or share your research. Read more about open science tools on [OpenSciency](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html) (external link).
 
 ## Persistent Identifiers
 
-A digital persistent identifier (or "PID") is a “long-lasting reference to a digital resource” that is machine-readable and uniquely points to a digital entity, according to [ORCID](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-) examples of persistent identifiers used in science are described below.
+A digital persistent identifier (or "PID") is a "long-lasting reference to a digital resource" that is machine-readable and uniquely points to a digital entity, according to ORCID. (ORCID, n.d.) Examples of persistent identifiers used in science are described below.
 
 ### ORCID
 
 <img style="width:350px;height:auto;" src="../images/media/m2orcidlogo.jpg">
+Image Source: ORCID Logo - CC0 1.0
 
- An "Open Researcher and Contributor Identifier" (ORCID) provides valid information about a person. Following are some key details about ORCIDs. 
- 
- A free, nonproprietary numeric code that is:
+ ORCID stands for an "Open Researcher and Contributor IDentifier" and is designed to provide professional information about a person.
+
+ORCID iDs provide a free, nonproprietary numeric code that:
 
 - Uniquely and persistently identifies authors and contributors of scholarly communication.
-- Similar to tax ID numbers for tax purposes.
+- Used similarly to how tax ID numbers are used for tax purposes.
 
-ORCIDs are used to link Used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCIDs are meant to last throughout ones career, and helps to avoid confusion when information about a researcher changes over time (e.g. career change or name change). (cite: [https://orcid.org/](https://orcid.org/))
+ORCID iDs are used to link researchers to their research and research-related outputs. It is a 16-digit number that uniquely identifies researchers and is integrated with certain organizations (like some publishers) that will add research products (such as a published paper) to an individual's ORCID profile. ORCID iDs are meant to last throughout one's career, and helps to avoid confusion when information about a researcher changes over time (e.g. career change or name change).
 
-Many publishers, academic institutes, and government bodies support ORCID. In 2023, ORCID reported over 1,300 member organizations and over 9 million yearly live accounts. You can connect it with your professional information (affiliations, grants, publications, peer review, and more).
+Many publishers, academic institutes, and government bodies support ORCID. In 2024, ORCID reported over 1,400 member organizations and over 9 million yearly live accounts. (ORCID, 2025) You can connect it with your professional information such as affiliations, grants, publications, peer review, and more. Additional information and resources can be found on the [ORCID website](https://orcid.org/) (external link).
 
 ### Digital Object Identifiers (DOI)
 
-A DOI is a persistent identifier used to cite data, software, journal articles, and other types of media (including presentation slides, blog posts, videos, logos, etc.).
+A DOI is a persistent identifier used to cite data, software, journal articles, and other types of media including presentation slides, blog posts, videos, logos, etc.
 
 Unlike dynamic transient URLs, DOIs are static pointers to documents on the internet. Since a DOI is static, each new version of data or software that you want to cite will need a new DOI. Some DOI providers allow for one DOI to point to "all versions" and a series of individual DOIs for each specific version. Individuals cannot typically request a DOI themselves, but rather have to go through an authorized organization that can submit the request.
 
-Making a DOI for your product ensures its longevity! This means, if you cite a DOI in a research paper, you can be confident that future readers will be able to follow that citation to its source, even if websites have completely changed in the meantime.
+Making a DOI for your product ensures its longevity. This means, if you cite a DOI in a research paper, you can be confident that future readers will be able to follow that citation to its source, even if websites have completely changed in the meantime.
 
-For example, the DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) will always resolve to a web page that explains what the CERES_EBAF-TOA_Edition4.1 data set is and how to download it. (See the screenshot below if you’re curious what this dataset actually is!)
+For example, the DOI: [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org/10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1) (external link) will always resolve to a web page that explains what the CERES_EBAF-TOA_Edition4.1 dataset is and how to download it. See the screenshot below if you're curious what this dataset actually is!
 
-DOIs are provided and maintained by the International Organization for Standardization ([I SO](https://www.iso.org/home.html)): [https://www.doi.org/](https://www.doi.org/).
+DOIs were standardized by the [International Organization for Standardization (ISO)](https://www.iso.org/home.html) (external link) and are provided and maintained by the [International DOI Foundation](https://www.doi.org/) (external link).
 
 <img src="../images/media/image18.png" style="width:350px;height:auto;" />
+Image Source: DOI Foundation Logo - CC 4.0
 
 ### Citations Using DOIs
 
  <img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
+ASDC Citation Example [Screenshot]. (2023). Atmospheric Science Data Center. [https://asdc.larc.nasa.gov/](https://asdc.larc.nasa.gov/)
 
 DOIs make citing research products easier and more useful.
 
-Data repositories will typically instruct you on the exact way to cite their data, which includes the correct DOI. For example, let’s take a look at the CERES_EBAF-TOA_Edition4.1 data set mentioned above. This is an [example from the Atmospheric Science Data Center’s (ASDC) website](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
+Data repositories will typically instruct you on the exact way to cite their data, which includes the correct DOI. For example, let's take a look at the CERES_EBAF-TOA_Edition4.1 dataset mentioned above. The example above is from NASA's [Atmospheric Science Data Center (ASDC) website](https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1/citation).
 
 ### Activity 2.1: Find and Resolve a DOI
 
-In this activity, you will search for a DOI for a data set or piece of software that you use, and you will then use the DOI website to “resolve” the DOI name. By "resolving", this means that you will be taken to the information about the product designated by that particular DOI.
+In this activity, you will search for a DOI for a dataset or piece of code that you use, and you will then use the DOI website to “resolve” the DOI name. "Resolving" means being taken to the information about the product designated by that particular DOI.
 
 1. Find the DOI for a dataset or software you use often.
-   1. This should be listed either in the citation file, or in the website where that data/software is published.
+   1. This should be listed either in the citation file, or in the website where that data/code is published.
    2. If you can’t find a DOI, you can instead locate the DOI listed on this page: https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
-2. Go to https://www.doi.org/ and scroll down to the bottom of the page to "TRY
+2. Go to https://www.doi.org/ (external link) and scroll down to the bottom of the page to "TRY
 RESOLVING A DOI NAME".
 3. Copy and paste the DOI you found into the form called "TRY RESOLVING A DOI
 NAME".
@@ -95,7 +96,7 @@ NAME".
 
 **Activity Takeaways: Find and Resolve a DOI**
 
-This activity will vary depending on which DOI you choose to use. However, if you used the example presented, you should find the DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1
+This activity will vary depending on which DOI you choose to use. However, if you used the example presented, you should find the DOI: 10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1.
 
 And after step 5, you should end up back on the page https://asdc.larc.nasa.gov/project/CERES/CERES_EBAF-TOA_Edition4.1
 
@@ -117,7 +118,7 @@ This is how easy it should be for your readers to find and use your citation inf
   <tbody>
     <tr>
         <td colspan="3">
-            <p>The necessity for a persistent identifier (PID) begins when a researcher writes code. To make the code searchable, the researcher uploads their code to a repository and registers a DOI for their script. Now others can review and use the code, and cite it properly.</p>
+            <p>The necessity for a persistent identifier (PID) begins when a researcher writes code. To make the code searchable, the researcher uploads their code to a repository and registers a DOI for their script. Now others can review and use the code, and even cite it properly.</p>
         </td>
     </tr>
   </tbody>
@@ -134,7 +135,7 @@ This is how easy it should be for your readers to find and use your citation inf
   <tbody>
     <tr>
         <td colspan="3">
-            <p>A workshop planning committee collaboratively authors a paper that summarizes the results of a workshop. They collect the ORCIDs of everyone who participated in the workshop, and include them in the paper. Finally, they publish in an academic journal that automatically assigns the paper a DOI.</p>
+            <p>A workshop planning committee collaboratively authors a paper that summarizes the results of a workshop. They collect the ORCID iDs of everyone who participated in the workshop and include them in the paper. Finally, they publish in an academic journal that automatically assigns the paper a DOI.</p>
         </td>
     </tr>
   </tbody>
@@ -161,7 +162,7 @@ This is how easy it should be for your readers to find and use your citation inf
 
 ### Metadata
 
-Metadata are data that describe your data, either accompanying your data as a separate file or embedded in your data file. They are often used to provide a standard set of general information about a dataset (e.g., data temporal/spatial coverage or data provider information) to enable easy use and interpretation of the data.
+Metadata is data that describes your data, either accompanying your data as a separate file or embedded in your data file. They are often used to provide a standard set of general information about a dataset (e.g. data temporal/spatial coverage or data provider information) to enable easy use and interpretation of the data.
 
 Metadata is essential to the implementation of FAIR Principles because it makes data searchable in an archive, provides context for future use, and presents a standard vocabulary.
 
@@ -171,24 +172,24 @@ Metadata can be more readily shared than data - it usually does not contain rest
 
 Metadata can facilitate the assessment of dataset quality and data sharing by answering key questions, such as information about:
 
-- How data were collected and processed. 
+- How data was collected and processed.
 - What variables/parameters are included in the dataset.
 - What variables are and what variables are related to.
-- Who collected the data (science team, organization, etc.). 
-- How and where to find the data (e.g., DOI). 
+- Who collected the data (e.g. the science team, organization, and more).
+- How and where to find the data (e.g. DOI).
 - How to cite the data.
 - Which spatio-temporal region/time the data covers.
 - Any legal, guideline, or standard information about the data.
 
 Metadata enhances searchability and findability of the data by potentially allowing other machines to read and interpret datasets.
 
-According to  [The University of Pittsburgh](https://pitt.libguides.com/metadatadiscovery/metadata-standards), "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard."
+According to the University of Pittsburgh, "A metadata standard is a high level document which establishes a common way of structuring and understanding data, and includes principles and implementation issues for utilizing the standard." (University of Pittsburgh, n.d.)
 
 Many standards exist for metadata fields and structures to describe general data information. It is a best practice to use a standard that is commonly used in your domain, when applicable, or that is requested by your data repository. Examples of metadata standards for different domains include:
 
- - [CF Metadata Conventions](https://cfconventions.org/)
-- [World Meteorological Organization WIS 2.0](https://community.wmo.int/en/activity-areas/wis/wis2-implementation)
-- [GeneLab Working Group](https://genelab.nasa.gov/awg/members)
+- [CF Metadata Conventions](https://cfconventions.org/) (external link)
+- [World Meteorological Organization WIS 2.0](https://community.wmo.int/en/activity-areas/wis/wis2-implementation) (external link)
+- [NASA's GeneLab Working Group](https://www.nasa.gov/osdr-genelab-about/)
 
 ### Types of Metadata
 
@@ -205,7 +206,7 @@ There are different types/categories of metadata addressing different purposes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Descriptive metadata can contain information about the context and content of your data, such as variable definition, data limitation, measurement/ sampling description, abstract, title, and subject keywords.</p>
+            <p>Descriptive metadata can contain information about the context and content of your data, such as variable definition, data limitation, measurement/sampling description, abstract, title, and subject keywords.</p>
         </td>
     </tr>
   </tbody>
@@ -222,7 +223,7 @@ There are different types/categories of metadata addressing different purposes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Structural metadata are used to describe the structure of the data (e.g., file format, the dataset hierarchy, and dimensions).</p>
+            <p>Structural metadata is used to describe the structure of the data (e.g. file format, the dataset hierarchy, and dimensions).</p>
         </td>
     </tr>
   </tbody>
@@ -239,7 +240,8 @@ There are different types/categories of metadata addressing different purposes:
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Administrative metadata explains the information used to manage the data (e.g., when and how it was created, which software and the version of the software used in data creation).</p>
+            <p>Administrative metadata explains the information used to manage the data (e.g. when and how it was created, which software and the version of the software used in data creation).
+</p>
         </td>
     </tr>
   </tbody>
@@ -247,9 +249,9 @@ There are different types/categories of metadata addressing different purposes:
 
 ### Documentation
 
-Documenting the production and management of your science benefits both you and those that might use your data, code, or results in the future. You are your own best collaborator. Documentation can save you from a headache should you need to reference or reuse your work in six months or attempt to recall meticulous details about your process later on. Properly documented research products increase their usability.
+Documenting the production and management of your science benefits both you and those that might use your data, code, or results in the future. You are your own best collaborator. Documentation can save you from a headache should you need to reference or reuse your work in six months or attempt to recall meticulous details about your process later on. Properly-documented research products increase their usability.
 
-Types of documentation include (many of which will be expanded upon later in this curriculum):
+Types of documentation are listed below, but many of them will be expanded upon later in this curriculum:
 
  <table>
   <thead>
@@ -262,13 +264,13 @@ Types of documentation include (many of which will be expanded upon later in thi
   <tbody>
     <tr>
         <td colspan="3">
-        <p>Summary of the data (e.g., as a README file or user guide) that answers questions such as:</p>
+        <p>Summary of the data (e.g. as a README file or user guide) that answers questions such as:</p>
         <ul>
-            <li>What are known errors for these data?</li>
+            <li>What are known errors for this data?</li>
             <li>How can this data be used?</li>
-            <li>How were the data collected?</li>
+            <li>How was the data collected?</li>
         </ul>
-        <p>Associated publications – how did others use these data?</p>
+        <p>Associated publications – how did others use this data?</p>
         </td>
     </tr>
   </tbody>
@@ -315,7 +317,7 @@ Types of documentation include (many of which will be expanded upon later in thi
 
 ### Repositories
 
-Repositories are storage locations for data, results, code and compiled software, providing the most common way to share and find each of these components. In general, you want to use a long term repository that will independently host and store your data making sure that it is both shared and preserved. Different kinds of repositories serve different purposes. For example, Zenodo acts as an archiving repository for individual version releases of data, software, and publications.
+Repositories are storage locations for data, results, code, and compiled software. They provide the most common way to share and find each of these components. In general, you want to use a long-term repository that will independently host and store your data, making sure that it is both shared and preserved. Different kinds of repositories serve different purposes. For example, Zenodo acts as an archiving repository for individual version releases of data, software, and publications.
 
 Different types of repositories:
 
@@ -324,7 +326,7 @@ Different types of repositories:
 - Institutional repositories
 - National repositories
 
-Users should select repositories based on their needs. See the lessons in the rest of this module and Modules 3-5 for more details.
+Users should select repositories based on their needs. See the lessons in the rest of this module and Modules 3 through 5 for more details.
 
 ### Pre-registration
 
@@ -344,7 +346,7 @@ Types of Pre-Registration Include:
   <tbody>
     <tr>
         <td colspan="4">
-            <p>An investigator documents their plans in writing and submits them to a pre-registration service. This documents the researcher’s plans prior to undertaking the research, and provides investigators and reviewers with a way to distinguish a priori hypotheses from post-hoc exploratory analyses. The document may be kept private for some period of time, but is usually made public upon submission of the manuscript for publication.</p>
+            <p>An investigator documents their plans in writing and submits them to a pre-registration service. This documents the researcher's plans prior to undertaking the research, and provides investigators and reviewers with a way to distinguish a priori hypotheses from post-hoc exploratory analyses. The document may be kept private for some period of time, but is usually made public upon submission of the manuscript for publication.</p>
         </td>
     </tr>
   </tbody>
@@ -414,36 +416,34 @@ Types of Pre-Registration Include:
 
 ### When Can/Should One Pre-Register Their Research?
 
-A planned research activity can be pre-registered at any point, as long as the particular activity being registered has not started. However, there are several points at which registration is most common:
+According to the Stanford Psychology Guide to Doing Open Science, a planned research activity can be pre-registered at any point, as long as the particular activity being registered has not started. However, there are several points at which registration is most common:
 
-- Prior to the collection of data for a project
-- Prior to analysis of an existing or openly available dataset
+- Prior to the collection of data for a project.
+- Prior to analysis of an existing or openly available dataset.
 
-Source: [ Registration — Stanford Psychology Guide to Doing Open Science (poldrack.github.io)](https://poldrack.github.io/psych-open-science-guide/1_preregistration.html)
+(Stanford Psychology, n.d.)
 
-A 2023 [Nature survey](https://www.nature.com/articles/s41467-023-41111-1) on researcher attitudes towards open science practices found that about 88% of respondents favor sharing data or code online while only 58% support pre-registration. This moderate support for pre-registration among respondents suggests that awareness of its benefits and lingering concerns remain issues. In the next section, we introduce a method to strategize how to best implement open science from the beginning of a study to its end.
-
+A 2023 Nature survey on researcher attitudes towards open science practices found that about 88% of respondents favored sharing data or code online while only 58% supported pre-registration. (Ferguson et al., 2023) This moderate support for pre-registration among respondents suggests the awareness of its benefits, while lingering concerns remain issues. In the next section, we will introduce a method to strategize how to best implement open science from the beginning of a study to its end.
 
 ## Open Science and Data Management Plans
 
 To successfully use, make, and share science openly, we need an open science and data management plan (OSDMP).
 
-- From day 1, establish a plan for management, preservation, and release of data, software, and results.
-- This plan is your blueprint for open science - refer to your plan often to ensure you succeed in your goal of openness.
+From the first day, establish a plan for management, preservation, and release of data, code, and results.
+This plan is your blueprint for open science - refer to your plan often to ensure you succeed in your goal of openness.
+We'll discuss each component (data, code, & results) when we cover each topic.
 
-We'll discuss each component (data, software, & results) when we cover each topic.
-
-**Note: Many funding opportunities (e.g., NASA ROSES) require an OSDMP as part of your proposal. For more information on NASA Science Mission Directorate’s (SMD's) policies, please [see NASA Guidance on Management Plans](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf) and [Open Source Science Guidance for Researchers.](https://smd-cms.nasa.gov/wp-content/uploads/2023/07/smd-open-source-science-guidance-v2-20230407.pdf)**
+**Note: Many funding opportunities (e.g. NASA ROSES) require an OSDMP as part of your proposal. For more information on the NASA Science Mission Directorate's (SMD's) requirements, please see the [ROSES Open Science and Data Management Plan](https://science.nasa.gov/researchers/sara/faqs/osdmp/) information webpage.
 
 ### Design Your Science to be Open
 
-Funding organizations and agencies around the world are beginning to require open science plans. In this curriculum, we will focus on the NASA Open Science and Data Management Plan. These plans are not unique to NASA. Knowing how to write one for NASA should prepare you for almost any funding opportunity.
+Funding organizations and agencies around the world are beginning to require open science plans. In this curriculum, we will focus on the NASA Open Science and Data Management Plan, though these plans are not unique to NASA. Knowing how to write one for NASA should prepare you for almost any funding opportunity.
 
 The OSDMP describes how the scientific information that will be produced from scientific activities will be managed and made openly available. Specifically, a plan should include sections on data management, software management, and publication sharing. If your study has other types of outputs, such as physical samples, hardware, or anything else, you should include those in the plan. An OSDMP helps researchers think about the details of how they plan to share results.
 
-A well written OSDMP can help you win funding because it demonstrates your skills at doing open science!
+A well-written OSDMP can help you win funding because it demonstrates your skills at doing open science!
 
- <img src="../images/media/image24.png" style="width:100%;height:auto;" />
+[IMG: https://drive.google.com/file/d/1cnwft2os8RxvTofxUetfIQx-lq6XeX7r/view?usp=drive_link]
 
 Example sections to include in an OSDMP:
 
@@ -474,9 +474,9 @@ metadata)
 
 Every major research foundation and federal government agency now requires scientists to file a data management plan (DMP) along with their proposed research plan. Data and other elements such as code and publications have their own lifecycle and workflow, which need to be in the plan. DMPs are a critical aspect of open science and help keep other researchers informed and on track throughout the data management lifecycle.
 
-DMPs that are successful typically include a clear terminology about FAIR and CARE principles and how they will be applied.
+Successful DMPs typically include a clear terminology about FAIR and CARE Principles and how they will be applied.
 
-The data management lifecycle is typically circular. Research data are valuable and reusable long after the project's financial support ends. Data reuse can extend beyond our own lifetimes. Therefore, when designing a project or supporting an existing corpus of data, we need to remain cognizant of what happens to the data after our own research interaction ends.
+The data management lifecycle is typically circular. Research data is valuable and reusable long after the project's financial support ends. Data reuse can even extend beyond our own lifetimes. Therefore, when designing a project or supporting an existing corpus of data, we need to remain cognizant of what happens to the data after our own research interaction ends.
 
 Data management plans typically include the following:
 
@@ -487,42 +487,42 @@ Data management plans typically include the following:
 
 ### Software Management Plan
 
-Software management plans describe how software will be managed, preserved, and released as part of the scientific process. This helps ensure transparency and reproducibility in the scientific process. Module 4 on Open Code shares more details about the importance of sharing code as part of the scientific process.
+Software management plans describe how software and code will be managed, preserved, and released as part of the scientific process. This helps ensure transparency and reproducibility in the scientific process. Module 4, "Open Code," shares more details about the importance of sharing code as part of the scientific process.
 
 General components of a software management plan:
 
-- Description of the software.
-- Repository(ies) and archive(s) in which software will be shared.
+- Description of the software or code.
+- Repository(ies) and archive(s) in which software or code will be shared.
 - Sharing guidelines.
 - Personnel roles and responsibilities.
 - Any community-specific information of note.
 
-At a minimum, a software management plan for SMD-funded research should include:
-- Description of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software. This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning.
-- The repository(ies) that will be used to archive software arising from the activities and the schedule for making the software publicly available.
-- Description of software that are subject to relevant laws, regulations, or policies that exclude them from software sharing requirements.
+At a minimum, a software management plan for SMD-funded (NASA Science Mission Directorate) research should include:
+
+- Description of the software or code expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software. This can include the platforms used for development, project management, and community-based best practices to be included (such as documentation, testing, dependencies, and versioning).
+- The repository(ies) that will be used to archive software or code arising from the activities and the schedule for making the software publicly available.
+- Description of software or code that are subject to relevant laws, regulations, or policies that exclude them from software sharing requirements.
 - Roles and responsibilities of project personnel who will ensure implementation of the software management plan.
 
 ### Open Science Plan
 
-The OSDMP should also describe other open processes as part of the plan. This includes the types of publications that are expected to be produced from the activities, including peer reviewed manuscripts, technical reports, conference materials, and books. The plan should also outline the methods expected to be used to make the publications publicly accessible.
+The OSDMP should also describe other open processes as part of the plan. This includes the types of publications that are expected to be produced from the activities, including peer reviewed manuscripts, technical reports, conference materials, and books. The plan should also outline the methods expected to be used to make the publications publicly available.
 
 This section may also include a description of additional open science activities associated with the project. This may include:
 
 - Holding scientific workshops and meetings openly to enable broad participation.
 - Pre-registering research plans in advance of conducting scientific activities.
 - Providing project personnel with open science training or enablement (if not described elsewhere in a proposal).
-- Implementing practices that support the inclusion of broad, diverse communities in the scientific process as close to the start of research activities as possible (if not described elsewhere in a proposal).
 - Integrating open science practices into citizen science activities.
-- Contributions to or involvement in open-science communities.
+- Contributions to or involvement in open science communities.
 
 ### Publications Plan
 
- A plan for publications is a crucial piece of the OSDMP. A publications plan should include the following features:
+A plan for publications is a crucial piece of the OSDMP. A publications plan should include the following features:
 
 - Describes how results will be managed, preserved, and released - in other words, how you will communicate your findings.
-- Includes plans for conference talks, whitepapers, peer reviews journal articles, books, and other such documents.
-- Written in compliance with any rules and regulations within your organization, as well as from your funding source.
+- Includes plans for conference talks, whitepapers, peer-reviewed journal articles, books, and other such documents.
+- Written in compliance with any rules and regulations within your organization as well as from your funding source.
 - As with the data and software plans, it serves as a foundational framework for your project from start to finish.
 
 ### Examples of Requirements for Open Science Management Plans
@@ -533,41 +533,40 @@ Globally, organizations and agencies are moving towards open science and beginni
 - **NASA**
     - [Open Science and Data Management Plan](https://science.nasa.gov/researchers/sara/faqs/osdmp/)
 - **NSF**
-    - [Data Management Plan](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan)
+    - [Data Management Plan](https://new.nsf.gov/funding/data-management-plan#%3A~%3Atext%3DThe%20two-page%20data%20management%20plan%20is%20a%20required%2Coverview%20of%20requirements%20for%20the%20data%20management%20plan) (external link)
 - **NIH**
-    - [Data Management and Sharing Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
+    - [Data Management and Sharing Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan) (external link)
 - **NOAA**
-    - [Data and Information Sharing Plan (DISP)](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf)
+    - [Data and Information Sharing Plan (DISP)](https://oceanexplorer.noaa.gov/about/funding-opps/media/fy23-data-management-plan.pdf) (external link)
 
 **GLOBAL INSTITUTES**
 - **Australian Research Council**
-    - [Data Management Plan](https://www.arc.gov.au/about-arc/strategies/research-data-management)
+    - [Data Management Plan](https://www.arc.gov.au/about-arc/strategies/research-data-management) (external link)
 - **EU Open Science Requirements**
-    - [https://openscience.eu/Open-Science-in-Horizon-Europe](https://openscience.eu/Open-Science-in-Horizon-Europe)
+    - [https://openscience.eu/Open-Science-in-Horizon-Europe](https://openscience.eu/Open-Science-in-Horizon-Europe) (external link)
 - **UK Wellcome Trust**
-    - [(Output Management Plan)](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan)
+    - [(Output Management Plan)](https://wellcome.org/grant-funding/guidance/how-complete-outputs-management-plan) (external link)
 - **Korea's National Research Foundation (NRF)**
-    - [DMP Guideline](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&amp;menu_no=53&amp;nts_no&amp;search_type=ALL&amp;search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&amp;page=90)
+    - [DMP Guideline](https://www.nrf.re.kr/cms/board/general/view?nts_no=124731&menu_no=53&nts_no&search_type=ALL&search_keyword=%EC%97%B0%EA%B5%AC%EB%8D%B0%EC%9D%B4%ED%84%B0&page=90) (external link)
  - **Japan Science & Technology Agency (JST)**
-    - [Open Access to Research Publications and Research Data Management](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf)
+    - [Open Access to Research Publications and Research Data Management](https://www.jst.go.jp/EN/about/openscience/guideline_openscience_en_r4.pdf) (external link)
 
 And remember, open science is nuanced! Although one of the tenants of open science is to share your products, not all products can or should be shared. How you share them may be specified by your organization or funding agency. As you embark on adopting open science for a project, consider if the subject and approach to your project will allow for sharing. Think about the following questions:
 
 - Can the research products be shared?
 - Who helped you obtain your data?
 - Will they benefit from release?
-- Who has responsibility and/authority for what happens with the data?
+- Who has responsibility and/or authority for what happens with the data?
 - Should the research products be shared?
 
 More details on how to write these plans for data, code, and results are in the following modules.
-
 
 ## Lesson 2: Summary
 
 In this lesson, we learned:
 
 - The definition of science tools, common examples, and which part of the scientific workflow they can support.
-- The definition and purpose of persistent identifiers. The usefulness of ORCIDs and DOIs in the scientific process.
+- The definition and purpose of persistent identifiers, as well as the usefulness of ORCID iDs and DOIs in the scientific process.
 - Examples of useful and common open science tools such as metadata, documentation, repositories, and pre-registration.
 - The steps for writing an open science and data management plan.
 
@@ -608,9 +607,17 @@ Select all that apply.
  
  Which are the components of a Software Management Plan? Select all that apply.
 
--  Description of the software
+- Description of the software code
 - Repository(ies) in which software will be archived
 - Sharing guidelines
 - Personnel roles and responsibilities
 - Any community-specific information of note
 - Creating a logo
+
+## References Cited
+
+- Ferguson, J., Littman, R., Christensen, G. et al. Survey of open science practices and attitudes in the social sciences. Nat Commun 14, 5401 (2023). [https://doi.org/10.1038/s41467-023-41111-1](https://doi.org/10.1038/s41467-023-41111-1) (external link)
+- ORCID (2025). ORCID 2024 Annual Report. ORCID. Online resource. [https://doi.org/10.23640/07243.28633913.v1](https://doi.org/10.23640/07243.28633913.v1) (external link)
+- ORCID. (n.d.). What are persistent identifiers (PIDs)?. [https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs](https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs) (external link)
+- Stanford Psychology. (n.d.). Pre-registration. Stanford Psychology Guide to Doing Open Science. [https://poldrack.github.io/psych-open-science-guide/1_preregistration.html](https://poldrack.github.io/psych-open-science-guide/1_preregistration.html) (external link)
+- University of Pittsburgh. (n.d.). Course & Subject Guides. University of Pittsburgh Library System. [https://pitt.libguides.com/metadatadiscovery/metadata-standards](https://pitt.libguides.com/metadatadiscovery/metadata-standards) (external link)
