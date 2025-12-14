@@ -11,83 +11,88 @@
 
 ## Descripción general
 
-En esta lección aprenderás a descubrir, evaluar y citar un conjunto de Datos Abiertos. Empieza explorando los repositorios y aprendiendo sobre los problemas y consideraciones para buscar conjuntos de datos. Después, aprenderás a determinar si el conjunto de datos es adecuado para su uso y aprenderás qué revisar en la documentación, las licencias y los formatos de archivo. La lección concluye con una discusión sobre la importancia de citar los conjuntos de datos y cómo leer y seguir las instrucciones de citación.
+En esta lección aprenderás cómo descubrir, evaluar y citar un conjunto de datos abiertos. Conocer estas habilidades mejorará y acelerará de forma significativa tu proceso de investigación. Al explorar repositorios, también aprenderás sobre los problemas y consideraciones involucrados en la búsqueda de conjuntos de datos. Luego, podrás determinar si un conjunto de datos es adecuado para tu uso al aprender qué revisar en la documentación, las licencias y los formatos de archivo. Finalmente, la lección concluirá con una discusión sobre la importancia de citar conjuntos de datos, así como sobre cómo leer y seguir instrucciones de citación.
 
 ## Objetivos de aprendizaje
 
-Al finalizar esta lección deberías ser capaz de:
+Luego de completar esta lección, deberías poder:
 
-- Seleccionar fuentes de datos y usar técnicas de búsqueda para descubrir Datos Abiertos.
-- Evaluar si un conjunto de datos incorpora elementos de Acceso Abierto que garantizan que sean fácilmente reusados.
-- Explicar la importancia de citar Datos Abiertos, y encontrar y seguir las instrucciones de citación.
+- Seleccionar fuentes de datos y usar técnicas de búsqueda para descubrir datos abiertos.
+- Evaluar si un conjunto de datos incorpora elementos de acceso abierto que aseguren una reutilización sencilla.
+- Explicar la importancia de citar datos abiertos, y encontrar y seguir instrucciones de citación.
 
 ## Introducción
 
-Los Datos Abiertos no siempre son fáciles de usar en tu investigación. A veces hay varias versiones del mismo conjunto de datos, así que aprender a descubrir y evaluar y luego usar los Datos Abiertos te ayudará a ahorrar tiempo.
+Los datos abiertos no siempre son simples de usar en una investigación. A veces existen múltiples versiones del mismo conjunto de datos, por lo que aprender a descubrir, evaluar y luego usar datos abiertos te ayudará a ahorrar tiempo.
 
-Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Observatorio "Mauna Loa" en Hawaii. Se trata de un conjunto de datos fundacionales para el cambio climático. No sólo es uno de los primeros conjuntos de datos de observación que claramente mostraron impactos antropogénicos en la atmósfera de la Tierra, sino que también constituye el registro más largo de mediciones directas de dióxido de carbono en la atmósfera. Estas observaciones fueron iniciadas por el trabajo de C. David Keeling de la Institución de Oceanografía "Scripps" en marzo de 1958 en una instalación de la Administración Nacional Oceánica y Atmosférica \[Keeling, 1976\].
+Como ejemplo, observa los datos mensuales promedio de dióxido de carbono del Observatorio Mauna Loa en Hawái. Este conjunto de datos fundamental constituye el registro más extenso de mediciones directas de dióxido de carbono en la atmósfera terrestre. Estas observaciones fueron iniciadas por C. David Keeling del Scripps Institution of Oceanography en marzo de 1958 en una instalación de la National Oceanic and Atmospheric Administration. (Scripps CO2 Program, s. f.)
 
-<img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
+Fuente de la imagen: "Carbon Dioxide Concentration at Mauna Loa Observatory" por Scripps Institution of Oceanography en UC San Diego  
+Licencia CC BY 4.0
 
-Si deseas hacer este gráfico tú mismo, o usar los datos para algún otro fin, primero deberás encontrar los datos. Si buscas este conjunto de datos, o cualquier dato, es posible que encuentres varias fuentes diferentes. ¿Cómo decides qué datos usar?
+Si quisieras recrear esta figura por tu cuenta, o usar los datos para otro propósito, primero deberías encontrar los datos. Si buscas este conjunto de datos, o cualquier conjunto de datos, es probable que encuentres varias fuentes diferentes. ¿Cómo decides cuáles datos usar?
 
-Si comienzas con Google y buscas "datos de dióxido de carbono de Mauna Loa", encontrarás muchos resultados. Aquí se presentan algunos de ellos:
+Si comienzas con Google y buscas "Mauna Loa carbon dioxide data", encontrarás muchos resultados. Estos son solo algunos de ellos:
 
-<img src="../images/media/image20_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image20.png" style="width:100%;height:auto;" />
+- Primer crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide CO2" Dr. Xin Lan, NOAA/GML y Dr. Ralph Keeling Scripps Institution of Oceanography  
+- Segundo crédito de imagen: Modificado de "Carbon Dioxide Concentration at Mauna Loa Observatory" por Scripps Institution of Oceanography en UC San Diego, Licencia CC BY 4.0  
+- Tercer crédito de imagen: Modificado de Earth's CO2 Home Page por CO2.earth  
+- Cuarto crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide CO2" Dr. Xin Lan, NOAA/GML y Dr. Ralph Keeling Scripps Institution of Oceanography  
+- Quinto crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide" DATA HUB Open Data Commons Public Domain Dedication and License
 
-¿Cómo decidirás cuál usar? En esta lección cubriremos cómo encontrar, evaluar la relevancia y usar Datos Abiertos.
+¿Cómo decides cuál usar? En esta lección cubriremos cómo encontrar datos abiertos, evaluar su relevancia y luego usarlos en tu propio trabajo.
 
 ---
 
 ## Descubrir Datos Abiertos
 
-Los Datos Abiertos se pueden descubrir accediendo a los repositorios de datos, los portales de búsqueda y las publicaciones. Una gran variedad de estos recursos están disponibles. Un paso clave es identificar los términos de búsqueda adecuados para tu solicitud. Aprender la nomenclatura y los estándares específicos de la comunidad puede acelerar tu búsqueda.
+Los datos abiertos pueden descubrirse accediendo a repositorios de datos, portales de búsqueda y publicaciones. Existe una amplia variedad de estos recursos disponibles en línea. Un paso clave es identificar los términos de búsqueda apropiados para tu aplicación. Aprender la nomenclatura y los estándares específicos de una comunidad puede acelerar tu búsqueda, ahorrando tiempo y recursos valiosos.
 
-### Donde comenzar tu búsqueda
+### Dónde comenzar tu búsqueda
 
-Hay múltiples caminos para encontrar datos de investigación, y deberías tener práctica en todos.
+Existen múltiples caminos para encontrar datos de investigación, y deberías practicar todos ellos.
 
-<img src="../images/media/image21_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image21.png" style="width:100%;height:auto;" />
 
-### Personas que conoces (¡en línea o en persona!)
+### Personas que conoces (en línea o en persona)
 
-¿Cuál es la primera y mejor forma de encontrar los datos de investigación? Pregunta a tu comunidad, incluyendo a quien te asesora en la investigación, colegas, miembros del equipo y personas en línea. Conocer dónde encontrar datos fiables es tanto una habilidad y arte como cualquier técnica de laboratorio. Aprendes este juego de habilidades trabajando con profesionales de tu campo. No hay una sola fuente, ni un único método.
+¿Cuál es la primera y mejor forma de encontrar datos de investigación? Preguntar a tu comunidad. Esto incluye a tu director de investigación, colegas, miembros del equipo y personas en línea. Saber dónde encontrar datos confiables y de buena calidad es una habilidad tan importante como cualquier técnica de laboratorio. Esta habilidad se aprende trabajando con profesionales de tu campo. No existe una única fuente ideal ni un único método. Incluso puedes encontrar datos a partir de personas que no esperabas.
 
-<img src="../images/media/image22_es.jpeg" style="width:100%;height:auto;" />
-
-Fuente de la imagen: NASA, Hart Dominic 2023
+<img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
+Fuente de la imagen: NASA, Dominic Hart 2023
 
 ---
 
 ### Publicaciones
 
-Los conjuntos de datos a menudo se adjuntan a publicaciones especializadas en forma de material complementario. Los motores de búsqueda de publicaciones pueden permitir el descubrimiento de publicaciones relevantes que se pueden usar para encontrar datos de una publicación en particular.
+Los conjuntos de datos a menudo están asociados a publicaciones académicas en forma de material suplementario. Los motores de búsqueda de publicaciones pueden permitir el descubrimiento de artículos relevantes que luego puedes usar para encontrar los datos asociados a una publicación en particular.
 
 ### Portales de búsqueda de datos
 
-Los datos también se pueden encontrar usando una amplia variedad de portales de búsqueda, incluyendo:
+Los datos también pueden encontrarse utilizando una amplia variedad de portales de búsqueda, tales como:
 
-_Selecciona cada pestaña para obtener más información._
+*Selecciona cada pestaña para ver más información.*
 
 <table>
   <thead>
     <tr>
-        <th>PORTALES DE DATOS GENÉRICOS ☑</th>
-        <th>PORTALES DE BÚSQUEDA DE DATOS POR DISCIPLINA ESPECÍFICA</th>
-        <th>PORTALES NACIONALES E INTERNACIONALES DE DATOS</th>
+        <th>PORTALES GENERALES DE BÚSQUEDA DE DATOS &#9745;</th>
+        <th>PORTALES DE BÚSQUEDA DE DATOS ESPECÍFICOS POR DISCIPLINA</th>
+        <th>PORTALES DE BÚSQUEDA DE DATOS NACIONALES E INTERNACIONALES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los portales de búsqueda de datos genéricos permiten el descubrimiento de una gran variedad de datos. No están construidos para disciplinas específicas, sirven a un público más amplio. Este tipo de portal de búsqueda recolecta y hace que los datos sean fáciles de encontrar. No son fuentes de información científica. Se trata de servicios de agregación que hacen hincapié en la cantidad, no necesariamente de calidad. Aquí es donde las personas que hacen ciencia ciudadana suelen acudir para encontrar datos y, para los no profesionales, es una gran manera de involucrarse en la ciencia.</p>
-            <p>Los ejemplos incluyen:</p>
+            <p>Los portales generales de búsqueda de datos permiten descubrir una amplia variedad de datos. No están construidos para disciplinas específicas y sirven a una audiencia amplia. Este tipo de portal recopila información sobre datos y los hace encontrables. No son fuentes directas de datos científicos. Son servicios de agregación que enfatizan la cantidad, no necesariamente la calidad. Aquí es donde la ciencia ciudadana suele buscar datos, y es una excelente forma para que personas no profesionales se involucren en la ciencia.</p>
+            <p>Ejemplos incluyen:</p>
             <ul>
-                <li><a href="https://datasetsearch.research.google.com/">Google</a></li> 
-                <li><a href="https://www.kaggle.com/datasets">Kaggle</a></li>  
-                <li><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a></li>  
-                <li><a href="https://www.opendatanetwork.com/">Red de Datos Abiertos</a></li> 
-                <li><a href="https://github.com/awesomedata/awesome-public-datasets#readme">Impresionante conjunto de datos públicos</a></li>
+                <li><a href="https://datasetsearch.research.google.com/">Google</a> (enlace externo)</li>
+                <li><a href="https://www.kaggle.com/datasets">Kaggle</a> (enlace externo)</li>
+                <li><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a> (enlace externo)</li>
+                <li><a href="https://github.com/awesomedata/awesome-public-datasets#readme">Awesome Public Datasets</a> (enlace externo)</li>
             </ul>
         </td>
     </tr>
@@ -97,26 +102,26 @@ _Selecciona cada pestaña para obtener más información._
 <table>
   <thead>
     <tr>
-        <th>PORTALES DE DATOS GENÉRICOS</th>
-        <th>PORTALES DE DATOS ESPECÍFICOS POR DISCIPLINA ☑</th>
-        <th>PORTALES NACIONALES E INTERNACIONALES DE DATOS</th>
+        <th>PORTALES GENERALES DE BÚSQUEDA DE DATOS</th>
+        <th>PORTALES DE BÚSQUEDA DE DATOS ESPECÍFICOS POR DISCIPLINA &#9745;</th>
+        <th>PORTALES DE BÚSQUEDA DE DATOS NACIONALES E INTERNACIONALES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los portales de búsqueda de datos específicos de una disciplina permiten el descubrimiento de tipos específicos de datos. Generalmente, están diseñados para satisfacer las necesidades de esa comunidad.</p>
-            <p>Los ejemplos incluyen:</p>
+            <p>Los portales de búsqueda de datos específicos por disciplina permiten descubrir tipos específicos de datos. Generalmente están diseñados para satisfacer las necesidades de su comunidad.</p>
+            <p>Ejemplos incluyen:</p>
             <ul>
-                <li><a href="https://www.earthdata.nasa.gov/">Datos de la tierra de la NASA</a></li>
-                <li><a href="https://opendata.cern.ch/">CERN</a></li>
-                <li><a href="https://www.ncbi.nlm.nih.gov/">Centro Nacional de Información sobre Biotecnología NCBI</a></li>
-                <li><a href="https://www.ebi.ac.uk/">Instituto Europeo de Bioinformática</a></li>
-                <li><a href="https://www.icpsr.umich.edu/web/pages">ISPCR</a></li>
-                <li><a href="https://www.ncdc.noaa.gov/cdo-web/datasets">NOAA Climate Data Online</a></li>
-                <li><a href="https://earthexplorer.usgs.gov/">USGS EarthExplorer</a></li>
-                <li><a href="https://www.opensciencedatacloud.org/">Nube de Datos de Ciencia Abierta (OSDC)</a></li>
-                <li><a href="https://pds.nasa.gov/">Sistema de datos planetarios de la NASA</a></li>
+                <li><a href="https://www.earthdata.nasa.gov/">NASA Earthdata</a></li>
+                <li><a href="https://opendata.cern.ch/">CERN</a> (enlace externo)</li>
+                <li><a href="https://www.ncbi.nlm.nih.gov/">NCBI National Center for Biotechnology Information</a> (enlace externo)</li>
+                <li><a href="https://www.ebi.ac.uk/">EMBL European Bioinformatics Institute</a> (enlace externo)</li>
+                <li><a href="https://www.icpsr.umich.edu/web/pages">ICPSR</a> (enlace externo)</li>
+                <li><a href="https://www.ncdc.noaa.gov/cdo-web/datasets">NOAA Climate Data Online</a> (enlace externo)</li>
+                <li><a href="https://earthexplorer.usgs.gov/">USGS EarthExplorer</a> (enlace externo)</li>
+                <li><a href="https://www.opensciencedatacloud.org/">Open Science Data Cloud (OSDC)</a> (enlace externo)</li>
+                <li><a href="https://pds.nasa.gov/">NASA Planetary Data System</a></li>
             </ul>
         </td>
     </tr>
@@ -126,26 +131,24 @@ _Selecciona cada pestaña para obtener más información._
 <table>
   <thead>
     <tr>
-        <th>PORTALES DE DATOS GENÉRICOS</th>
-        <th>PORTALES DE DATOS ESPECÍFICOS POR DISCIPLINA</th>
-        <th>PORTALES NACIONALES E INTERNACIONALES DE DATOS ☑</th>
+        <th>PORTALES GENERALES DE BÚSQUEDA DE DATOS</th>
+        <th>PORTALES DE BÚSQUEDA DE DATOS ESPECÍFICOS POR DISCIPLINA</th>
+        <th>PORTALES DE BÚSQUEDA DE DATOS NACIONALES E INTERNACIONALES &#9745;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los portales de búsqueda de datos nacionales e internacionales permiten el descubrimiento de datos producidos o financiados por organizaciones nacionales e internacionales.</p>
-            <p>Los ejemplos incluyen:</p>
+            <p>Los portales de búsqueda de datos nacionales e internacionales permiten descubrir datos producidos por organizaciones nacionales e internacionales, o financiados por ellas.</p>
+            <p>Ejemplos incluyen:</p>
             <ul>
-            <li><a href="https://datos.bancomundial.org/">El Banco Mundial</a></li>
-            <li><a href="https://www.ine.gov.py/microdatos">Datos Abiertos de Paraguay</a></li>
-            <li><a href="https://data.europa.eu/es">Portal de datos de la UE</a></li>
-            <li><a href="https://dados.gov.br/">Portal de Datos Abiertos de Brasil (en portugués)</a></li>
-            <li><a href="https://data.gov/">Datos federales de EE.UU (en inglés)</a></li>
-            <li><a href="https://apps.who.int/gho/data/node.home">OMS (en inglés)</a></li>
-            <li><a href="https://www.data.gov.uk/">data.gov.uk (en inglés)</a></li>
-            <li><a href="https://data.unicef.org/">UNICEF (en inglés)</a></li>
-            <li><a href="https://www.data.gouv.fr/">Plataforma abierta para datos públicos franceses (en francés)</a></li>
+                <li><a href="https://data.gov/">Datos federales de Estados Unidos</a> (enlace externo)</li>
+                <li><a href="https://data.europa.eu/en">Portal de Datos de la Unión Europea</a> (enlace externo)</li>
+                <li><a href="https://apps.who.int/gho/data/node.home">Organización Mundial de la Salud (OMS)</a> (enlace externo)</li>
+                <li><a href="https://data.worldbank.org/">Banco Mundial</a> (enlace externo)</li>
+                <li><a href="https://www.data.gov.uk/">data.gov.uk</a> (enlace externo)</li>
+                <li><a href="https://data.unicef.org/">UNICEF</a> (enlace externo)</li>
+                <li><a href="https://www.data.gouv.fr/en/">Plataforma abierta de datos públicos de Francia</a> (enlace externo)</li>
             </ul>
         </td>
     </tr>
@@ -154,17 +157,17 @@ _Selecciona cada pestaña para obtener más información._
 
 ### Repositorios
 
-Una forma común de compartir y encontrar Datos Abiertos es a través de repositorios de datos. Muchos repositorios albergan Datos Abiertos con identificadores persistentes, licencias claras y directrices de citación, y metadatos estándar.
+Una forma común de compartir y encontrar datos abiertos es a través de repositorios de datos. Muchos repositorios alojan datos abiertos con identificadores persistentes, licencias claras, pautas de citación y metadatos estandarizados.
 
-Ten en cuenta que algunos de nuestros portales de búsqueda de ejemplo también son repositorios, pero no siempre. Algunos de los portales de búsqueda son simplemente catálogos de información sobre los datos, en lugar de ubicaciones de almacenamiento de los datos.
+Ten en cuenta que algunos de los portales de búsqueda de ejemplo también son repositorios, pero no siempre. Algunos portales de búsqueda son simplemente catálogos de información sobre los datos, en lugar de ser ubicaciones de almacenamiento de los datos en sí.
 
-_Selecciona cada pestaña para obtener más información._
+*Selecciona cada pestaña para ver más información.*
 
 <table>
   <thead>
     <tr>
-        <th>REPOSITORIOS GENERALES ☑</th>
-        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO</th>
+        <th>REPOSITORIOS GENERALES &#9745;</th>
+        <th>REPOSITORIOS ESPECÍFICOS POR DOMINIO</th>
         <th>REPOSITORIOS INSTITUCIONALES</th>
         <th>REPOSITORIOS NACIONALES</th>
     </tr>
@@ -172,15 +175,15 @@ _Selecciona cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los repositorios generales no están diseñados para una comunidad específica y son accesibles para todos.</p>
-            <p>Los ejemplos incluyen:</p>
+            <p>Los repositorios generales no están diseñados para una comunidad específica y son accesibles para cualquier persona.</p>
+            <p>Ejemplos incluyen:</p>
             <ul>
-            <li><a href="https://zenodo.org/">Zenodo</a></li>
-            <li><a href="https://data.mendeley.com/">Datos de Mendeley</a></li>
-            <li><a href="https://figshare.com/">Figshare</a></li>
-            <li><a href="https://datadryad.org/stash">Dryad</a></li>
+                <li><a href="https://zenodo.org/">Zenodo</a> (enlace externo)</li>
+                <li><a href="https://data.mendeley.com/">Mendeley Data</a> (enlace externo)</li>
+                <li><a href="https://figshare.com/">Figshare</a> (enlace externo)</li>
+                <li><a href="https://datadryad.org/stash">Dryad</a> (enlace externo)</li>
             </ul>
-            <p>Mira el <a href="https://fairsharing.org/collection/GeneralRepositoryComparison">cuadro comparativo de repositorios generalistas</a> - una herramienta para repositorios y guías adicionales. Dataverse también ha publicado (en inglés) una <a href="https://dataverse.org/blog/comparative-review-various-data-repositories">revisión comparativa</a> de ocho repositorios de datos.</p>
+            <p>Consulta el [Generalist Repository Comparison Chart](https://fairsharing.org/collection/GeneralRepositoryComparison) (enlace externo) como herramienta para explorar repositorios adicionales y obtener orientación. Dataverse también ha publicado una [revisión comparativa](https://dataverse.org/blog/comparative-review-various-data-repositories) (enlace externo) de ocho repositorios de datos.</p>
         </td>
     </tr>
   </tbody>
@@ -190,7 +193,7 @@ _Selecciona cada pestaña para obtener más información._
   <thead>
     <tr>
         <th>REPOSITORIOS GENERALES</th>
-        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO ☑</th>
+        <th>REPOSITORIOS ESPECÍFICOS POR DOMINIO &#9745;</th>
         <th>REPOSITORIOS INSTITUCIONALES</th>
         <th>REPOSITORIOS NACIONALES</th>
     </tr>
@@ -198,12 +201,12 @@ _Selecciona cada pestaña para obtener más información._
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los repositorios especializados (normalmente para datos de temas específicos) ofrecen apoyo e información sobre los estándares requeridos para metadatos y más.</p>
+            <p>Los repositorios especializados (generalmente para temas de datos específicos) brindan soporte e información sobre estándares requeridos para metadatos y otros aspectos.</p>
             <p>Algunos ejemplos son:</p>
             <ul>
-                <li>Astronomía: <a href="https://archive.stsci.edu/">Datos del telescopio Hubble</a></li>
-                <li>Biología del espacio: <a href="https://genelab.nasa.gov/">NASA GeneLab: Ciencia Abierta para la vida en el espacio</a></li>
-                <li>Física espacial: <a href="https://heliophysicsdata.gsfc.nasa.gov/websearch/dispatcher">Portal de Datos de Heliofísica - Buscador de productos de física solar espacial (nasa.gov)</a></li>
+                <li>Astronomía: <a href="https://archive.stsci.edu/">Datos del Hubble</a> (enlace externo)</li>
+                <li>Biología espacial: <a href="https://genelab.nasa.gov/">NASA GeneLab: Open Science for Life in Space</a></li>
+                <li>Física espacial: <a href="https://heliophysicsdata.gsfc.nasa.gov/websearch/dispatcher">Heliophysics Data Portal (NASA)</a></li>
             </ul>
         </td>
     </tr>
@@ -214,15 +217,15 @@ _Selecciona cada pestaña para obtener más información._
   <thead>
     <tr>
         <th>REPOSITORIOS GENERALES</th>
-        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO</th>
-        <th>REPOSITORIOS INSTITUCIONALES ☑</th>
+        <th>REPOSITORIOS ESPECÍFICOS POR DOMINIO</th>
+        <th>REPOSITORIOS INSTITUCIONALES &#9745;</th>
         <th>REPOSITORIOS NACIONALES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Muchas universidades y organizaciones apoyan la gestión de datos y de software de investigación con repositorios, conocidos como repositorios institucionales, para ayudar a las personas investigadoras con los requisitos que deben cumplir.</p>
+            <p>Muchas universidades y organizaciones apoyan la gestión de datos y software de investigación mediante repositorios, conocidos como repositorios institucionales, para ayudar a sus investigadores a cumplir con requisitos de políticas.</p>
         </td>
     </tr>
   </tbody>
@@ -232,173 +235,177 @@ _Selecciona cada pestaña para obtener más información._
   <thead>
     <tr>
         <th>REPOSITORIOS GENERALES</th>
-        <th>REPOSITORIOS DE DOMINIO ESPECÍFICO</th>
+        <th>REPOSITORIOS ESPECÍFICOS POR DOMINIO</th>
         <th>REPOSITORIOS INSTITUCIONALES</th>
-        <th>REPOSITORIOS NACIONALES ☑</th>
+        <th>REPOSITORIOS NACIONALES &#9745;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
         <td colspan="4">
-            <p>Los repositorios nacionales recopilan datos y los ponen a disposición del público.</p>
-            <p>Los datos almacenados en estos repositorios generalmente son producidos por el gobierno.</p>
-            <p>Los ejemplos incluyen:</p>
+            <p>Los repositorios nacionales agregan datos y los ponen a disposición del público.</p>
+            <p>Los datos almacenados en estos repositorios suelen ser producidos por gobiernos.</p>
+            <p>Ejemplos incluyen:</p>
             <ul>
-              <li><a href="https://data.europa.eu/es">https://data.europa.eu/es</a></li>
-              <li><a href="https://dados.gov.br/">https://dados.gov.br/</a> (en portugués) </li>  
-              <li><a href="https://data.gov/">https://data.gov/</a> (en inglés) </li>
+                <li>Suecia: <a href="https://snd.se/en">https://snd.se/en</a> (enlace externo)</li>
+                <li>Unión Europea: <a href="https://data.europa.eu/en">https://data.europa.eu/en</a> (enlace externo)</li>
+                <li>Australia: <a href="https://www.naa.gov.au/">https://www.naa.gov.au/</a> (enlace externo)</li>
             </ul>
         </td>
     </tr>
   </tbody>
 </table>
 
-### Desafíos de los repositorios de datos
+### Desafíos con repositorios de datos
 
-- Ningún repositorio, motor de búsqueda o buscador de publicaciones tendrá acceso a todos los Datos Abiertos disponibles.
-- Los términos de búsqueda pueden no ser consistentes en todas las fuentes o campos de la ciencia.
-- Es esencial familiarizarse con la nomenclatura estándar y con los términos de metadatos apropiados.
-- No existe una receta infalible. Es posible que debas probar numerosos términos y fuentes de datos antes de encontrar datos relevantes.
+- Ningún repositorio, motor de búsqueda o búsqueda en publicaciones tiene acceso a todos los datos abiertos disponibles.
+- Los términos de búsqueda pueden no ser consistentes entre distintas fuentes o campos científicos.
+- Es esencial familiarizarse con la nomenclatura estándar y los términos de metadatos apropiados para tu aplicación.
+- No existe una receta infalible. Puede que debas probar numerosos términos y fuentes de datos antes de encontrar datos relevantes.
 
-### Actividad 2.1: Descubrir Datos Abiertos</strong>
+### Actividad 2.1: Descubrir Datos Abiertos
 
-Unir el tipo de repositorio con la definición correcta.
+Relaciona el tipo de repositorio con la definición correcta.
 
-|                                     |                                                                |
-| ----------------------------------- | -------------------------------------------------------------- |
-| Repositorios generales              | Diseñados para todas las comunidades y de fácil acceso para todas las personas |
-| Repositorios específicos de dominio | Repositorios que habitualmente se destinan a datos específicos |
-| Repositorios institucionales        | Repositorios gestionados por universidades y organizaciones    |
-| Repositorios nacionales             | Repositorios financiados por el gobierno                       |
+|  |  |
+|---|---|
+| Repositorios generales | Diseñados para todas las comunidades y accesibles para cualquier persona |
+| Repositorios específicos por dominio | Repositorios que suelen ser para temas de datos específicos |
+| Repositorios institucionales | Repositorios apoyados por universidades y organizaciones |
+| Repositorios nacionales | Repositorios financiados por el gobierno |
 
-## Evaluar los Datos Abiertos
+## Evaluar Datos Abiertos
 
-<img src="../images/media/image24_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image24.png" style="width:100%;height:auto;" />
+Crédito: NASA
 
-El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reúso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales para evaluar la pertinencia y utilidad de los conjuntos de datos son (adaptado del [curso GODAN Action Open Data, en inglés](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)):
+El uso de datos abiertos para tu proyecto depende de varios factores, incluyendo la calidad de los datos, las condiciones de acceso y reutilización, la encontrabilidad de los datos y otros aspectos. Algunos elementos esenciales (adaptados de un curso de gestión de datos abiertos creado por GODAN Action) que te permiten evaluar la relevancia y usabilidad de los conjuntos de datos incluyen:
 
 **Preguntas prácticas**
 
-- ¿Están bien descritos los datos?
-- ¿Es clara la razón por la que se recogen los datos? ¿Es claro el uso que hace el editor de los datos?
-- ¿Existen otros usos de los datos descritos?
-- ¿Son accesibles los datos?
-- ¿Los datos están actualizados o tienen fecha?
-- ¿Estarán disponibles los datos durante al menos un año?
-- ¿Se actualizarán los datos periódicamente?
+- ¿Los datos están bien descritos?
+- ¿Está claro el motivo por el cual se recolectaron los datos? ¿Está claro el uso que el publicador hace de los datos?
+- ¿Se describen otros usos existentes de los datos?
+- ¿Los datos son accesibles?
+- ¿Los datos tienen marcas temporales o están actualizados?
+- ¿Los datos estarán disponibles por al menos un año?
+- ¿Los datos se actualizarán regularmente?
 - ¿Existe un proceso de control de calidad?
 
 **Preguntas técnicas**
 
-- ¿Están disponibles los datos en un formato adecuado al contenido?
-- ¿Se dispone de los datos desde una ubicación consistente?
-- ¿Están los datos bien estructurados y pueden ser leídos de manera automatizada?
-- ¿Se describen los términos y acrónimos complejos que aparecen en los datos?
-- ¿Usan los datos un esquema o estándar de datos?
-- ¿Hay alguna API disponible para acceder a los datos?
-- ¿Qué herramientas o programas informáticos se necesitan para usar estos datos?
+- ¿Los datos están disponibles en un formato apropiado para su contenido?
+- ¿Los datos están disponibles desde una ubicación consistente?
+- ¿Los datos están bien estructurados y son legibles por máquinas?
+- ¿Los términos complejos y acrónimos están definidos?
+- ¿Los datos usan un esquema o estándar de datos?
+- ¿Existe una API disponible para acceder a los datos?
+- ¿Qué herramientas o software se necesitan para usar estos datos?
 
-**Preguntas Sociales**
+**Preguntas sociales**
 
-- ¿Existe una comunidad de usuarios de los datos?
-- ¿Se trata de datos en los que ya confía un gran número de personas?
-- ¿Están los datos respaldados oficialmente?
-- ¿Existen acuerdos de nivel de servicio para los datos?
-- ¿Está claro quién mantiene los datos y con quién se debe contactar?
+- ¿Existe una comunidad de usuarios que ya use estos datos?
+- ¿Los datos ya son utilizados por un número grande de personas?
+- ¿Los datos tienen soporte oficial?
+- ¿Existen acuerdos de nivel de servicio disponibles para los datos?
+- ¿Está claro quién mantiene los datos y a quién se puede contactar?
 
-Fuente: [Mooc de Datos Abiertos en agricultura y nutrición de GODAN Action (en inglés)](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance)
+(GODAN Action, s. f.)
 
-Muchas de estas preguntas pueden responderse consultando la documentación y los metadatos de un conjunto de datos, así como su formato y licencia, aspectos que se tratarán con más detalle en la próxima lección "Hacer Datos Abiertos".
+Muchas de estas preguntas pueden responderse revisando la documentación y los metadatos de un conjunto de datos, así como su formato y licencia, todos temas que se discutirán con mayor profundidad en la Lección 3, "Producir Datos Abiertos".
 
 ## Usar Datos Abiertos
 
-### La importancia citar
+### La importancia de la citación
 
-Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas o reconocimientos. Si una persona investigadora puede confiar en que su trabajo será citado y usado para impulsar el desarrollo de la ciencia, la idea de abrir los datos resulta más atractiva y beneficiosa para ambas partes. Se recomienda el uso de prácticas de citación estándar para garantizar el debido reconocimiento.
+Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas o reconocimiento. Si un investigador puede confiar en que su trabajo será citado y usado para avanzar la ciencia, la idea de hacer que los datos sean abiertos resulta más atractiva y mutuamente beneficiosa. Se recomienda el uso de prácticas estándar de citación para asegurar que se otorgue el crédito correspondiente.
 
-Citar los datos también contribuye a la transparencia del uso que se hace de ellos. Al citar los datos, las personas autoras originales y los nuevos equipos de investigación pueden seguir fácilmente cómo se usan los datos para responder a diferentes preguntas.
+Las citas de datos también contribuyen a la transparencia sobre cómo se usan los datos. Al citar datos, autores originales y nuevos investigadores pueden rastrear fácilmente cómo se usan los datos para responder distintas preguntas.
 
-### Revisar las pautas de citación
+### Revisar pautas de citación
 
-Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La cita suele incluir:
+Muchos conjuntos de datos y repositorios explican cómo prefieren ser citados. La información de citación suele incluir:
 
-- Las personas autoras y sus instituciones
+- Autores y sus instituciones
 - Título
-- ORCID
+- ORCiD
 - DOI
 - Versión
 - URL
 - Fecha de creación
-- También se pueden especificar campos adicionales
+- También pueden especificarse campos adicionales
 
-<img src="../images/media/image25_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image25.jpeg" style="width:100%;height:auto;" />
+Archivo CITATION.cff simple [Captura de pantalla] GitHub (https://github.com/) (enlace externo)
 
-Este es un sencillo ejemplo de archivo CITATION.cff. Fuente: [GitHub](https://github.com/)
+Como mínimo, la mayoría de los conjuntos de datos requieren que se incluyan los productores de los datos, el nombre del archivo o repositorio que aloja los datos, el nombre del conjunto de datos, la fecha del conjunto de datos y el DOI al citar datos.
 
 ---
 
-La mayoría de los conjuntos de datos exigen (como mínimo) que al citarlos se indique la persona responsable de los datos, el nombre del archivo que los alberga, el nombre del conjunto de datos, la fecha del conjunto de datos y el DOI.
-
 ### Citar Datos Abiertos: Ejemplos
 
-**Ejemplo de un Centro de Archivo Activo Distribuido (DAAC) de la NASA**
+**Ejemplo de un NASA Distributed Active Archive Center (DAAC)**
 
-Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted,version 001, Greenbelt, Maryland, USA:Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed on July 12th, 2018 at doi:10.5067/83NO2QDLG6M0
+Matthew Rodell y Hiroko Kato Beaudoing, NASA(GSFC)(HSL) (16.08.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted, versión 001, Greenbelt, Maryland, Estados Unidos: Goddard Earth Sciences Data and Information Services Center (GES DISC), Accedido el 12 de julio de 2018 en doi:10.5067/83NO2QDLG6M0
 
-**Ejemplo del Sistema de Datos Planetarios (SDP)** de la NASA
+**Ejemplo del NASA Planetary Data System (PDS)**
 
-Justin N. Maki. (2004). MER 1 MARS MICROSCOPIC IMAGER RADIOMETRIC
-
-RDR OPS V1.0 [Conjunto de datos]. Sistema de datos planetarios de la NASA. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
+Justin N. Maki. (2004). MER 1 MARS MICROSCOPIC IMAGER RADIOMETRIC  
+RDR OPS V1.0 [Conjunto de datos]. NASA Planetary Data System. [https://doi.org/10.17189/1520416](https://doi.org/10.17189/1520416)
 
 ## Lección 2: Resumen
 
-Conclusiones principales de esta lección:
+Los siguientes son los principales aprendizajes de esta lección:
 
-- Los datos relevantes pueden encontrarse en diversos lugares y puede ser necesario recurrir al método de ensayo y error para encontrarlos.
-- Es necesario evaluar cuidadosamente los datos antes de usarlos.
-- Citar los datos es importante cuando son usados.
+- Los datos relevantes pueden encontrarse en una variedad de ubicaciones y pueden requerir prueba y error para hallarlos. Usa repositorios en línea o conversa con colegas de la comunidad para comenzar.
+- Evalúa cuidadosamente los datos antes de usarlos en tu proyecto. Asegúrate de que los datos sean reutilizables, relevantes para tu trabajo y provenientes de una fuente confiable.
+- La citación de datos es importante al usar datos, para otorgar el crédito adecuado a quienes investigan.
 
-## Lección 2: Evaluación
+## Lección 2: Autoevaluación
 
-Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
+Responde las siguientes preguntas para evaluar lo que aprendiste hasta ahora.
 
-_Pregunta_
+*Pregunta*
 
 **01/03**
 
-¿Cuál o cuáles de los siguientes métodos pueden usarse para encontrar datos?
+¿Cuál de los siguientes métodos puede usarse para descubrir datos?
 
-- Uso de términos de búsqueda apropiados
+- Usar términos de búsqueda apropiados
 - Investigar datos identificados por DOI en publicaciones
-- Identificar los repositorios de datos relevantes
+- Identificar repositorios de datos relevantes
 - Todas las anteriores
 
-_Pregunta_
+*Pregunta*
 
 **02/03**
 
-¿Cuál o cuáles de los siguientes son puntos a considerar al evaluar si se puede usar un conjunto de datos?
+¿Cuáles de las siguientes son preguntas a considerar al evaluar si un conjunto de datos puede usarse?
 
-- ¿Están bien descritos los datos?
-- ¿Están los datos bien estructurados y pueden ser leídos de manera automatizada?
-- ¿Existe una comunidad de personas usuarias de los datos?
-- ¿Qué herramientas o programas informáticos se necesitan para usar estos datos?
-- ¿Se actualizarán los datos periódicamente?
-- ¿Es claro el uso que hace el editor de los datos?
+- ¿Los datos están bien descritos?
+- ¿Los datos están bien estructurados y son legibles por máquinas?
+- ¿Existe una comunidad de usuarios que ya use estos datos?
+- ¿Qué herramientas o software se necesitan para usar estos datos?
+- ¿Los datos se actualizarán regularmente?
+- ¿Está claro el uso que el publicador hace de los datos?
 - Todas las anteriores
 
-_Pregunta_
+*Pregunta*
 
 **03/03**
 
-¿Qué información se encuentra comúnmente en una cita?
+¿Qué información se encuentra comúnmente en un archivo de citación?
 
-- Los autores y sus instituciones
+- Autores y sus instituciones
 - Título
-- ORCID
+- ORCiD
 - DOI
 - Versión
 - URL
 - Fecha de creación
 - Todas las anteriores
+
+### Referencias citadas
+
+- GODAN Action. (s. f.). Lesson 2.2: Quality and provenance. GODAN Action Open Data Management in Agriculture and Nutrition Course. [https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance](https://aims.gitbook.io/open-data-mooc/unit-3-using-open-data/lesson-2.2-quality-and-provenance) (enlace externo)
+- Scripps CO2 Program. (s. f.). University of California San Diego. [https://scrippsco2.ucsd.edu/](https://scrippsco2.ucsd.edu/) (enlace externo)
