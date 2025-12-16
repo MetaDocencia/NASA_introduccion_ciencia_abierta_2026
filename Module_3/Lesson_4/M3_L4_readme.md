@@ -12,25 +12,25 @@
 
 ## Overview
 
-In this lesson, you learn about the practice of sharing your data. The discussion starts with a review of the sharing process and how to evaluate if your data are sharable. Next, you take a look at ensuring your data is accessible with a closer look at repositories and the lifecycle of data accessibility from the selecting a repository to maintaining and archiving your data. The lesson then discusses some steps to make the data as reusable as possible, and concludes with a section about considering who will help with the data sharing process.
+In this lesson, you will learn the best practices for sharing your data with a larger audience. When should you share data, and should you share it? You'll have a refresher on the sharing process and how to evaluate if your data is sharable. Next, you will learn how to ensure your data is publicly available through a lesson on repositories and the lifecycle of data accessibility. From selecting a repository to archiving your data, these practices will make sure that your data can be maintained and searchable. Then, you will go over the steps to make your data as reusable as possible, concluding with a section about considering who will help with the data sharing process.
 
 ## Learning Objectives
 
 After completing this lesson, you should be able to:
 
-- Recognize institutional variables, issues of security, and timing that affect your decision to share data.
+- Recognize that institutional variables, issues of security, and timing can ultimately affect your decision to share data.
 - Recall the features, inherent responsibilities, funding considerations, and sponsor requirements that researchers should consider when selecting a repository to share data.
-- Describe the tools and list some best practices that optimize the shareability of data.
+- Describe the tools and some best practices that optimize the shareability of data.
 
 ## Data Sharing Process Overview
 
-Sharing data is a critical part of increasing reproducibility of results. Whether it's new data we collect ourselves or data that we process in order to do our analysis, we end up sharing some form of data. We need to think about what data we will share and how to best ensure that it will be open and usable by others.
+Sharing data is a critical part of increasing the reproducibility of results. Whether it's new data we collect ourselves or data that we process in order to do our analysis, we end up sharing some form of data. We need to think about what data we will share and how to best ensure that it will be open and usable by others.
 
-Data sharing should typically be done through a long-term data center or repository which will be responsible for ingesting, curating, and distributing/publishing your open data. You are responsible for providing information/metadata to help make your data be readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
+Data sharing should typically be done through a long-term data center or repository which will be responsible for ingesting, curating, and distributing/publishing your open data. You are responsible for providing information/metadata to help make your data readily discoverable, accessible, and citable. The cost of archiving and publishing data should also be considered.
 
 ### So You Want to Share Your Data
 
-Once you have decided to share your data, there are a number of questions you will have to answer to help you plan and that should be included in your data management plan (DMP):
+Once you have decided to share your data, there are a number of questions you will have to answer to help you plan and that should be included in your data management plan (DMP), which was also covered in Lesson 3:
 
 |  |  |
 |---|---|
@@ -40,18 +40,18 @@ Once you have decided to share your data, there are a number of questions you wi
 | How? | How the plan enables reuse of the data |
 | Who? | Roles and responsibilities of the team members in implementing the DMP |
 
-In this lesson, we will be covering some steps toward making data. Specifically, we will focus on the "when", "where", "how", and "who" sections of a DMP.
+In this lesson, we will be covering some steps toward making data. Specifically, we will focus on the "when," "where," "how," and "who" sections of a DMP.
 
 ### Open Data Sharing Process
 
 In general, sharing your open data requires the following steps:
 
-1. Make sure your data can be shared
-2. Select or identify a repository to host your data
-3. Work with your repository to follow their process and meet their requirements
-4. Make sure your data is findable and accessible through the repository and is maintained and archived
-5. Request a DOI for your data set so that it is easily citable
-6. Choose a data license
+1. Make sure your data can be shared.
+2. Select or identify a repository to host your data.
+3. Work with your repository to follow their process and meet their requirements.
+4. Make sure your data is findable and accessible through the repository and that it can be maintained and archived.
+5. Request a DOI for your data set so that it is easily citable.
+6. Choose a data license.
 
 Sometimes, you may be able to work with a well-staffed repository that will handle many of these steps for you (for instance, if you are working with NASA mission data). Otherwise, it is your responsibility to follow the above steps to share your data openly.
 
@@ -59,42 +59,31 @@ Sometimes, you may be able to work with a well-staffed repository that will hand
 
 ### When to Share Data?
 
-The decision of when to share should be discussed with everyone on the team and documented in the data management plan. Funding agencies and organizations may have specific requirements about when data must be shared, but here we encourage you to think about whether it is feasible or possible to share even earlier than required by your funder. There are different times when data could be shared:
+The decision of when to share should be discussed with everyone on the team and documented in the data management plan. Funding agencies and organizations may have specific requirements about when data must be shared, but here we encourage you to think even earlier than required by your funder about whether it is feasible or possible to share data. There are different times when data could be shared:
 
-- Advanced Sharing: Sharing at the time of collection, or soon after. Some funding agencies require this, or allow for a short ‘embargo’ period, but a reason (quality checks, calibrations, etc.) is usually required. This maximizes data reuse and impact and can result in increased collaborations.
+- Advanced Sharing: Sharing at the time of collection or soon after. Some funding agencies require this, or allow for a short 'embargo' period, but a reason (quality checks, calibrations, etc.) is usually required. This maximizes data reuse and impact, which can result in increased collaborations.
 - Intermediate Sharing: At the time of publication. Many publications (and some funding agencies) require sharing data that is needed to reproduce results at the time of publication.
 - Minimum Sharing: End of grant. All scientifically useful data should be shared by the end of the research grant.
 - No Sharing: There are many reasons data should either be restricted or not shared at all.
 
-As discussed previously in this curriculum, there are many benefits to sharing as early as possible. Early (advanced) sharing can lead to new and unexpected discoveries and expand your collaboration network. Remember, that even when you share data, you are still the world expert on that data! So often, when people want to work with the data, they will reach out to you to collaborate.
+As discussed previously in this curriculum, there are many benefits to sharing as early as possible. Early (advanced) sharing can lead to new and unexpected discoveries and expand your collaboration network. Remember, even when you share data, you are still the world expert on that data! In many cases, when people want to work with the data, they will reach out to you to collaborate.
 
 ### Should the Data be Shared?
 
-Before datasets are shared, it’s important to consider any restrictions to your permission to share and ensure that your contributors – including sample and data donors – approve its release.
+Before datasets are shared, it's important to consider any restrictions to your ability to share and ensure that your contributors - including sample and data donors - approve its release.
 
-Data should be as open as possible and as closed as necessary.
+Data should be as open as possible and as closed as necessary. Opening our data is a powerful way to enable discovery, transparency, and scientific progress. However, you may want to consider a couple of points before data is shared:
 
-- Opening our data is a powerful way to enable discovery, transparency, and scientific progress.
-- Some data are subject to laws, regulations, and policies which limit the release of the data.
-- Your local institution may have additional policies and resources – investigate them early and often.
-
-### Verify Your Data is Sharable
-
-Before you decide where to share your data, you must make sure you can share your data.
-
-Data needs to be as open as possible and as closed as necessary...
-
-- Open data is a powerful way to enable discovery, transparency, and scientific progress
-- But, some data are subject to laws, regulations, and policies which limit the release of the data
-- Your local institution may have additional policies and resources – investigate them early and often
+- Some data is subject to laws and regulations which limit the release of the data.
+- Your funding agency or your institution may have additional policies and resources - investigate them early and often.
 
 Specific considerations that might prevent the sharing of your data include:
 
-- A country's military secrets or violations of national interests
-- Private medical information or an individual’s personal data
-- Indigenous/cultural/conservation concerns
-- Intellectual Property, Patented
-- Other - please think about what you are sharing and the implications of sharing it (for example - do you have permission from everyone involved?)
+- A country's military secrets or violations of national interests.
+- Private medical information or an individual's personal data.
+- Cultural/conservation concerns.
+- Intellectual property and patents.
+- Other - think critically about what you are sharing and the implications of sharing it (for example - do you have permission from everyone involved?)
 
 In the first module of this curriculum, we listed several reasons why certain research products should not be shared. We will review some of these reasons, and go into more detail on a few that are particularly relevant to data.
 
@@ -102,28 +91,28 @@ In the first module of this curriculum, we listed several reasons why certain re
 
 Relevant laws and regulations that may prevent the release of data include but are not limited to:
 
-- [International Traffic in Arms Regulation](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR), which regulates the manufacture, sale, distribution, and export of defense-related articles and services.
-- [Export Administration Regulations](https://www.bis.doc.gov/index.php/regulations/export-administration-regulations-ear) (EAR), which regulates the manufacture, sale, distribution, and export of commercial and dual- use items, technology, and information not already covered by ITAR.
+- [International Traffic in Arms Regulation](https://www.pmddtc.state.gov/?id=ddtc_public_portal_itar_landing) (ITAR) (external link), which regulates the manufacture, sale, distribution, and export of defense-related articles and services.
+- [Export Administration Regulations](https://www.bis.gov/regulations) (EAR) (external link), which regulates the manufacture, sale, distribution, and export of commercial and dual-use items, technology, and information not already covered by ITAR.
 
 **Example: NASA Space System Protection Standard**
 
-NASA STD 1006.1 [Space System Protection Standard](https://standards.nasa.gov/standard/NASA/NASA-STD-1006), which establishes protection requirements to ensure NASA missions are resilient to purposeful threats.
+NASA STD 1006.1 [Space System Protection Standard](https://standards.nasa.gov/standard/NASA/NASA-STD-1006) establishes protection requirements to ensure NASA missions are resilient to purposeful threats.
 
 ### Controlled Information Considerations
 
-Some regulations and policies that may prevent the sharing of data include but are not limited to:
+Some regulations that may prevent the sharing of data include but are not limited to:
 
-- [Health Insurance Portability and Accountability Act](https://www.hhs.gov/hipaa/index.html) (HIPAA), which established standards to protect sensitive patient health information from disclosure.
-- [Controlled Unclassified Information](https://www.archives.gov/cui) provides standards for handling unclassified information that requires safeguarding or dissemination controls consistent with laws, federal regulations, and policies.
-- Federal laws and regulations governing [classified information](https://www.archives.gov/isoo/faqs) or security requirements.
+- [Health Insurance Portability and Accountability Act](https://www.hhs.gov/hipaa/for-professionals/index.html) (HIPAA) (external link), which established standards to protect sensitive patient health information from disclosure.
+- [Controlled Unclassified Information](https://www.archives.gov/cui) (external link) provides standards for handling unclassified information that requires safeguarding or dissemination controls consistent with federal laws and regulations.
+- Federal laws and regulations governing [classified information](https://www.archives.gov/isoo/faqs) (external link) or security requirements.
 
 ### Intellectual Property Considerations
 
-Data may be subject to intellectual property, copyright, and licensing concerns. A few of the relevant regulations and policies include patent or intellectual property laws including the [Bayh-Dole Act](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm), which enables universities, nonprofit research institutions, and small businesses to own, patent, and commercialize inventions developed under federally funded research programs.
+Data may be subject to intellectual property, copyright, and licensing concerns. Relevant regulations include patent or intellectual property laws, such as the [Bayh-Dole Act](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm) (external link), which enables universities, nonprofit research institutions, and small businesses to own, patent, and commercialize inventions developed under federally-funded research programs.
 
 **Example: NASA FAR Supplement 1852.227**
 
-[NASA FAR Supplement 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), which outlines patent and data rights for government contracts.
+[NASA FAR Supplement 1852.227](https://prod.nais.nasa.gov/far/far0595-nfs012617/5227.htm), outlines patent and data rights for government contracts.
 
 ---
 
@@ -131,7 +120,7 @@ Many research institutions have resident experts in intellectual property, copyr
 
 ## Where to Share Data
 
-Data can be shared in a variety of locations. While sharing data via email or websites is popular, they are not recommended as they do not meet the requirements for findability or long-term archival support. Sharing data as part of the supplemental material of a peer reviewed publication, especially for small data sets, is acceptable in some fields. A long term repository that provides a permanent identifier is the best option for sharing of data.
+Data can be shared in a variety of locations. While sharing data via email or websites is popular, they are not recommended as they do not meet the requirements for searchability or long-term archival support. Sharing data as part of the supplemental material of a peer-reviewed publication, especially for small datasets, is acceptable in some fields. A long-term repository that provides a permanent identifier is the best option for sharing data.
 
 ### Selecting a Data Repository
 
@@ -139,27 +128,27 @@ If you do not already have a data repository in mind, consider the following to 
 
 - Does your funding sponsor require a specific data repository?
 - Does your organization/institution recommend a specific data repository?
-- Is there a domain-specific repository that is widely-used in your research field?
+- Is there a domain-specific repository that is widely used in your research field?
 - Does the repository provide open data access?
-- Do you think the tools offered by the repository for data discovery and distribution are suitable for your data and FAIR?
-- Does the repository require funding from your project, does it fit within your budget and does it require sustained support beyond the project life cycle?
+- Do you think the tools offered by the repository for data discovery and distribution are FAIR and suitable for your data?
+- Does the repository require funding from your project? Does it fit within your budget or require sustained support beyond the project life cycle?
 
-Find and compare the services, beneﬁts and limitations of the repositories you are considering. Each repository will have its own processes and requirements for accepting and hosting your data depending on their level of funding, purpose, and user base.
+Find and compare the services, benefits, and limitations of the repositories you are considering. Each repository will have its own processes and requirements for accepting and hosting your data depending on their level of funding, purpose, and userbase.
 
 Similarly, each repository will provide a different set of functionality and services depending on their level of funding, purpose, and user base.
 
-Data with privacy concerns may have additional anonymization or approval processes or restrictions on who can access the data.
+Data with privacy concerns may have additional anonymization, approval processes, or restrictions on who can access the data.
 
-A good overview of desirable characteristics presented by the White House is [given here.](https://www.whitehouse.gov/wp-content/uploads/2022/05/05-2022-Desirable-Characteristics-of-Data-Repositories.pdf)
+A good overview of desirable characteristics presented by the White House can be [found here](https://doi.org/10.5479/10088/113528) (external link).
 
 ### Ensuring Accessibility
 
 Good repositories will share (or offer) your open data through standard protocols, like HTTPS or SFTP. Common ways to do this are:
 
 - Allowing users the ability to see a list of files that they can click and download via an intuitive interface.
-- Creating a documented API for users to generate a list of file links that meet search criteria that they can download in an automated fashion (i.e., machine-to-machine data access).
+- Creating a documented API for users to generate a list of file links that meet search criteria that they can download in an automated fashion (e.g. machine-to-machine data access).
 
-Additionally, repositories can require authorization and authentication (e.g., logins with usernames/passwords) to access data. While this is allowed under FAIR principles, it may violate Open Science principles if not everyone is able to obtain a login.
+Additionally, repositories can require authorization and authentication (e.g. logins with usernames/passwords) to access data. While this is allowed under FAIR Principles, it may violate open science principles if not everyone is able to obtain a login.
 
 ### Working with a Repository
 
@@ -174,9 +163,10 @@ Additionally, repositories can require authorization and authentication (e.g., l
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Repository requirements can vary widely. Always review a repository’s requirements to see what actions you need to take once you’re ready to start working with them. Also note that some repositories have staff that will help with the process of sharing data, while others rely on the user to know how to share their own data.</p>
-            <p>If you use a repository that has staff to help you with the process, they may want to review and comment on your data management plan.</p>
-            <p>The repository may request that you produce some test of sample data in order to assess:</p>
+            <p>Repository requirements can vary widely. Always review a repository's requirements to see what actions you need to take once you're ready to start working with them. Also note that some repositories have staff that can help with the process of sharing data, while others rely on the user to know how to share their own data.</p>
+            <p>If you use a repository that has staff to help you with the process, they may want to review and comment on your data management plan.
+</p>
+            <p>The repository may request that you provide sample data in order to assess:</p>
             <ul>
             <li>That the data format you intend to use is supported.</li>
             <li>That data variables are named as expected.</li>
@@ -200,8 +190,8 @@ Additionally, repositories can require authorization and authentication (e.g., l
   <tbody>
     <tr>
         <td colspan="3">
-            <p>As you progress through your project lifecycle, utilize your repository's update, revision and resubmission processes to keep the archived data products up to date. Any new versions of the data you want to share through the repository will need to go through a similar process as your initial data set.</p>
-            <p>Any new versions of the data you want to share through the repository should go through the same DMP review, compliance check, and upload procedure as your initial data set.</p>
+            <p>As you progress through your project lifecycle, utilize your repository's update, revision, and re-submission processes to keep the archived data products up to date. Any new versions of the data you want to share through the repository will need to go through an assessment similar to the assessment used with your initial data set.</p>
+            <p>This means any new version should go through the same DMP review, compliance check, and upload procedure as your initial data set.</p>
         </td>
     </tr>
   </tbody>
@@ -218,8 +208,8 @@ Additionally, repositories can require authorization and authentication (e.g., l
   <tbody>
     <tr>
         <td colspan="3">
-            <p>When your project ends, ensure you’ve updated and uploaded any companion documentation (discussed in the previous lesson "Making Open Data") with your final version (even if only a single version of the data was made).</p>
-            <p>Make sure the repository will keep your data (or at least your metadata) on- line for a reasonable period of time after your project ends.</p>
+            <p>When your project ends, ensure you've updated and uploaded any companion documentation (discussed in Lesson 3, "Making Open Data") with your final version, even if only a single version of the data was made.</p>
+            <p>Make sure the repository will keep your data (or at least your metadata) available for a reasonable period of time after your project ends.</p>
             <p>If any data issues are found after the conclusion of your project, make sure the repository will still accept data revisions, if they are needed.</p>
         </td>
     </tr>
@@ -230,21 +220,21 @@ Additionally, repositories can require authorization and authentication (e.g., l
 
 ### Obtaining a DOI
 
-Individuals cannot typically request a DOI (digital object identifier) themselves but rather have to go through an authorized organization that can submit the request, such as:
+Individuals cannot typically request a digital object identifier (DOI) themselves, but rather have to go through an authorized organization that can submit the request, such as:
 
 - The data repository
 - Your organization
 - The publisher (if the data set is part of a publication)
 
-Data makers should provide summary information for DOI landing page(s) if required. Data sharers should accommodate data providers' suggestions and comply with DOI guidelines and create landing page(s). If possible, reserve a DOI for you ahead of creating your data.
+Data makers should provide summary information for DOI landing page(s) if required. Data sharers should accommodate data providers' suggestions and comply with DOI guidelines and create landing page(s). If possible, reserve a DOI ahead of creating your data.
 
 ### Ensuring Findability
 
 Repositories handle the sharing, distribution, and curation of data. Additional services they may provide include:
 
-- The assignment of a persistent identifier (like a DOI) to your data set
-- The indexing and/or registration of your data and metadata in various services so that they can be searched and found online (i.e., through search engines).
-- The provision of feedback to data makers to help them optimize their metadata for findability.
+- The assignment of a persistent identifier (like a DOI) to your data set.
+- The indexing and/or registration of your data and metadata in various services so that they can be searched and found online (i.e. through search engines).
+- Giving feedback to data makers to help them optimize their metadata for findability.
 - Coordinating with data makers to ensure metadata refers to the DOI.
 - Ensuring the DOI is associated with a landing page with information about your data.
 
@@ -264,53 +254,53 @@ Now that your data are at a repository and have a citation statement and DOI, pu
 
 Sharing data openly is a team effort. An important part of planning for open data is planning and agreeing to roles and responsibilities of who will ensure implementation of the plan.
 
-So what needs to be done? Documenting these roles and responsibilities in your Data Management Plan will help your team stay organized and do science faster! A well-written, detailed plan should include:
+So what needs to be done? Documenting these roles and responsibilities in your data management plan will help your team stay organized and do science faster! A well-written, detailed plan should address the following questions.
 
-### Who Will Move Data to a Repository
+### Who Will Move Data to a Repository?
 
 Once you are ready to send your data to your repository, find the repository's recommendations for uploading data. Determine who will work with your repository to accomplish the following types of activities:
 
-- Provide information on data volume, number of files, and nature (e.g., revised files)
+- Provide information on data volume, number of files, and nature (e.g. revised files)
 - Check that the file name follows best practices
-- How will the data be moved? (especially when files are large)
+- Decide how the data will be moved (especially when files are large)
 - Check the data! Verify the integrity of the data, metadata, and documentation transfer
 
-### Who Will Develop the Data Documentation and Metadata
+### Who Will Develop the Data Documentation and Metadata?
 
 Determine who will work with your repository, inventory the transferred data, metadata, and documentation. This role might include the task of populating any required metadata in databases to make the data findable.
 
 You may be able to accomplish some of these tasks through a repository's interface. However, some types of repositories may require you to interact with their administration teams. For this role, determine who will:
 
-- Provide suggestions to organize data content and logistics-
+- Provide suggestions to organize data content and logistics
 - Develop the metadata
-- Develop the documentation (e.g., README file or report)
+- Develop the documentation (e.g. README file or report)
 - Extract metadata from data files, metadata files (if applicable), and documentation to populate the metadata database and request additional metadata as necessary
 
-### Who Will Help With Data Reuse
+### Who Will Help With Data Reuse?
 
-Once the repository has made your data available, someone from your team must test access to the data (its accessibility) and distribution methods (its findability). If possible, identify who will work with your repository to optimize/modify tools for intuitive human access and standardize machine access. This role requires someone who to:
+Once the repository has made your data available, someone from your team must test access to the data (its accessibility) and distribution methods (its findability). If possible, identify who will work with your repository to optimize/modify tools for intuitive human access and standardize machine access. This role requires someone to:
 
 - Clearly communicate the open protocols needed for the data/metadata.
-- Provide actual data use cases to data publisher to optimize/modify data distribution tools based on available metadata.
+- Provide actual data use cases to the data publisher to optimize or modify data distribution tools based on available metadata.
 - Understand the access protocol(s) and evaluate implications to targeted communities and user communities at large in terms of accessibility.
 
-### Who Will Develop Guidance on Privacy and Cultural Sensitivity of Data
+### Who Will Develop Guidance on Privacy and Cultural Sensitivity of Data?
 
-Sharing data should be respectful of the communities that may be involved. This means thinking about privacy issues and cultural sensitivities. Who on your team will identify and develop guidance on:
+Sharing data should be respectful of the communities that may be involved. This means thinking about privacy and cultural issues. Decide who on your team will identify and develop guidance on:
 
 - Privacy concerns and approval processes for release - is the data appropriately anonymized?
 - How to engage with communities that data may be about.
 - How data can be correctly interpreted.
-- Are there any data restrictions that may be necessary to ensure the sharing is respectful of the community the data involves, eg. collective and individual rights to free, prior, and informed consent in the collection and use of such data, including the development of data policies and protocols for collection?
+- Whether any data restrictions are necessary to ensure the sharing is respectful of the community the data involves, such as the collective and individual rights to free, prior, and informed consent in the collection and use of such data, including the development of data policies and protocols for collection.
 
 ## Lesson 4: Summary
 
 The following are the key takeaways from this lesson:
 
-- When and if to share data? Determine at what point in a project it makes the most sense to share our data. Remember, not all data can or should be shared.
+- When and if to share data? Determine at what point in a project it makes the most sense to share your data. Remember, not all data can or should be shared.
 - Where to share data? Sharing in a public data repository is recommended, and there are many types of repositories to choose from.
 - How to enable reuse? Ensure appropriate, community-accepted metadata, assign a DOI, and develop a citation statement to make sure it can be easily found and cited.
-- Who helps share data? There are many steps in making and sharing data and it’s important to think about who will be responsible for each step.
+- Who helps share data? There are many steps in making and sharing data and it's important to think about who will be responsible for each step.
 
 ## Lesson 4: Knowledge Check
 
