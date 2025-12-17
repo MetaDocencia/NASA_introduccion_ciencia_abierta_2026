@@ -4,7 +4,7 @@
 
 ## About This Module
 
-This module focuses on the practice and application of open code as part of the open science workflow. It provides a 'how to' process that follows the code development lifecycle and "Use, Make, Share" framework. Some of the key topics discussed include: benefits and limitations of open code, how to discover and assess code, considerations and methods for programming following open principles, and finally when and how to share your code. 
+This module focuses on the practice and application of open code as part of the open science workflow. It provides a 'how to' process that follows the code development lifecycle and "Use, Make, Share" framework. Some of the key topics discussed include: benefits and limitations of open code, how to discover and assess code, considerations and methods for programming following open principles, and finally when and how to share your code.
 
 ### Module Learning Objectives
 
@@ -12,27 +12,27 @@ After completing this module, you should be able to:
 
 - Explain what open-source software means, including the software development cycle, the benefits, some common limitations, and how they are addressed.
 - Assess open-source software for reuse by evaluating provided documentation, including README files and licensing details, and then cite the software appropriately.
-- Create an open-source software management plan that includes the strategy for selecting open software dependencies and open repositories, and how open elements including metadata, README files and version control, will be included to make the software reusable and findable.
+- Create an open-source software management plan that includes the strategy for selecting open software dependencies and open repositories, and how open elements including metadata, README files, and version control, will be included to make the software reusable and findable.
 - Evaluate whether your open-source software can be shared and the best options for sharing to increase visibility.
-- List the responsibilities a software developer has once the open-source software is shared including managing legal requirements and ensuring the software is maintained.
+- List the responsibilities a software developer has once the open-source software is shared, including managing legal requirements and ensuring the software is maintained.
 
 ## Key Terms
 
 Select the term to see the description.
 
-**Source Code** – Human-readable set of statements written in a programming language that together compose software. Programmers write software in source code, often saved as a text file on a computer. The terms code and source code are often used interchangeably.
+**Source Code** – Human-readable set of statements written in a programming language that together compose software. Programmers write software in source code, often saved as a text file on a computer. The terms code and source code are often used interchangeably. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
-**Software** – This general term is used for computer programs and applications that provide users some degree of utility or produce a result or service. Software can be distributed in executable form, as source code, or as a service via the internet.
+**Software** – This general term is used for computer programs and applications that provide users some degree of utility or produce a result or service. Software can be distributed in executable form, as source code, or as a service via the internet. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
 **Software License** – A document that states the rights of the developer and user of a piece of software.
 
-**Open-Source License** – A software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition, granting permissions for anyone to inspect, use, modify, and distribute the software’s source code for any purpose. Similar standards may be promulgated by other organizations.
+**Open-Source License** – A software license, approved by the Open Source Initiative (OSI) as compliant with the Open Source Definition, granting permissions for anyone to inspect, use, modify, and distribute the software's source code for any purpose. Similar standards may be promulgated by other organizations. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
-**Open-Source Software** – Software whose source code is under an open source license, by which the copyright holder grants to anyone the rights to inspect, modify, and distribute the source. Synonymous with open code.
+**Open-Source Software** – Software whose source code is under an open source license, by which the copyright holder grants to anyone the rights to inspect, modify, and distribute the source. Synonymous with open code. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
-**Closed-Source Software** – Proprietary software with source code that is not publicly available. Only the original authors, not the users, have rights to copy, modify, update, and edit the source code. Users don’t have access to code.
+**Closed-Source Software** – Proprietary software with source code that is not publicly available. Only the original authors, not the users, have rights to copy, modify, update, and edit the source code. Users don't have access to the code.
 
-**Derivative Work** – A creative work that is derived from or based upon a preexisting creative work and in which the preexisting work is translated, altered, arranged, or transformed in a manner that requires permission from the copyright owner of the original work or are from works in the public domain.
+**Derivative Work** – A creative work that is derived from or based upon a pre-existing creative work and in which the pre-existing work is translated, altered, arranged, or transformed in a manner that requires permission from the copyright owner of the original work. Permission is not necessary if the original work is in the public domain. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
 **Version Control** – A system to automatically manage changing versions of a computer file, especially one that contains source code. In software development, version control preserves a complete history of changes to the source code and enables a developer to roll back to an earlier version if needed.
 
@@ -42,7 +42,9 @@ Select the term to see the description.
 
 **Long-Term Repository** – A service for long-term retention and referencing historical and contemporary software. Repositories facilitate sustainable citation of code.
 
-Definitions credit: National Academies of Sciences, Engineering, and Medicine. 2018. Open-source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) and other resources.
+### References Cited
+
+National Academies of Sciences, Engineering, and Medicine. 2018. Open-source Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25217](https://doi.org/10.17226/25217) (external link)
 
 ## Navigation
 
