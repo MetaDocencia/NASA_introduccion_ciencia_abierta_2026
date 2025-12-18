@@ -1,41 +1,41 @@
 # Introducción a la Ciencia Abierta Módulo 5: Resultados Abiertos
 
-Te damos la bienvenida a Introducción a la Ciencia Abierta: Resultados Abiertos
+**Bienvenida (bienvenido) a Ciencia Abierta 101: Resultados Abiertos**
 
-## Acerca de este módulo
+## Sobre este módulo
 
-¡Te damos la bienvenida a Resultados Abiertos! Este módulo se centra en brindarte las herramientas que necesitas para iniciar una colaboración científica mediante la creación de pautas para los contribuyentes que garanticen una colaboración ética. El módulo comienza con un caso de uso de la ciencia abierta en acción, seguido de una revisión sobre cómo descubrir y evaluar resultados abiertos. A continuación, se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. Finalmente, el módulo concluye con una orientación específica para la escritura de la sección de compartir resultados de los Planes de Gestión de Ciencia Abierta y Datos (PGCAD). Además, reflexionaremos sobre cómo nuestra sociedad y nuestra tecnología evolucionan constantemente en la forma en que hacemos ciencia.
+¡Bienvenida (bienvenido) a Resultados Abiertos! Este módulo se enfoca en brindarte las herramientas que necesitás para dar el puntapié inicial a una colaboración científica mediante la creación de lineamientos de contribución que aseguren una contribución ética. Comienza con un caso de uso de ciencia abierta en acción y luego revisa cómo descubrir y evaluar resultados abiertos. A continuación, este módulo se centra en cómo publicar resultados, lo que incluye una lista de verificación de tareas. El módulo cierra con orientaciones específicas para redactar la sección sobre compartición de resultados en un Plan de Ciencia Abierta y Gestión de Datos (OSDMP). También reflexionaremos sobre cómo nuestra sociedad y la tecnología evolucionan de forma constante en la manera en que hacemos ciencia.
 
-### Objetivos de aprendizaje
+### Objetivos de aprendizaje del módulo
 
-Al finalizar esta lección deberías ser capaz de:
+Luego de completar este módulo deberías poder:
 
 - Describir qué constituye un resultado abierto.
 - Explicar qué es la crisis de reproducibilidad y cómo la ciencia abierta puede ayudar a combatirla.
-- Llevar adelante un proceso para descubrir, evaluar y citar resultados abiertos que permitan su reutilización.
-- Enumerar las responsabilidades de quienes participan en la creación de resultados abiertos: personas usuarias de los resultados abiertos, personas líderes de proyectos, personas colaboradoras y autoras.
-- Enumerar las tareas para crear resultados reproducibles y los elementos que se deben incluir en un manuscrito para garantizar resultados reproducibles.
-- Definir una estrategia para compartir resultados incluyendo la selección de editores, la interpretación de políticas de revistas y licencias, y determinando con tu documento cuándo compartir tus datos o software.
+- Usar un proceso para descubrir, evaluar y citar resultados abiertos para su reutilización.
+- Enumerar las responsabilidades de las siguientes personas participantes que crean resultados abiertos: persona usuaria de resultados abiertos, liderazgo del proyecto, persona colaboradora, persona contribuyente y persona autora.
+- Enumerar las tareas para crear resultados reproducibles y los elementos a incluir en un manuscrito para asegurar resultados reproducibles.
+- Definir una estrategia para compartir tus resultados, como seleccionar editoriales, interpretar políticas y licencias de revistas, y determinar cuándo compartir tus datos o software junto con tu manuscrito.
 
 # Términos clave
 
-Estos términos clave son importantes para el módulo. Selecciona el término para ver la descripción.
+Estos términos clave son temas importantes para este módulo. Seleccioná el término para ver la descripción.
 
-**Objeto de investigación (OI)** - Un método para la identificación, agregado e intercambio de información científica en la Web. Puede incluir publicaciones en diferentes formatos, softwares, datos y medios.
+**Productos de investigación** - Los productos y resultados generados durante un proceso de investigación. Esto incluye artículos de revistas, datos y código, así como presentaciones, actas de congresos, informes, documentos técnicos, informes de posición, algoritmos, modelos y simulaciones, materiales de divulgación, tutoriales y muchos otros productos.
 
-**Publicación depredadora** - Editores con fines de lucro que cobran una tarifa por publicación pero ofrecen pocos controles de calidad, como revisión por pares o composición tipográfica.
+**Publicación depredadora** - Editoriales con fines de lucro que cobran una tarifa de publicación pero ofrecen pocos controles de calidad sobre la publicación, a diferencia de lo que se esperaría de publicaciones académicas, como revisión por pares o composición tipográfica.
 
-**Preimpresión** - (_preprint_) Versión de un artículo previa a su publicación en una revista. Puede tratarse de la versión del documento aceptado después de la revisión por pares, o de una versión anterior a su envío a una revista.
+**Preprint** - Una versión de un artículo compartida antes de su publicación en una revista. Puede ser la versión de la persona autora del manuscrito aceptado luego de la revisión por pares o una versión previa al envío a una revista.
 
-**Prerregistro** - Práctica de quienes investigan en la cual determinan su plan de análisis y procedimiento de recolección de datos antes de que comience un estudio.
+**Prerregistrar** - Una práctica mediante la cual personas investigadoras documentan públicamente su plan de investigación y sus procedimientos de recolección de datos antes de que comience un estudio.
 
-**Identificadores persistentes** - Referencia duradera a un documento, archivo, página web u otro objeto digital. Generalmente se utiliza en el contexto de objetos digitales accesibles a través de Internet. La mayoría de los identificadores persistentes tienen un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
+**Identificadores persistentes (PIDs)** - Referencias de larga duración a un documento, archivo, página web u otro objeto digital. Por lo general se usan en el contexto de objetos digitales disponibles a través de internet. La mayoría de los PIDs tiene un identificador único que está vinculado a la dirección actual de los metadatos o del contenido.
 
-**Crisis de la reproducibilidad** - La 'crisis de la reproducibilidad' de la ciencia es una preocupación creciente debido a varios estudios de reproducibilidad en los que resultados positivos previos no fueron reproducidos.
+**Crisis de reproducibilidad** - La “crisis de reproducibilidad” en ciencia es una preocupación creciente a partir de varios estudios de reproducibilidad en los que resultados positivos previos no pudieron ser reproducidos.
 
-**DOI** - Es un identificador persistente estandarizado por la Organización Internacional para la Estandarización (ISO, en inglés) y utilizado para identificar de forma única varios objetos.
+**DOI** - Un identificador de objeto digital es el “handle” de un identificador persistente utilizado para identificar de manera única diversos objetos. Está estandarizado por la Organización Internacional de Normalización (ISO).
 
-**Código de conducta** - Un conjunto de reglas y políticas que describen las normas, principios, expectativas y valores de un grupo u organización en particular. Se considera obligatorio para cualquier persona que sea miembro de ese grupo u organización. Puede ayudar a miembros a alinear su conducta con los valores de la comunidad, apoyar la toma de decisiones y fomentar la retención y compromiso.
+**Código de conducta** - Un conjunto de reglas y políticas que describen estándares, principios, expectativas y pautas morales para un grupo u organización. Se considera vinculante para cualquier persona que sea miembro de ese grupo u organización. Puede ayudar a alinear conductas con los valores de una organización, apoyar la toma de decisiones y fomentar la retención y la lealtad.
 
 ## Contenidos
 
