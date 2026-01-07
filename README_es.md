@@ -2,18 +2,11 @@
 
 **Importante:** una vez que finalices nuestras capacitaciones, la emisión de tu insignia digital puede demorar una hora o más. Este tiempo varía según la cantidad de solicitudes que estemos procesando en un momento dado. ¡Gracias por tu comprensión!
 
-## Administrar notificaciones
-¿Recibes demasiados correos electrónicos de este curso? Puedes gestionar tus preferencias de notificación [aquí](https://nasastem.instructure.com/profile).
-
 ## ¿Necesitas ayuda?
-Puedes comunicarte con nosotros a través del [buzón de mensajes](https://nasastem.instructure.com/conversations).
-
-## Cómo tomar este curso
-Visita la página de [Módulos](https://nasastem.instructure.com/courses/283/modules) para acceder al contenido de cada módulo.  
-Cada módulo tiene una evaluación asociada. Completa las 5 [evaluaciones](https://nasastem.instructure.com/courses/283/quizzes) para finalizar el curso.
+Puedes comunicarte con nosotros a través del correo [cursos@metadocencia.org](cursos@metadocencia.org).
 
 ## Obtener la insignia digital
-Cuando finalices las 5 evaluaciones, recibirás automáticamente una insignia digital emitida por Credly. Podrás compartirla en tu currículum o en tus perfiles de redes sociales. También puedes agregar tu insignia digital de Credly a tu perfil de ORCID en el módulo [Open Science 101 completo](https://nasastem.instructure.com/courses/283/modules/900).
+Cuando finalices las evaluaciones, recibirás una insignia digital emitida por Credly. Podrás compartirla en tu currículum o en tus perfiles de redes sociales. También puedes agregar tu insignia digital de Credly a tu perfil de ORCID en el módulo [Open Science 101 completo](https://nasastem.instructure.com/courses/283/modules/900).
 
 [IMG: readme1.png](https://drive.google.com/file/d/1Jz-LxjX6OQL3lCMlZoNX9g4xkgdq0jG8/view?usp=drive_link)
 
@@ -21,9 +14,9 @@ Cuando finalices las 5 evaluaciones, recibirás automáticamente una insignia di
 
 ## Descripción del plan de estudios
 
-La capacitación en Ciencia Abierta de la NASA es una iniciativa diseñada para transformar rápidamente agencias, organizaciones y comunidades hacia una cultura colaborativa de Ciencia Abierta. Desarrollado por el equipo de Ciencia Abierta de la NASA, el plan de estudios de "Introducción a la Ciencia Abierta" acompaña la transformación del panorama de investigación y el avance del descubrimiento científico.
+La capacitación en Ciencia Abierta de la NASA está diseñada para transformar rápidamente agencias, organizaciones y comunidades hacia una cultura colaborativa de Ciencia Abierta. Desarrollado por el equipo de Ciencia Abierta de la NASA, el plan de estudios de "Introducción a la Ciencia Abierta" acompaña la transformación del panorama de la investigación y el avance del descubrimiento científico.
 
-El plan de estudios tiene como objetivo introducir una comprensión matizada de la Ciencia Abierta que permita comprender el flujo de trabajo completo de Ciencia Abierta, de principio a fin. El enfoque está en brindar una comprensión básica sobre cómo compartir y publicar investigación de manera abierta y responsable para maximizar el impacto científico y económico de los proyectos, habilitando que futuras investigaciones puedan construirse sobre trabajos previamente compartidos.
+El plan de estudios tiene como objetivo brindar una introducción a la Ciencia Abierta que permita comprender el flujo de trabajo completo, de principio a fin. El enfoque está en brindar una comprensión básica sobre cómo compartir y publicar la investigación de manera abierta y responsable para maximizar el impacto científico y económico de los proyectos, habilitando que futuras investigaciones se construyan sobre trabajos previamente compartidos.
 
 La NASA también utilizará este plan de estudios para apoyar a quienes investigan y buscan comprometerse con la agencia a medida que se adoptan nuevos requisitos de Ciencia Abierta. Quienes investigan deberán adquirir las habilidades destacadas en este plan de estudios para participar eficazmente en la Ciencia Abierta y demostrar sus capacidades al aplicar a oportunidades de financiamiento.
 
@@ -43,9 +36,9 @@ Completando los cinco módulos y aprobando la evaluación final de cada uno se o
 
 ## Únete a la comunidad de Ciencia Abierta
 
-A lo largo del curso compartiremos información sobre cómo involucrarte en oportunidades de Ciencia Abierta y cómo participar más activamente en la comunidad. Una manera sencilla de comenzar es suscribirte al boletín gratuito de la NASA sobre Ciencia Abierta.
+A lo largo del curso compartiremos información sobre cómo involucrarte en oportunidades de Ciencia Abierta y participar más activamente en la comunidad. Una manera sencilla de comenzar es suscribirte al boletín gratuito de la NASA sobre Ciencia Abierta.
 
-Este boletín mensual destaca iniciativas actuales, nuevas herramientas y recursos diseñados para que la comunidad científica pueda aprovechar más efectivamente la amplia cantidad de datos científicos de la NASA. En próximos números se incluirán novedades sobre herramientas de IA, el desarrollo del motor de búsqueda Science Discovery Engine y más.
+Este boletín mensual destaca iniciativas actuales, nuevas herramientas y recursos diseñados para que la comunidad científica aproveche más eficazmente la gran cantidad de datos científicos de la NASA. En los próximos números se incluirán novedades sobre herramientas de IA, el desarrollo del motor de búsqueda Science Discovery Engine y más.
 
 **¡Suscríbete aquí!**
 
