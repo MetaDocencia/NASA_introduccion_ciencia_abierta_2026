@@ -2,21 +2,21 @@
 
 ## Navegación
 
-* [Definición de Ciencia Abierta y productos de investigación](#definición-de-ciencia-abierta-y-productos-de-investigación)
-* [Uso de herramientas de Ciencia Abierta en la práctica](#uso-de-herramientas-de-ciencia-abierta-en-la-práctica)
-* [Lección 1: Resumen](#lección-1-resumen)
-* [Lección 1: Evaluación de conocimientos](#lección-1-evaluación-de-conocimientos)
+-   [Definición de Ciencia Abierta y productos de investigación](#definici%C3%B3n-de-ciencia-abierta-y-productos-de-investigaci%C3%B3n)
+-   [Usar herramientas para la Ciencia Abierta en la práctica](#utilizar-herramientas-para-la-ciencia-abierta-en-la-pr%C3%A1ctica)
+-   [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
+-   [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ## Descripción general
 
-En esta lección se revisa la definición de Ciencia Abierta y de otros términos frecuentes como productos de investigación, datos, código y resultados. Conocer estas definiciones prepara para participar y contribuir al mundo de la Ciencia Abierta. Además, se presentan ejemplos que muestran cómo se usan en la práctica algunas de las herramientas de Ciencia Abierta. La lección cierra con un estudio de caso en el que un grupo compartió de manera abierta sus datos, resultados, código y artículo, y cómo esto benefició de manera importante su trabajo y sus actividades de difusión.
+En esta lección revisaremos la definición de Ciencia Abierta y algunos otros términos comunes, incluyendo productos de investigación, datos, código, software y resultados. Conocer estas definiciones ayuda a participar y contribuir al mundo de la Ciencia Abierta. Además, veremos ejemplos que muestran cómo se usan estas herramientas de Ciencia Abierta en la práctica. La lección concluye con un ejemplo de cómo un grupo compartió sus datos, resultados, software y artículos de forma abierta.
 
 ## Objetivos de aprendizaje
 
-Al finalizar esta lección se debería poder:
+Al finalizar esta lección deberías ser capaz de:
 
-- Definir tipos frecuentes de productos de investigación, incluyendo datos, código y resultados.
-- Enumerar formas habituales de compartir datos, código y resultados al practicar Ciencia Abierta.
+- Definir los tipos comunes de productos de investigación incluyendo datos, software y resultados.
+- Enumerar formas comunes de compartir datos, código y resultados al practicar la Ciencia Abierta.
 
 ## Definición de Ciencia Abierta y productos de investigación
 
@@ -31,7 +31,7 @@ Crédito de la imagen: «Earth Science», NASA [1992]
 
 ---
 
-### Productos abiertos de investigación
+### Productos de investigación abiertos
 
 El conocimiento científico, o productos de investigación, adopta la forma de datos, resultados, código y software.
 
@@ -42,96 +42,97 @@ Dentro de estos productos de investigación se incluyen además otros tipos de p
 
 ### ¿Qué son los datos?
 
-En términos generales, los datos son piezas de información sobre un objeto de estudio. Esto incluye verdades teóricas, mediciones sin procesar o valores altamente procesados.
+En general, los datos son fragmentos de información sobre un tema, incluidas verdades teóricas, mediciones en bruto o valores altamente procesados.
 
-También puede haber datos acerca de los datos, conocidos como metadatos. En estas lecciones, cuando se habla de datos se hace referencia a información científica o técnicamente relevante que puede almacenarse en formato digital y a la que se puede acceder de manera electrónica, como por ejemplo:
+Incluso puede haber datos sobre los datos, denominados metadatos. En nuestras lecciones, cuando hablamos de datos nos referimos a información científica o técnicamente relevante que puede almacenarse digitalmente y a la que se puede acceder electrónicamente, como por ejemplo:
 
-- Información producida por misiones y experimentos, incluyendo calibraciones, coeficientes y documentación.
-- Información necesaria para validar las conclusiones científicas de publicaciones revisadas por pares.
+- Información producida por misiones y experimentos, incluidas calibraciones, coeficientes y documentación
+- Información necesaria para validar las conclusiones científicas de las publicaciones revisadas por pares
 
-Los datos abiertos pueden tener muchas características. Pueden incluir metadatos ricos y robustos y estar disponibles en una variedad de formatos. Estas características se detallan más adelante en este módulo y se desarrollan aún más en el Módulo 3, «Datos Abiertos».
+Los datos abiertos pueden tener muchas características, incluyendo metadatos nutridos y sólidos, y estar disponibles en una variedad de formatos. Estas características se detallan más adelante en este módulo y se desarrollan aún más en el módulo sobre Datos Abiertos.
 
 ### ¿Qué es el código?
 
-Muchas personas dedicadas a la ciencia escriben código fuente para producir software que analiza datos o modela observaciones. El código es un lenguaje que seres humanos pueden escribir y entender. El software suele ser una colección de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. En su trabajo, las personas que hacen ciencia escriben y usan muchos tipos de software distintos.
+Muchas personas que hacen ciencia escriben código fuente para producir software con el que analizar datos o modelar observaciones. El código es un lenguaje que los seres humanos pueden escribir y entender. El software suele ser un conjunto de programas, datos y otra información que un sistema informático utiliza para realizar tareas específicas. Las personas que hacen ciencia escriben y utilizan muchos tipos distintos de software en el marco de sus investigaciones.
 
 **Software de propósito general**
 
-Software producido para un uso amplio, no específicamente para fines científicos. Esto incluye tanto software comercial como software de código abierto.
+Software producido para un uso generalizado, no para fines científicos especializados. Esta clasificación alcanza tanto al software comercial tradicional como al de Código Abierto.
 
 **Software operativo y de infraestructura**
 
-Software utilizado por centros de datos y grandes instalaciones de tecnologías de la información para ofrecer servicios de datos.
+Software usado por centros de datos y grandes instalaciones de tecnologías de la información para ofrecer servicios de datos.
 
-**Bibliotecas**
+**Librerías**
 
-Conjunto de código reutilizable ya escrito, que contiene implementaciones estandarizadas de algoritmos frecuentes y utilidades para tareas como análisis estadístico, manipulación de datos y visualización, entre otras. Estas bibliotecas están pensadas para integrarse en sistemas de software más grandes y permiten que quienes desarrollan software incorporen funcionalidades complejas sin necesidad de programarlas desde cero.
+También llamadas bibliotecas. Conjuntos de código reutilizables ya escritos, que contienen implementaciones estandarizadas de algoritmos frecuentes y utilidades para tareas como análisis estadístico, manipulación de datos y visualización, entre otras. Estas bibliotecas están pensadas para integrarse en sistemas de software más grandes y permiten que quienes desarrollan software incorporen funcionalidades complejas sin necesidad de programarlas desde cero.
 
-**Software de modelado y simulación**
+**Software de modelación y simulación**
 
 Software que implementa soluciones a ecuaciones matemáticas a partir de datos de entrada y condiciones de contorno, o que infiere modelos a partir de datos.
 
 **Software de análisis**
 
-Software desarrollado para manipular mediciones o resultados de modelos con el fin de visualizarlos o comprenderlos mejor.
+Software desarrollado para manipular mediciones o resultados de modelos con el fin de visualizarlos o comprenderlos.
 
-**Software de uso único**
+**Software de un solo uso**
 
-Software escrito para una situación particular, por ejemplo para hacer una figura para un artículo o para manipular datos de una forma muy específica.
+Software escrito para usarse en casos únicos, como por ejemplo hacer un gráfico para un artículo o manipular datos de una manera específica.
 
-Algunas de las herramientas que se pueden usar para desarrollar software se presentan en la Lección 4. Entender cómo encontrar y usar código de otras personas, cómo crear código propio y cómo compartirlo son partes importantes del avance científico, tema que se desarrollará en el Módulo 4, «Código Abierto».
+Algunas de las herramientas que se pueden usar para desarrollar software se presentan en la Lección 4. Entender cómo encontrar y usar código de otras personas, cómo crear código propio y cómo compartirlo son partes importantes del avance de la ciencia, tema que se desarrollará en el Módulo 4, «Código Abierto».
 
 ### ¿Qué son los resultados?
 
-Los resultados reúnen los distintos productos de investigación del proceso científico. Las publicaciones son el tipo de resultado más conocido, pero también se incluyen muchos otros tipos de productos. Tanto los datos como el software pueden considerarse resultados, pero cuando hablemos de resultados en este contexto pondremos el foco en otros tipos de productos. Los resultados pueden incluir lo siguiente:
+Los resultados reúnen los distintos productos de investigación del proceso científico. Las publicaciones son el tipo de resultado más común, pero también se incluyen muchos otros tipos de productos. Tanto los datos como el software pueden considerarse resultados, pero cuando hablemos de resultados en este contexto pondremos el foco en otros tipos de productos. Los resultados pueden incluir lo siguiente:
 
-- Publicaciones revisadas por pares.
-- Cuadernos computacionales.
-- Entradas de blog.
-- Videos y pódcast.
-- Publicaciones en redes sociales.
-- Resúmenes y presentaciones en congresos.
-- Discusiones en foros.
+- Publicaciones revisadas por pares
+- Notebooks (cuadernos virtuales de programación)
+- Entradas de blog
+- Videos y pódcast
+- Publicaciones en redes sociales
+- Resúmenes y presentaciones en congresos
+- Foros de debate
 
-Es posible que el ciclo de vida de la investigación ya sea familiar, pero no siempre se conocen los distintos tipos de resultados que pueden compartirse de manera abierta en cada etapa del proceso. Al compartir resultados, se busca ser lo más abierto posible, con el objetivo de aumentar la reproducibilidad, la disponibilidad y la transparencia de la ciencia. A lo largo del ciclo de vida de la investigación, habrá múltiples oportunidades de compartir diferentes resultados de forma abierta, lo que puede dar lugar a nuevas colaboraciones y nuevas líneas de trabajo. Se ofrecen más detalles sobre el alcance de los resultados abiertos en el Módulo 5, «Resultados Abiertos».
+Puede que nos sea familiar el ciclo de vida de la investigación, pero aún desconocemos los tipos de resultados que pueden compartirse abiertamente a lo largo de este proceso. Al compartir resultados, es importante intentar proveer la mayor apertura posible, con el objetivo de aumentar la reproducibilidad, la disponibilidad y la transparencia de la ciencia. A lo largo del ciclo de vida de la investigación existen múltiples oportunidades para compartir abiertamente diferentes resultados, y estos pueden dar lugar a nuevas colaboraciones y líneas de investigación. Se ofrecen más detalles sobre el alcance de los resultados abiertos en el Módulo 5, «Resultados Abiertos».
 
-## Uso de herramientas de Ciencia Abierta en la práctica
+## Usar herramientas para la Ciencia Abierta en la práctica
 
-Las siguientes lecciones de este módulo exploran diferentes herramientas y recursos disponibles para quienes investigan y desean usar, producir y compartir Ciencia Abierta. Como se mencionó, es importante pensar cómo integrar los principios de Ciencia Abierta en todas las etapas del proceso de investigación. A continuación se presenta una descripción general de una manera posible de articular las distintas piezas.
+En las siguientes lecciones de este módulo exploraremos diferentes herramientas y recursos a disposición de quienes investigan para usar, crear y compartir la Ciencia Abierta. Como ya se ha mencionado, es importante pensar en cómo integrar los principios de la Ciencia Abierta en todas las fases del proceso de investigación. Aquí daremos un panorama general de cómo podrían funcionar juntas las distintas piezas.
 
 ### Componentes de la Ciencia Abierta
 
 [IMG: https://drive.google.com/file/d/1IduduABTYGsC8rV2T752x_TC41JaPpbU/view?usp=drive_link]
 
-Los cuatro componentes principales de la Ciencia Abierta se pueden organizar en una pirámide de productos de investigación compartidos abiertamente.
+Los cuatro componentes principales de la Ciencia Abierta pueden organizarse en una pirámide de productos de investigación compartidos abiertamente.
 
-El artículo de investigación, estrechamente vinculado con los resultados, se ubica en la parte superior de la pirámide y resume la forma en que se combinaron el software y los datos para producir esos resultados.
+El artículo de investigación, estrechamente vinculado a los resultados, se sitúa en la cúspide de la pirámide y resume cómo se han combinado el software y los datos para obtenerlos.
 
-La práctica de compartir estos componentes puede darse con diferentes niveles de completitud. Para ofrecer una guía acerca de cómo compartir los componentes de la Ciencia Abierta, se simplifica este rango de completitud en tres niveles: «bueno», «mejor» y «óptimo». Este rango refleja el grado de compromiso con la difusión abierta de la Ciencia Abierta en todas las etapas del proceso de investigación y para todos sus productos.
+La práctica de compartir estos componentes puede darse en distintos grados de exhaustividad. Para las siguientes orientaciones sobre cómo compartir componentes de Ciencia Abierta, simplificamos el rango de exhaustividad a «bueno», «mejor» y «óptimo». Esta gama refleja nuestro compromiso de compartir la ciencia en todas las etapas del proceso de investigación y en todos sus productos.
 
 ### Compartir datos abiertos
 
-Los datos pueden compartirse fácilmente mediante muchos servicios distintos. La forma más adecuada de compartir datos científicos suele ser a través de un repositorio de datos de largo plazo que permita tanto preservar los datos como hacerlos localizables. La imagen siguiente muestra algunas consideraciones para compartir datos a través de [Zenodo](https://zenodo.org/) (enlace externo), un repositorio generalista de datos. Estas consideraciones son similares a las de otros repositorios de datos. En el Módulo 3, «Datos Abiertos», se ofrecen más detalles sobre cómo compartir datos abiertos.
+Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga encontrables. La siguiente imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/) (enlace externo), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 «Datos Abiertos» para obtener más detalles sobre cómo compartir datos abiertos.
+Zenodo
 
 <img src="../images/media/image8.png" style="width:100%;height:auto;" />
 
 ### Compartir código abierto
 
-Cuando se comparte código, a menudo se hace mediante una plataforma en línea con control de versiones, que permite que otras personas contribuyan al código y que además conserva un historial de los cambios realizados. Por ejemplo, muchas personas que investigan optan por publicar sus archivos de código en [GitHub](https://github.com/) (enlace externo) con una licencia BSD de 3 cláusulas. Esto permite que otras personas contribuyan y reutilicen el código. Los pasos para preservar el código y hacerlo localizable se presentan en el Módulo 4, «Código Abierto».
+Cuando se comparte Código Abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a quienes tengan interés contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchas veces quienes investigan optan por publicar archivos de código en [GitHub](https://github.com/) (enlace externo) bajo la licencia BSD (de 3 cláusulas). Esto permite que otras personas contribuyan y reutilicen el software. Los pasos para preservar el código y hacerlo accesible se abordan en el Módulo 4, «Código Abierto».
 
 <img src="../images/media/image9.png" style="width:100%;height:auto;" />
 
 ### Compartir un artículo abierto
 
-Quienes investigan pueden optar por publicar en una revista que utilice una licencia de acceso abierto. Es posible buscar revistas de acceso abierto mediante el Directory of Open Access Journals (DOAJ). Este tema se aborda con más detalle en el Módulo 5, «Resultados Abiertos».
+Quienes investigan pueden optar por publicar en una revista que use una licencia de acceso abierto. Para ello, puede usarse el Directorio de Revistas de Acceso Abierto (DOAJ, por sus siglas en inglés) para encontrar revistas que ofrecen esta opción. Este tema se aborda con más detalle en el Módulo 5, «Resultados Abiertos».
 
 ### Compartir resultados abiertos
 
-Al compartir resultados, es importante incluir la metodología utilizada para producirlos, es decir, la «proveniencia», directamente junto con el código. El código tiende a evolucionar con el tiempo, mientras que los resultados que produce pueden mantener cierta estabilidad. Por este motivo, compartir la metodología ayuda a que otras personas puedan reproducir resultados que envejecen con código más reciente, incluso si los pasos específicos para producirlos cambian a medida que el código evoluciona.
+Cuando compartimos resultados es conveniente incluir la metodología que fue usada para producirlos (es decir, la "procedencia") directamente con nuestro software. El software tiende a evolucionar con el tiempo, mientras que sus resultados pueden mantener cierta coherencia. Por lo tanto, compartir la metodología ayuda a otras personas a reproducir nuestros antiguos resultados con software más reciente, aunque los métodos para producirlos puedan variar a medida que el software evoluciona.
 
 ### Un ejemplo de proyecto de Ciencia Abierta
 
-A continuación se presenta un ejemplo de cómo un grupo compartió abiertamente sus datos, resultados, código y artículo, cada uno con su propio identificador. Es importante notar que los datos y el código pueden tener múltiples identificadores, lo que permite citar todas las versiones o una versión específica.
+A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite que estos sean citados en todas las versiones o una única versión.
 
 <img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
 
@@ -161,20 +162,20 @@ Todas las versiones: [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zen
 
 ## Lección 1: Resumen
 
-En esta lección se vio que:
+En esta lección has aprendido:
 
-- El conocimiento científico, o los productos de investigación, adopta la forma de datos, código y resultados.
-- En términos generales, los datos son piezas de información sobre un objeto de estudio, incluyendo verdades teóricas, mediciones sin procesar o valores altamente procesados.
+- El conocimiento científico o los productos de la investigación adoptan la forma de: datos, software y resultados.
+- En general, los datos son partes de información acerca de un tema, incluidas verdades teóricas, mediciones en bruto (información sin ningún procesamiento) o valores altamente procesados.
 
-## Lección 1: Evaluación de conocimientos
+## Lección 1: Evaluación
 
-Responder las siguientes preguntas para poner a prueba lo aprendido.
+Responde las siguientes preguntas para poner a prueba lo que has aprendido hasta ahora.
 
 *Pregunta*
 
 **01/03**
 
-Leer la siguiente afirmación y decidir si es verdadera o falsa:
+Lee esta afirmación y decide si es verdadera o falsa.
 
 *La Ciencia Abierta es una cultura de colaboración, posibilitada por la tecnología, que fortalece el intercambio abierto de datos, información y conocimiento dentro de la comunidad científica y también con el público en general, con el objetivo de acelerar la investigación y la comprensión científica.*
 
@@ -187,7 +188,7 @@ Leer la siguiente afirmación y decidir si es verdadera o falsa:
 
 ¿Cuáles son los cuatro productos principales de la Ciencia Abierta?
 
-Seleccionar todas las opciones que correspondan.
+Selecciona todos las que correspondan.
 
 - Presupuestos
 - Resultados
@@ -200,13 +201,13 @@ Seleccionar todas las opciones que correspondan.
 
 **03/03**
 
-¿Cuál de las siguientes opciones es un tipo de software?
+¿Cuál de los siguientes es un tipo de software? 
 
-Seleccionar todas las opciones que correspondan.
+Selecciona todas las que correspondan.
 
 - Propósito general
-- Operativo y de infraestructura
-- Modelado y simulación
+- Operacional y de Infraestructura
+- Modelado y Simulación
 - Análisis
 - Material
 
