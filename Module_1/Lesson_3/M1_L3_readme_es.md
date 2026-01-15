@@ -106,7 +106,7 @@ Ejemplo: En los escenarios en los que se solicita el consentimiento antes de com
 
 El licenciamiento es una forma de ayudar a los demás a reusar tu trabajo legalmente. Es una forma de especificar en qué condiciones, si las hay, otras personas pueden utilizar, desarrollar o distribuir tu trabajo. También es un método para garantizar que tu trabajo reciba el crédito adecuado. Por lo general, reusar contenidos sin licencia es ilegal y puede constituir una falta de ética académica, aunque estos puedan encontrarse en Internet. Esta ley protege a las personas que crean contenido, así como tu trabajo de ser utilizado sin un permiso explícito. Afortunadamente, es fácil permitir que otras personas reusen tu trabajo.
 
-<img style="width:100%;height:auto;" src="../images/media/knowledgebasequotees.jpg">
+<img style="width:100%;height:auto;" src="../images/media/knowledgebasequote_es.jpg">
 
 "Al aplicar una licencia a tu trabajo, dejas en claro qué pueden hacer otras personas con lo que compartes y también estableces las condiciones bajo las cuales lo proporcionas (por ejemplo, citarte)."
 
