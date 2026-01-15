@@ -319,14 +319,14 @@ Tomate el tiempo de ubicar la revista de origen para brindar una cita precisa.
 
 **Ejemplo de servidor de preprints de arXiv (citar solo si no hay publicación en revista disponible)**
 
-<img src="../images/media/image31.png" style="width:100%;height:auto;" />
+<img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
 
 Evidence for multiple shocks from the γ-ray emission of RS Ophiuchi [captura de pantalla]. (2023). arXiv. [https://arxiv.org/abs/2211.02059](https://arxiv.org/abs/2211.02059) (enlace externo)
 
 ---
 **Ejemplo de publicación fuente en una revista (citar siempre)**
 
-<img src="../images/media/image32.png" style="width:100%;height:auto;" />
+<img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
 
 Evidence for multiple shocks from the γ-ray emission of RS Ophiuchi [captura de pantalla]. (2023). IOPscience. [https://iopscience.iop.org/article/10.3847/1538-4357/acc105](https://iopscience.iop.org/article/10.3847/1538-4357/acc105) (enlace externo)
 
