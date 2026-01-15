@@ -448,7 +448,7 @@ El PCAGD describe cómo se gestiona y se pone a disposición del público la inf
 
 Un PCAGD bien escrito puede ayudarte a obtener financiamiento porque demuestra tus habilidades para hacer Ciencia Abierta.
 
-[IMG: https://drive.google.com/file/d/1cnwft2os8RxvTofxUetfIQx-lq6XeX7r/view?usp=drive_link]
+<img style="width:100%;height:auto;" src="../images/media/things-to-think-about-research-artifacts_es.png">
 
 Secciones de ejemplo para incluir en un OSDMP:
 
