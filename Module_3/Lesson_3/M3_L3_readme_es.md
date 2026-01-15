@@ -182,7 +182,7 @@ Además, un versionado adecuado preserva la calidad y la procedencia de los dato
 
 ## Hacer que los datos sean reutilizables mediante licenciamiento
 
-<img src="../images/media/image32_es_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
 
 Crédito de la imagen: XKCD con licencia CC BY-NC 2.5 DEEX.
 
@@ -203,7 +203,7 @@ Un conjunto de datos sin licencia no necesariamente significa que los datos sean
 
 Comprender cuándo y dónde aplica una licencia es crucial. Por ejemplo, los datos creados con fondos públicos de investigación del gobierno de Estados Unidos están, por defecto, en el dominio público. Sin embargo, esto solo aplica a la jurisdicción de Estados Unidos. Para que esto aplique internacionalmente, quienes crean los datos deben seleccionar una licencia abierta.
 
-<img src="../images/media/image34_es_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image34_es.png" style="width:100%;height:auto;" />
 Crédito: NASA
 
 Existen varios tipos de licencias que se construyen unas sobre otras. Las licencias Creative Commons (CC) se usan con frecuencia para conjuntos de datos. CC0 (también conocida como "dominio público") es la licencia que permite mayor reutilización porque impone la menor cantidad de restricciones sobre lo que los usuarios pueden hacer. Aunque la licencia CC0 no exige explícitamente citación, deberías seguir buenas prácticas comunitarias y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citación. A partir de allí, pueden agregarse restricciones sobre uso comercial, posibilidad de adaptar o modificar los datos, o requisitos de compartir bajo la misma licencia. Estas otras variantes reducen la usabilidad al agregar restricciones, de modo que otros científicos pueden verse imposibilitados de usar los datos debido a restricciones institucionales o legales. Las agencias financiadoras pueden requerir el uso de una licencia específica. En el caso de agencias públicas, suele tratarse de CC0 o CC-BY, maximizando así el retorno de la inversión y asegurando la reutilización más amplia posible.
