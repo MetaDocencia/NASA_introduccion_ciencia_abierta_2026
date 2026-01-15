@@ -206,7 +206,7 @@ El intercambio abierto de productos y procesos científicos hace que la ciencia 
 
 La mejor manera de incluir a un grupo de personas dedicadas a la Ciencia Abierta consiste en eliminar las barreras existentes. Más allá de eso, es importante aprender a comunicarse de manera eficaz con colaboradores que tengan distintos niveles de formación, trayectorias profesionales, antecedentes y áreas de especialización. La capacidad de construir y gestionar equipos es una habilidad que puede aprenderse y desarrollarse.
 
-<img src="../images/media/open-science-book1L2_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/open-science-book1L2_es.png" style="width: 500px; height: auto;" />
 
 ---
 
