@@ -33,7 +33,7 @@ En muchos sentidos, los datos abiertos son una expansión natural de la ciencia 
 
 Pérdida ósea, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer: estos son solo algunos de los efectos secundarios para los seres humanos asociados a los viajes espaciales. Para estudiar estos riesgos para la salud humana de los viajes espaciales, científicos de todo el mundo usan la plataforma de código abierto GeneLab de la NASA. GeneLab agrega grandes volúmenes de datos de biología espacial en el [Open Science Data Repository (OSDR)](https://www.nasa.gov/osdr/), que incluye datos sobre muestras humanas y de organismos modelo expuestas a condiciones de vuelo espacial. Sus repositorios [digitales](https://osdr.nasa.gov/bio/repo/search?q=&data_source=cgene,alsda&data_type=study) y físicos incluyen información celular, así como ADN, ARN y proteínas. Como plataforma de código abierto, todos los datos de GeneLab son accesibles públicamente sin costo.
 
-<img src="../images/media/image2.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image2_es.jpg" style="width:100%;height:auto;" />
 Crédito de la imagen: "Astronaut at spacewalk" por Vadimsadovski vía [AdobeStock](https://stock.adobe.com/contributor/203529807/vadimsadovski?load_type=author&prev_url=detail&asset_id=132366202), licencia estándar (enlace externo)
 
 ### Ejemplo
@@ -48,7 +48,7 @@ Para información adicional sobre el estudio del estrés mitocondrial en los cue
 
 ### ¿Qué son los datos?
 
-<img src="../images/media/image3.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image3_es.png" style="width:350px;height:auto;" />
 The Turing Way Community. Esta ilustración fue creada por Scriberia con la comunidad de The Turing Way y se usa bajo una licencia CC-BY 4.0. [DOI: 10.5281/zenodo.3332807](https://zenodo.org/records/3332808) (enlace externo)
 
 ---
@@ -72,7 +72,7 @@ Los datos incluyen:
 
 El término datos abiertos se define en el *Open Data Handbook* de la Open Knowledge Foundation:
 
-<img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote.jpg">
+<img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote_es.jpg">
 
 "Los datos abiertos son datos que pueden usarse libremente, reutilizarse y redistribuirse por cualquier persona, sujetos solo, como máximo, al requisito de atribuir y compartir bajo la misma licencia." [-What is Open Data?, s. f.](https://opendatahandbook.org/guide/en/what-is-open-data/)
 Crédito de la imagen: Foto de Killian Cartignies en [Unsplash](https://unsplash.com/photos/person-wearing-silver-bracelet-holding-a-light-oKb2_15Uc8w) (enlace externo)
@@ -166,7 +166,7 @@ Además, implementar buenas prácticas de ciencia abierta puede fortalecer tus p
 
 Tómate un momento para reflexionar sobre lo que significa para ti compartir datos.
 
-<img style="width:100%;height:auto;" src="../images/media/image6.jpeg">
+<img style="width:100%;height:auto;" src="../images/media/image6_es.jpeg">
 
 Fuente de la imagen: Nube de palabras "Open Research Data - the FAIRest Data is the Future of Science - Estonia national OpenAIRE event" por OpenAIRE, con licencia CC 4.0
 
@@ -204,7 +204,7 @@ En última instancia, eres libre de implementar principios y recursos de datos a
 
 ## Aplicación de los Principios FAIR
 
-<img src="../images/media/image9.png" style="width:100%;height:auto;" />
+<img src="../images/media/image9_es.jpg" style="width:100%;height:auto;" />
 
 Crédito de la imagen: Una caricatura que describe el intercambio de datos FAIR por Patrick Hochstenbach, con licencia CC0 1.0
 
@@ -367,14 +367,14 @@ Para este currículo, usamos un modelo de flujo de trabajo derivado de Openscien
 
 Si tu proyecto ya está en marcha, es una buena idea actualizar futuros lanzamientos de datos para adherir a principios de datos abiertos tanto como sea posible. Para proyectos nuevos, tus propuestas deberían incluir la creación de datos abiertos desde el inicio del proyecto.
 
-<img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image10_es.png" style="width:100%;height:auto;" />
 Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
 En este currículo, el contenido está organizado según cómo podrías usarlo, producirlo y compartirlo. Parte de hacer ciencia abierta es construir sobre materiales de otros (usar), crear materiales propios (producir) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones están organizadas alrededor de estos pasos en el flujo de trabajo científico.
 
 El marco "Usar, Producir, Compartir" categoriza las tareas comúnmente usadas en la práctica de la ciencia abierta.
 
-<img src="../images/media/image11.png" style="width:100%;height:auto;" />
+<img src="../images/media/image11_es.png" style="width:100%;height:auto;" />
 
 ### Roles en Usar, Producir, Compartir
 
