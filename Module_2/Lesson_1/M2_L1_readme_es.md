@@ -22,7 +22,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ### ¿Qué es la Ciencia Abierta?
 
-<img style="width:100%;height:auto;" src="../images/media/ostpquote.jpg">
+<img style="width:100%;height:auto;" src="../images/media/ostpquote_es.jpg">
 
 «La Ciencia Abierta es una cultura de colaboración, posibilitada por la tecnología, que fortalece el intercambio abierto de datos, información y conocimiento dentro de la comunidad científica y también con el público en general, con el objetivo de acelerar la investigación y la comprensión científica (Ramachandran et al. 2021).»  
 Ramachandran et al. 2021
@@ -114,13 +114,13 @@ La práctica de compartir estos componentes puede darse en distintos grados de e
 Los datos pueden compartirse fácilmente a través de muchos servicios diferentes. La mejor forma de compartirlos suele ser a través de un repositorio de datos a largo plazo que los preserve y los haga encontrables. La siguiente imagen ofrece algunas consideraciones a la hora de compartir datos a través de [Zenodo](https://zenodo.org/) (enlace externo), un repositorio de datos generalista. Estas consideraciones serían similares para otros repositorios de datos. Ver el Módulo 3 «Datos Abiertos» para obtener más detalles sobre cómo compartir datos abiertos.
 Zenodo
 
-<img src="../images/media/image8.png" style="width:100%;height:auto;" />
+<img src="../images/media/image8_es.png" style="width:100%;height:auto;" />
 
 ### Compartir código abierto
 
 Cuando se comparte Código Abierto, con frecuencia se hace a través de una plataforma en línea de control de versiones que permite a quienes tengan interés contribuir al software y proporciona un historial de cambios en el mismo. Por ejemplo, muchas veces quienes investigan optan por publicar archivos de código en [GitHub](https://github.com/) (enlace externo) bajo la licencia BSD (de 3 cláusulas). Esto permite que otras personas contribuyan y reutilicen el software. Los pasos para preservar el código y hacerlo accesible se abordan en el Módulo 4, «Código Abierto».
 
-<img src="../images/media/image9.png" style="width:100%;height:auto;" />
+<img src="../images/media/image9_es.png" style="width:100%;height:auto;" />
 
 ### Compartir un artículo abierto
 
@@ -134,11 +134,11 @@ Cuando compartimos resultados es conveniente incluir la metodología que fue usa
 
 A continuación veremos un ejemplo de cómo un grupo de investigación compartió abiertamente sus datos, resultados y software; todo esto con sus propios identificadores únicos. Hay que tener en cuenta que los datos y el software pueden tener varios identificadores, lo que permite que estos sean citados en todas las versiones o una única versión.
 
-<img src="../images/media/image10.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image10_es.png" style="width:100%;height:auto;" />
 
 Aquí se pueden revisar por separado los distintos elementos de la imagen anterior. Seleccionar los botones «\<» y «\>» para navegar.
 
-<img src="../images/media/image11.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image11_es.jpeg" style="width:100%;height:auto;" />
 
 **Datos**
 
@@ -146,13 +146,13 @@ Esta versión: [https://doi.org/10.5281/zenodo.3688691](https://doi.org/10.5281/
 
 Todas las versiones: [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10.5281/zenodo.3688690)
 
-<img src="../images/media/image12.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image12_es.jpeg" style="width:100%;height:auto;" />
 
 **Resultados**
 
 [https://doi.org/10.1175/JHM-D-19-0084.1](https://doi.org/10.1175/JHM-D-19-0084.1)
 
-<img src="../images/media/image13.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image13_es.png" style="width:100%;height:auto;" />
 
 **Software**
 
