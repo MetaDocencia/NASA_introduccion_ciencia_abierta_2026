@@ -26,7 +26,7 @@ Luego de completar esta lección, deberías poder:
 
 Muchas convocatorias de NASA requieren la presentación de un Plan de Ciencia Abierta y Gestión de Datos como parte del paquete de propuesta. La Guía de Ciencia Abierta y Código Abierto de la Dirección de Misiones Científicas de NASA (SMD) establece:
 
-<img style="width: 100%; height: auto;" src="../images/media/codebg.jpg">
+<img style="width: 100%; height: auto;" src="../images/media/codebg_es.jpg">
 
 > “Un Plan de Ciencia Abierta y Gestión de Datos de NASA (OSDMP) describe cómo se gestionará y se pondrá a disposición de forma abierta la información científica producida a partir de actividades científicas financiadas por NASA. El OSDMP debe incluir secciones sobre gestión de datos, gestión de software y compartición de publicaciones.”
 > — NASA Science Mission Directorate, 2025
@@ -51,7 +51,7 @@ Ejemplos de secciones a incluir en un OSDMP:
 - **Cómo:** habilitar la reutilización del software o código mediante la asignación de un DOI, una licencia, lineamientos de contribución, etc.
 - **Quién:** roles y responsabilidades de las personas integrantes del equipo.
 
-<img style="width: 350px; height: auto;" src="../images/media/recallsteps.jpg">
+<img style="width: 350px; height: auto;" src="../images/media/recallsteps_es.jpg">
 
 ## ¿Cómo planificamos hacer abierto nuestro código?
 
@@ -171,7 +171,7 @@ Suscribirse y participar en foros, talleres presenciales, conferencias y hackato
 
 ### Actividad 5.2: explorar comunidades de práctica
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 - Explora los sitios web de al menos dos comunidades listadas en la sección anterior.
 - Identifica al menos dos puntos de entrada para involucrarte, como eventos próximos, foros u otros espacios.
