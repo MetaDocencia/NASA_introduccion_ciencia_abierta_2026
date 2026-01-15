@@ -123,7 +123,7 @@ Los premios (por ejemplo, reconocimientos o financiamiento) suelen otorgarse a q
 
 Los premios con frecuencia desincentivan el reconocimiento de un equipo, ya que solo pueden otorgarse a una persona o a un grupo pequeño (por ejemplo, un Premio Nobel puede concederse a un máximo de tres personas). Este énfasis en la novedad y en el individuo está comenzando a cambiar, con la aparición de premios para grupos (por ejemplo, el [Desafío de Reconocimiento de Ciencia Abierta (en inglés, Open Science Recognition Challenge) de la Oficina de Política Científica y Tecnológica de la Casa Blanca](https://www.challenge.gov/?challenge=ostp-year-of-open-science-recognition-challenge)) (enlace externo) y la incorporación de solicitudes de financiación ofrecidas para el mantenimiento de herramientas e infraestructuras. Sin embargo, estos cambios tardarán en convertirse en la norma.
 
-<img style="width:350px;height:auto;" src="../images/media/award-example1L4_es.png">
+<img style="width:200px;height:auto;" src="../images/media/award-example1L4_es.png">
 
 #### Desafío: Se necesita más tiempo para estar abierto
 
