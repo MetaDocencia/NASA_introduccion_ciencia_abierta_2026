@@ -72,7 +72,7 @@ Existen numerosas formas de involucrarse y apoyar comunidades de datos abiertos,
             <li>Muchos repositorios tienen comités de personas usuarias para brindarles asesoramiento y retroalimentación (y a menudo buscan personas voluntarias)</li>
             <li>Suscribirse a listas de correo y cuentas de redes sociales de repositorios</li>
             </ul>
-            <p><img src="../images/media/image52.png" style="width:350px;height:auto" /></p>
+            <p><img src="../images/media/image52_es.png" style="width:350px;height:auto" /></p>
         </td>
     </tr>
   </tbody>
@@ -94,7 +94,7 @@ Existen numerosas formas de involucrarse y apoyar comunidades de datos abiertos,
             <li>Aportar insumos al comité de estándares</li>
             <li>Suscribirse a listas de correo enfocadas en estándares</li>
             </ul>
-            <p><img src="../images/media/image53.png" style="width:350px;height:auto" /></p>
+            <p><img src="../images/media/image53_es.png" style="width:350px;height:auto" /></p>
         </td>
     </tr>
   </tbody>
@@ -115,7 +115,7 @@ Existen numerosas formas de involucrarse y apoyar comunidades de datos abiertos,
             <li>Organizar un encuentro sobre datos abiertos</li>
             <li>Participar en un encuentro sobre datos abiertos</li>
             </ul>
-            <p><img src="../images/media/image54.png" style="width:350px;height:auto" /></p>
+            <p><img src="../images/media/image54_es.png" style="width:350px;height:auto" /></p>
         </td>
     </tr>
   </tbody>
