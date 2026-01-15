@@ -27,7 +27,7 @@ Los datos abiertos no siempre son simples de usar en una investigación. A veces
 
 Como ejemplo, observa los datos mensuales promedio de dióxido de carbono del Observatorio Mauna Loa en Hawái. Este conjunto de datos fundamental constituye el registro más extenso de mediciones directas de dióxido de carbono en la atmósfera terrestre. Estas observaciones fueron iniciadas por C. David Keeling del Scripps Institution of Oceanography en marzo de 1958 en una instalación de la National Oceanic and Atmospheric Administration. (Scripps CO2 Program, s. f.)
 
-<img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" />
 Fuente de la imagen: "Carbon Dioxide Concentration at Mauna Loa Observatory" por Scripps Institution of Oceanography en UC San Diego  
 Licencia CC BY 4.0
 
@@ -35,7 +35,7 @@ Si quisieras recrear esta figura por tu cuenta, o usar los datos para otro prop�
 
 Si comienzas con Google y buscas "Mauna Loa carbon dioxide data", encontrarás muchos resultados. Estos son solo algunos de ellos:
 
-<img src="../images/media/image20.png" style="width:100%;height:auto;" />
+<img src="../images/media/image20_es.png" style="width:100%;height:auto;" />
 - Primer crédito de imagen: Modificado de "Trends in Atmospheric Carbon Dioxide CO2" Dr. Xin Lan, NOAA/GML y Dr. Ralph Keeling Scripps Institution of Oceanography  
 - Segundo crédito de imagen: Modificado de "Carbon Dioxide Concentration at Mauna Loa Observatory" por Scripps Institution of Oceanography en UC San Diego, Licencia CC BY 4.0  
 - Tercer crédito de imagen: Modificado de Earth's CO2 Home Page por CO2.earth  
@@ -54,13 +54,13 @@ Los datos abiertos pueden descubrirse accediendo a repositorios de datos, portal
 
 Existen múltiples caminos para encontrar datos de investigación, y deberías practicar todos ellos.
 
-<img src="../images/media/image21.png" style="width:100%;height:auto;" />
+<img src="../images/media/image21_es.png" style="width:100%;height:auto;" />
 
 ### Personas que conoces (en línea o en persona)
 
 ¿Cuál es la primera y mejor forma de encontrar datos de investigación? Preguntar a tu comunidad. Esto incluye a tu director de investigación, colegas, miembros del equipo y personas en línea. Saber dónde encontrar datos confiables y de buena calidad es una habilidad tan importante como cualquier técnica de laboratorio. Esta habilidad se aprende trabajando con profesionales de tu campo. No existe una única fuente ideal ni un único método. Incluso puedes encontrar datos a partir de personas que no esperabas.
 
-<img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image22_es.jpeg" style="width:100%;height:auto;" />
 Fuente de la imagen: NASA, Dominic Hart 2023
 
 ---
@@ -276,7 +276,7 @@ Relaciona el tipo de repositorio con la definición correcta.
 
 ## Evaluar Datos Abiertos
 
-<img src="../images/media/image24.png" style="width:100%;height:auto;" />
+<img src="../images/media/image24_es.png" style="width:100%;height:auto;" />
 Crédito: NASA
 
 El uso de datos abiertos para tu proyecto depende de varios factores, incluyendo la calidad de los datos, las condiciones de acceso y reutilización, la encontrabilidad de los datos y otros aspectos. Algunos elementos esenciales (adaptados de un curso de gestión de datos abiertos creado por GODAN Action) que te permiten evaluar la relevancia y usabilidad de los conjuntos de datos incluyen:
@@ -335,7 +335,7 @@ Muchos conjuntos de datos y repositorios explican cómo prefieren ser citados. L
 - Fecha de creación
 - También pueden especificarse campos adicionales
 
-<img src="../images/media/image25.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image25_es.png" style="width:100%;height:auto;" />
 Archivo CITATION.cff simple [Captura de pantalla] GitHub (https://github.com/) (enlace externo)
 
 Como mínimo, la mayoría de los conjuntos de datos requieren que se incluyan los productores de los datos, el nombre del archivo o repositorio que aloja los datos, el nombre del conjunto de datos, la fecha del conjunto de datos y el DOI al citar datos.
