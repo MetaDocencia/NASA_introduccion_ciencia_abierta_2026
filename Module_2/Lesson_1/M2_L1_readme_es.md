@@ -158,7 +158,7 @@ Todas las versiones: [https://doi.org/10.5281/zenodo.3688690](https://doi.org/10
 
 Esta versión: [https://github.com/c-h-david/rapid](https://github.com/c-h-david/rapid)
 
-Todas las versiones: [https://doi.org/10.5281/zenod](https://doi.org/10.5281/zenod)
+Todas las versiones: [https://doi.org/10.5281/zenodo.593867](https://doi.org/10.5281/zenodo.593867)
 
 ## Lección 1: Resumen
 
