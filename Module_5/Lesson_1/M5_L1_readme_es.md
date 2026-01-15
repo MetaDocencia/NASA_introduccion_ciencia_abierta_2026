@@ -51,7 +51,7 @@ Recién en el siglo XXI la comunidad científica amplió el significado de resul
 
 Puede que conozcas el ciclo de vida de la investigación, pero tal vez no hayas considerado qué resultados podrían compartirse abiertamente a lo largo de su proceso. Esta lección adopta una definición del ciclo de vida de la investigación basada en trabajos de Opensciency y The Turing Way, y lo desglosa en nueve fases, que se muestran en la figura de abajo. (OpenSciency Contributors, 2023; The Turing Way, 2024)
 
-<img src="../images/media/image7_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image7_es.png" style="width:100%;height:auto;" />
 Crédito de imagen: NASA  
 Fuente de productos del flujo de trabajo de ciencia abierta: Opensciency.
 
@@ -79,7 +79,7 @@ A lo largo del Módulo 5 te mostraremos cómo usar, crear y compartir resultados
 
 En particular, el formato “Usar, Crear, Compartir” se incorporó de manera natural a lo largo del plan de estudios y, para esta instancia, debería ser un formato familiar. La Lección 2 cubrirá “Usar”. La Lección 3 cubrirá “Crear”. La Lección 4 cubrirá “Compartir”. A lo largo de este módulo, prestaremos especial atención a manuscritos y otros productos de investigación como ejemplos, porque los módulos anteriores cubrieron “Usar, Crear, Compartir” en el contexto de componentes con datos y software.
 
-<img src="../images/media/thepracticeofopen_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/thepracticeofopen_es.png" style="width:100%;height:auto;" />
 Crédito de imagen: NASA
 
 ## Ejemplos de resultados abiertos
@@ -88,7 +88,7 @@ Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación**
 
 ### Llegar a nuevas audiencias
 
-<img src="../images/media/image9_es.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image9_es.png" style="width:350px;height:auto;" />
 Taller de Google Earth Engine y geemap en GeoPython Conference 2021 [captura de pantalla]. (2025). YouTube. [https://www.youtube.com/watch?v=wGjpjh9IQ5I](https://www.youtube.com/watch?v=wGjpjh9IQ5I) (enlace externo)
 
 Qiusheng Wu es profesor asociado en la University of Tennessee. Publicó más de 500 tutoriales en video en [YouTube](https://www.youtube.com/%40giswqs) (enlace externo), que alcanzaron más de 42 mil suscriptores y más de 1,9 millones de visualizaciones (a febrero de 2025).
@@ -132,7 +132,7 @@ Y, por último, tenemos un ejemplo del equipo JWST Early Release Science del Mó
 
 Las plataformas de comunicación abierta ampliaron el alcance y la audiencia de los resultados, habilitaron la participación de más de 400 personas investigadoras y, finalmente, contribuyeron a un descubrimiento increíble: la primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella.
 
-<img src="../images/media/image13_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image13_es.png" style="width:100%;height:auto;" />
 - Identificación de dióxido de carbono en una atmósfera de exoplaneta [captura de pantalla]. (2023). Nature. [https://www.nature.com/articles/s41586-022-05269-w](https://www.nature.com/articles/s41586-022-05269-w) (enlace externo)  
 - Identificación de dióxido de carbono en una atmósfera de exoplaneta [captura de pantalla]. (2023). arXiv. [https://arxiv.org/abs/2208.11692](https://arxiv.org/abs/2208.11692) (enlace externo)
 
@@ -161,7 +161,7 @@ Hay muchos incentivos personales para implementar principios de ciencia abierta 
 
 ### ¿Cuál es la causa de esta crisis de reproducibilidad?
 
-<img src="../images/media/image16_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image16_es.png" style="width:100%;height:auto;" />
 Crédito de imagen: NASA
 
 Las tres causas principales de la crisis de reproducibilidad son:
