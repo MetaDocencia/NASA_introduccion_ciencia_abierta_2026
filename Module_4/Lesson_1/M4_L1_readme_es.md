@@ -82,7 +82,7 @@ Toda la ciencia se construye sobre lo que ya se logró. El código no es diferen
 
 Comprender cómo encontrar y usar el código de otras personas, crear el propio y compartirlo es una parte importante de avanzar la ciencia abierta. Al igual que las buenas prácticas de gestión de datos, conocer algunos de los detalles sobre cómo compartirlo no solo te ayudará a usarlo más adelante, sino que también ayudará a que otras personas comprendan cómo usarlo y citarlo para que recibas crédito.
 
-[IMG: https://drive.google.com/file/d/1Ry0NodPF_Tm_EKMqZUOrvehiKtG8vaQ4/view?usp=drive_link]
+<img src="../images/media/dealIIm4l1_es.jpg" style="width:350px;height:auto;" />
 Búsqueda en deal.II [captura de pantalla]. (2023). deal.II. https://dealii.org/developer/doxygen/deal.II/grid_2tria_8h_source.html (enlace externo)
 
 ### ¿Qué es código vs. software?
@@ -170,7 +170,7 @@ Según The open source way, los modelos exitosos de software de código abierto 
 
 (The open source way, 2025)
 
-[IMG: https://drive.google.com/file/d/1KA0MtQ1ZmJJEWuaAxhL5Vikqbw6Oq-OR/view?usp=drive_link]
+<img src="../images/media/image616M4l1_es.png" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 Compartir código mejora la ciencia porque habilita reproducibilidad, reutilización y replicabilidad. La decisión de compartir código beneficia a la comunidad científica porque incrementa la transparencia, la participación y la colaboración. Compartir código en cualquier punto del proceso de investigación puede ser valioso.
