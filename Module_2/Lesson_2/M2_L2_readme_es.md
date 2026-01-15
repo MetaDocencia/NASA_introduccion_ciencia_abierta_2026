@@ -79,12 +79,12 @@ Por ejemplo, el DOI [10.5067/TERRA-AQUA/CERES/EBAF-TOA_L3B004.1](https://doi.org
 
 Los DOI fueron estandarizados por la [Organización Internacional de Normalización (ISO)](https://www.iso.org/home.html) (enlace externo) y son provistos y mantenidos por la [International DOI Foundation](https://www.doi.org/) (enlace externo).
 
-<img src="../images/media/image18.png" style="width:350px;height:auto;" />  
+<img src="../images/media/image18_es.png" style="width:350px;height:auto;" />  
 Fuente de la imagen: DOI Foundation Logo - CC 4.0
 
 ### Citas que usan DOI
 
-<img src="../images/media/image19.jpeg" style="width:100%;height:auto;" />  
+<img src="../images/media/image19_es.png" style="width:100%;height:auto;" />  
 Ejemplo de cita de ASDC [captura de pantalla]. (2023). Centro de Datos de Ciencias Atmosféricas. [https://asdc.larc.nasa.gov/](https://asdc.larc.nasa.gov/)
 
 Los DOI facilitan y hacen más práctica la citación de productos de investigación.
@@ -113,7 +113,7 @@ Así de fácil debería ser para quienes lean tus artículos encontrar y utiliza
 
 ### Ejemplos de PIDs en acción
 
-<img src="../images/media/image22.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image22_es.jpg" style="width:100%;height:auto;" />
 
 <table>
   <thead>
