@@ -24,7 +24,7 @@ Luego de completar esta lección, deberías poder:
 
 ## Cuándo compartir
 
-<img src="../images/media/image7.jpeg" style="width:100%height:auto;" />
+<img src="../images/media/image7_es.jpeg" style="width:100%height:auto;" />
 Crédito de la imagen: NASA  
 Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
@@ -91,7 +91,7 @@ Las revistas de acceso abierto son revistas revisadas por pares que son más acc
 
 ### Actividad 4.1: Leer las políticas de acceso abierto de editoriales que usas
 
-<img src="../images/media/image21.png" style="width:350px;height:auto;" />
+<img src="../images/media/image21_es.png" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 En esta actividad aprenderás cómo acceder a información sobre las políticas de archivo de datos de una revista. El Directory of Open Access Journals (DOAJ) proporciona un índice extenso de revistas de acceso abierto en todo el mundo. DOAJ puede usarse para buscar información, incluyendo políticas de archivado de datos, para revistas que publican investigación. Abramos este sitio web y busquemos las políticas específicas de las revistas que más usas.
@@ -104,17 +104,17 @@ En esta actividad aprenderás cómo acceder a información sobre las políticas 
 <br><br>Nota: Puedes ingresar cualquier revista que desees, pero para este ejercicio usa una de las listadas para ver el enlace de Sherpa (Romeo) que aparece en el Paso 5.
 3. Los resultados pueden mostrar más de una coincidencia. Seleccioná la revista deseada dentro de los resultados haciendo clic en el nombre de la revista. Aparece un panel que brinda información sobre tarifas de publicación, políticas de exención, el tipo de licencia abierta utilizada y otra información en múltiples títulos mostrados.
 4. Hacé clic en el enlace “archiving policy” que aparece en una de las cajas mostradas, como se ve aquí. Esto proporcionará enlaces a información extensa sobre las políticas de acceso abierto de la revista para el manuscrito en sí:  
-<br><img src="../images/media/image59.png" style="width:300px;height:auto;" /><br>
+<br><img src="../images/media/image59_es.png" style="width:300px;height:auto;" /><br>
 Archiving policy [Captura de pantalla]. (2025). DOAJ. https://doaj.org/ (enlace externo)  
 <br>Se presentará una gran cantidad de información, incluyendo detalles sobre las políticas de publicación específicas de la revista seleccionada.
 5. Alternativamente, para obtener una vista más condensada de las políticas de la revista, volvé al panel de DOAJ en la página “About” con múltiples cajas mostradas, y hacé clic en el enlace “Sherpa/Romeo” como se muestra aquí:  
 <br>Sherpa (Romeo) [Captura de pantalla]. (2025). DOAJ. https://doaj.org/ (enlace externo)<br>
-<img src="../images/media/image60.jpeg" style="width:300px;height:auto;" />
+<img src="../images/media/image60_es.jpeg" style="width:300px;height:auto;" />
 6. Al hacer clic en el enlace “Sherpa/Romeo”, se abrirá el nuevo sitio Jisc Open policy finder. Ingresá el nombre de la revista y hacé clic en Search.  
 <br>Jisc journal search [Captura de pantalla]. (2025). Jisc. https://openpolicyfinder.jisc.ac.uk (enlace externo)<br>
-<img src="../images/media/image63.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image63_es.jpeg" style="width:100%;height:auto;" />
 7. Al ver la página, notarás que consolida y resume las políticas de acceso abierto para esa revista y los materiales asociados. Es probable que la versión publicada sea la más relevante.  
-<br><img src="../images/media/image64.jpeg" style="width:100%;height:auto;"/>
+<br><img src="../images/media/image64_es.jpeg" style="width:100%;height:auto;"/>
 Journal policy [Captura de pantalla]. (2025). Jisc. https://openpolicyfinder.jisc.ac.uk (enlace externo)
 8. Revisá la página y determiná qué licencia definió la revista que seleccionaste para la reutilización de manuscritos.
 
@@ -187,7 +187,7 @@ Hay ejemplos de identificadores globalmente únicos y persistentes:
 
 ### Licencias
 
-<img src="../images/media/image67.png" style="width:350px;height:auto;" />
+<img src="../images/media/image67_es.png" style="width:350px;height:auto;" />
 Crédito de la imagen: NASA
 
 Al aplicar una licencia a tu trabajo, dejas en claro qué pueden hacer otras personas con los materiales que compartes, y también estableces las condiciones bajo las cuales lo ofreces (como el requisito de citarte). Otro elemento muy importante para incluir junto con tus productos de investigación es establecer reglas claras de reutilización (tal cual está y para crear trabajos derivados), que a menudo se codifican más fácilmente mediante licencias.
@@ -200,7 +200,7 @@ Tu institución, agencia financiadora o propuesta de investigación puede exigir
 
 ### Vías para publicar en acceso abierto
 
-<img src="../images/media/image68.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image68_es.jpeg" style="width:100%;height:auto;" />
 Crédito de la imagen: Esta imagen fue creada por Scriberia para la comunidad de The Turing Way y se usa bajo una licencia CC BY 4.0.
 
 ---
@@ -364,7 +364,7 @@ Mientras hayas hecho todo lo necesario para que tu trabajo sea reproducible, no 
 
 - **¿Qué pasa si no puedo hacer todo? ¿Soy un mal científico abierto?**  
 La respuesta corta es no. Solo tienes una cantidad limitada de tiempo. Incluso con colaboradores, es imposible hacerlo todo.  
-<br><br><img src="../images/media/image69.png" style="width:150px;height:auto;" /> <img src="../images/media/image70.png" style="width:150px;height:auto;" />  
+<br><br><img src="../images/media/image69_es.png" style="width:150px;height:auto;" /> <img src="../images/media/image70_es.png" style="width:150px;height:auto;" />  
 Crédito de la imagen: NASA
 
 Compartir resultados abiertos mejora la ciencia: es más rápida, más accesible y más colaborativa. En esta lección aprendiste sobre todas las distintas formas en que puedes compartir resultados abiertos. Pensá cómo podrías compartir algo en lo que estás trabajando ahora.
@@ -408,7 +408,7 @@ Leé la afirmación a continuación y decidí si es verdadera o falsa.
 
 Mirá con atención la solicitud para enviar un artículo a una revista a continuación. ¿Esta solicitud parece confiable?
 
-<img src="../images/media/image74.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image74_es.jpeg" style="width:100%;height:auto;" />
 
 - Sí
 - No
