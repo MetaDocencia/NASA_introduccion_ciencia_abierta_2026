@@ -25,7 +25,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ## Planificar para la Ciencia Abierta
 
-[IMG: https://drive.google.com/file/d/1Nnra3ymtRHQ6Y7gAjBzzh1wQMPfNWFao/view?usp=drive_link]
+<img src="../images/media/prof-paul-clouds_es.png" style="width: 100%; height: auto;" />
 
 Es importante pensar, discutir y planificar los productos y procesos deseados desde el inicio de una investigación. Conviene conocer cuáles son los mejores repositorios para tus materiales, conversar sobre el crédito y la autoría de cada uno de los productos abiertos del proyecto y comenzar a utilizar herramientas de Ciencia Abierta para organizar tu trabajo. En esta etapa, también recomendamos contactar repositorios de la disciplina y de la institución (como la biblioteca) para pedir ayuda. Si incluyes esta información en tus planes, tendrás más probabilidades de recibir fondos.
 
@@ -376,7 +376,7 @@ Existen muchos repositorios que albergan datos abiertos, software y resultados. 
 
 ### Continúa el plan de estudios de Introducción a la Ciencia Abierta
 
-[IMG: https://drive.google.com/file/d/1GehoBGlh8m5cwdYswecuapa9XtMcmiKh/view?usp=drive_link]  
+<img src="../images/media/lightbulb-ethos-of-open-science_es.png" style="width: 100%; height: auto;" />
 Crédito de la imagen: NASA
 
 Este plan de estudios de Introducción es un buen lugar para una introducción más profunda de los diversos elementos de Ciencia Abierta. Cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a quienes participan del programa a desarrollar una mejor comprensión de este tema específico.
