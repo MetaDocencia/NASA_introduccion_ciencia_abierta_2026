@@ -111,7 +111,7 @@ GitHub permite a las personas usuarias colaborar en un proyecto compartido y ras
 
 Comienza visitando el sitio web de GitHub para buscar paquetes de software disponibles abiertamente. Necesitarás crear una cuenta gratuita. Navega a la página de búsqueda de código para iniciar tu búsqueda. También puedes acceder a tutoriales sobre la interfaz y las capacidades del portal de búsqueda de GitHub. Alternativamente, puedes ingresar tus términos de búsqueda directamente en la barra de búsqueda desde tu perfil. Luego, introduce palabras clave relacionadas. Busca “Lomb Scargle” y encuentra varios repositorios con código relevante en distintos lenguajes, junto con miles de fragmentos relacionados. Felicitaciones: has comenzado tu recorrido por el código de acceso abierto y ahora puedes ver el trabajo de miles de personas que alguna vez estuvieron en tu lugar.
 
-<img src="../images/media/image335_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image335_es.png" style="width:100%;height:auto;" />
 Búsqueda en GitHub [captura de pantalla]. (2023). GitHub. https://github.com/ (enlace externo)
 
 <img src="../images/media/image496_es.jpg" style="width:100%;height:auto;" />
