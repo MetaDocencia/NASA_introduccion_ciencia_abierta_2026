@@ -107,7 +107,7 @@ Los materiales de investigación son valiosos y reutilizables por un largo perí
 
 ### La Ciencia Abierta aplica a todo el flujo de trabajo
 
-<img src="../images/media/image402.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image402_es.jpg" style="width: 100%; height: auto;" />
 
 Flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
 
@@ -119,7 +119,7 @@ Para el propósito de nuestra discusión en esta lección y en los otros módulo
 
 Los productos creados a lo largo del proceso científico son necesarios para que otras personas puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
 
-<img src="../images/media/image130.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image130_es.jpg" style="width: 100%; height: auto;" />
 
 Productos del flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
 
@@ -129,7 +129,7 @@ Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los
 
 ### Usar, Hacer, Compartir
 
-<img src="../images/media/image165.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image165_es.png" style="width: 100%; height: auto;" />
 
 La idea de que la Ciencia Abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero recuerda: la Ciencia Abierta se da a través de todo un espectro. Incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el plan de estudios de Introducción a la Ciencia Abierta está aquí para ayudarte a atravesar este proceso.
 
@@ -151,7 +151,7 @@ Los módulos 3, 4 y 5 abordarán cómo generar tus datos, tu código y tus resul
 
 ### ¿Cómo vas a compartir?
 
-<img src="../images/media/image257.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image257_es.png" style="width: 100%; height: auto;" />
 
 Crédito de la imagen: Freepik.com
 
@@ -165,7 +165,7 @@ En el caso de los resultados, las publicaciones de Acceso Abierto y los servidor
 
 ### Actividad 5.1: Usar, Hacer, Compartir
 
-<img style="width:350px;height:auto;" src="../images/media/lightbulb.png">
+<img style="width:350px;height:auto;" src="../images/media/lightbulb_es.png">
 
 Tómate un momento para responder las siguientes preguntas sobre tu investigación actual o sobre la investigación que te gustaría hacer:
 
@@ -175,7 +175,7 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 
 ## Caso de estudio: Los resultados de un Plan Abierto
 
-<img style="width:100%;height:auto;" src="../images/media/natashaquote.jpg">
+<img style="width:100%;height:auto;" src="../images/media/natashaquote_es.jpg">
 
 "Las pautas de la Ciencia Abierta de la NASA están centradas en nuestro trabajo de Ciencia de Temprana Liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo."
 
@@ -187,11 +187,11 @@ Crédito de la imagen: modificado por la NASA a partir de “Unrecognizable chem
 
 Uno de los primeros descubrimientos del Telescopio Espacial James Webb (JWST, por sus siglas en inglés) fue la [primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento se hizo posible gracias a la adopción de principios de Ciencia Abierta tanto por parte del proyecto como del equipo de investigación.
 
-<img src="../images/media/image255.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image255_es.jpg" style="width: 100%; height: auto;" />
 
 Crédito de la imagen: NASA's Goddard Space Flight Center Conceptual Image Lab
 
-<img src="../images/media/atmocomp.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/atmocomp_es.jpg" style="width: 100%; height: auto;" />
 
 Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
@@ -203,7 +203,7 @@ Veamos qué resultados abiertos se obtuvieron y, mientras lo hacemos, echemos un
 
 ### Planificación para la Ciencia Abierta
 
-<img src="../images/media/image193.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image193_es.png" style="width: 100%; height: auto;" />
 
 <table>
     <colgroup>
@@ -227,7 +227,7 @@ Veamos qué resultados abiertos se obtuvieron y, mientras lo hacemos, echemos un
             <td>Disponibilidad</td>
             <td>
                 <p>En la página del equipo y en GitHub.</p>
-                <p><img src="../images/media/image219.jpg" style="width: 100%; height: auto;" /> The JWST Transiting Exoplanet Community Early Release Science Program Publication Policy [captura de pantalla]. (2023). GitHub. [https://ers-transit.github.io/documents/publication-policy-v1.0.pdf](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf) (enlace externo)</p>
+                <p><img src="../images/media/image219_es.jpg" style="width: 100%; height: auto;" /> The JWST Transiting Exoplanet Community Early Release Science Program Publication Policy [captura de pantalla]. (2023). GitHub. [https://ers-transit.github.io/documents/publication-policy-v1.0.pdf](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf) (enlace externo)</p>
             </td>
         </tr>
     </tbody>
@@ -250,7 +250,7 @@ OpenSciency en GitHub
 
 ### Software de código abierto
 
-<img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image6_es.jpg" style="width: 100%; height: auto;" />
 
 <table>
     <colgroup>
@@ -274,7 +274,7 @@ OpenSciency en GitHub
             <td>Disponibilidad</td>
             <td>
                 <p>Código en <i>GitHub</i>, lanzamiento en <i>Zenodo</i>, documentos publicados en <i>Journal of Open Source Software</i> (una revista de acceso abierto).</p>
-                <p><img src="../images/media/image221.jpg" style="width: 100%; height: auto;" /> "Eureka! Un flujo de procesamiento de punta a punta para las series temporales de las observaciones de JWST" (en inglés, Eureka!: An End-to-End Pipeline for JWST Time-Series Observations) [captura de pantalla]. (2023). The Journal of Open Source Software. [https://joss.theoj.org/papers/10.21105/joss.04503](https://joss.theoj.org/papers/10.21105/joss.04503) (enlace externo)</p>
+                <p><img src="../images/media/image221_es.jpg" style="width: 100%; height: auto;" /> "Eureka! Un flujo de procesamiento de punta a punta para las series temporales de las observaciones de JWST" (en inglés, Eureka!: An End-to-End Pipeline for JWST Time-Series Observations) [captura de pantalla]. (2023). The Journal of Open Source Software. [https://joss.theoj.org/papers/10.21105/joss.04503](https://joss.theoj.org/papers/10.21105/joss.04503) (enlace externo)</p>
             </td>
         </tr>
     </tbody>
@@ -290,7 +290,7 @@ El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, e
 
 ### Acceso abierto a los resultados
 
-<img src="../images/media/image244.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image244_es.jpg" style="width: 100%; height: auto;" />
 
 <table>
     <colgroup>
@@ -314,7 +314,7 @@ El beneficio y el resultado fue que, gracias a este esfuerzo de colaboración, e
             <td>Disponibilidad</td>
             <td>
                 <p>Todos recopilados en la <a href="https://zenodo.org/communities/ers-transit">comunidad de Zenodo</a> de ERS-TRANSIT, con el reconocimiento a quienes contribuyeron y los DOIs</p>
-                <p><img src="../images/media/zenodojwst.jpg" style="width: 100%; height: auto;" /> El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
+                <p><img src="../images/media/zenodojwst_es.jpg" style="width: 100%; height: auto;" /> El Programa de Ciencia de Publicación Temprana para la Comunidad de Exoplanetas en Tránsito del JWST [captura de pantalla]. (2023). Zenodo. [https://zenodo.org/communities/ers-transit](https://zenodo.org/communities/ers-transit)</p>
             </td>
         </tr>
     </tbody>
