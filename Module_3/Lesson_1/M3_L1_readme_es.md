@@ -7,116 +7,116 @@
 - [Beneficios de los Datos Abiertos](#beneficios-de-los-datos-abiertos)
 - [Desafíos de los Datos Abiertos](#desaf%C3%ADos-de-los-datos-abiertos)
 - [Aplicación de los principios FAIR](#aplicaci%C3%B3n-de-los-principios-fair)
-- [Planificar la apertura: El sistema Usar, Hacer, Compartir para los Datos Abiertos](#planificar-la-apertura-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
+- [Planificar la apertura: El sistema  para los Datos Abiertos](#planificar-la-apertura-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
 - [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
 ## Descripción general
 
-Esta lección definirá qué son los datos abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos y transparentes. Los datos abiertos son un pilar fundamental de la ciencia abierta, y en la era digital es aún más importante que los datos sean accesibles y reproducibles. Además, observarás con más detalle cómo se aplican a los datos abiertos los Principios de ser Encontrables, Accesibles, Interoperables y Reutilizables (FAIR), así como el rol crítico de los metadatos en el mundo de la ciencia. Por último, terminarás con una breve introducción a la planificación de datos abiertos dentro del flujo de trabajo científico, incluyendo tareas guiadas por el marco "Usar, Producir, Compartir".
+En esta lección se definen los Datos Abiertos, sus beneficios y las prácticas que permiten que los datos sean abiertos y transparentes. Los Datos Abiertos son un pilar fundamental de la Ciencia Abierta y en la era digital es aún más importante que los datos sean accesibles y reproducibles. Además, observarás con más detalle cómo se aplican a los Datos Abiertos los Principios de ser Encontrables, Accesibles, Interoperables y Reutilizables (FAIR), así como el papel crítico de los metadatos en el ámbito científico. Por último, terminarás con una breve introducción a la planificación de Datos Abiertos en el flujo de trabajo científico, incluyendo tareas guiadas por el marco "".
 
 ## Objetivos de aprendizaje
 
-Luego de completar esta lección, deberías poder:
+Al finalizar esta lección deberías ser capaz de:
 
-- Definir qué son los datos abiertos y cómo se usan los Principios FAIR para guiar prácticas de datos abiertos.
-- Enumerar los beneficios de los datos abiertos.
-- Explicar cómo el marco "Usar, Producir, Compartir" puede utilizarse para modificar el plan científico para datos abiertos.
+- Definir qué son los Datos Abiertos y cómo los principios FAIR y CARE se utilizan para guiar las prácticas de Datos Abiertos
+- Enumerar los beneficios de los Datos Abiertos
+- Explicar cómo el sistema «» puede ser usado para modificar el plan científico para Datos Abiertos
 
 ## Introducción
 
-Los datos impulsan el avance de la ciencia. Hoy en día, los datos se almacenan electrónicamente para permitir análisis e investigación adicionales. Como resultado, las tecnologías digitales integradas en todos los aspectos de la investigación científica moderna han llevado a la producción de grandes volúmenes de datos.
+Los datos hacen avanzar a la ciencia. Estos se almacenan electrónicamente para permitir su análisis e investigación posteriores. Las tecnologías digitales, integradas en cada aspecto de la investigación científica moderna, han propiciado la generación de grandes volúmenes de datos.
 
-En muchos sentidos, los datos abiertos son una expansión natural de la ciencia abierta más allá de las publicaciones académicas, para incluir resultados digitales de investigación. Desde entonces, se han convertido en una parte integral del movimiento de ciencia abierta, porque los datos abiertos permiten que cualquier persona vea, use y verifique resultados publicados. Los datos abiertos hacen que la ciencia sea más accesible y reproducible. Para apoyar esto, los datos deben ponerse a disposición en formatos que otros puedan usar, y deberían proporcionarse metadatos que describan los datos y documentación útil. Cuando se ponen a disposición, ¡los datos abiertos habilitan nuevos descubrimientos y usos imprevistos!
+En muchos sentidos, los Datos Abiertos son una expansión natural de la Ciencia Abierta más allá de las publicaciones académicas, para incluir los resultados digitales de la investigación. Así se han convertido en una parte integral del movimiento de la Ciencia Abierta ya que los Datos Abiertos permiten que todas las personas vean, usen y verifiquen resultados publicados. Los Datos Abiertos hacen que la ciencia sea más accesible y reproducible. Para que esto funcione, es necesario que los datos estén disponibles en formatos que otras personas puedan usar, incluir metadatos que describan a los datos y contar con documentación útil. Una vez disponibles, los Datos Abiertos facilitan nuevos descubrimientos y usos.
 
-### Ejemplo: ¿Cómo vivirán los seres humanos en la Luna o viajarán a Marte cuando el entorno espacial amenaza la salud humana de múltiples maneras?
+###   Ejemplo: ¿Cómo vivirán los humanos en la Luna o viajarán a Marte si el entorno espacial amenaza la salud humana de múltiples maneras?
 
-Pérdida ósea, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer: estos son solo algunos de los efectos secundarios para los seres humanos asociados a los viajes espaciales. Para estudiar estos riesgos para la salud humana de los viajes espaciales, científicos de todo el mundo usan la plataforma de código abierto GeneLab de la NASA. GeneLab agrega grandes volúmenes de datos de biología espacial en el [Open Science Data Repository (OSDR)](https://www.nasa.gov/osdr/), que incluye datos sobre muestras humanas y de organismos modelo expuestas a condiciones de vuelo espacial. Sus repositorios [digitales](https://osdr.nasa.gov/bio/repo/search?q=&data_source=cgene,alsda&data_type=study) y físicos incluyen información celular, así como ADN, ARN y proteínas. Como plataforma de código abierto, todos los datos de GeneLab son accesibles públicamente sin costo.
+Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer; estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, las personas que investigan en el mundo usan la plataforma GeneLab de Código Abierto de la NASA. GeneLab recopila grandes cantidades de datos de biología espacial en el [Open Science Data Repository (OSDR)](https://www.nasa.gov/osdr/), que incluye datos sobre muestras humanas y de organismos modelo expuestas a condiciones de viaje espacial. Sus repositorios [digitales](https://osdr.nasa.gov/bio/repo/search?q=&data_source=cgene,alsda&data_type=study) y físicos incluyen información celular, así como ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin costo.
 
 <img src="../images/media/image2_es.jpg" style="width:100%;height:auto;" />
-Crédito de la imagen: "Astronaut at spacewalk" por Vadimsadovski vía [AdobeStock](https://stock.adobe.com/contributor/203529807/vadimsadovski?load_type=author&prev_url=detail&asset_id=132366202), licencia estándar (enlace externo)
+Crédito de la imagen: "Astronaut at spacewalk (en español, Astronauta en caminata espacial)" por Vadimsadovski vía [AdobeStock](https://stock.adobe.com/contributor/203529807/vadimsadovski?load_type=author&prev_url=detail&asset_id=132366202), licencia estándar (enlace externo)
 
 ### Ejemplo
 
 Usando grandes cantidades de muestras de animales y humanas que volaron al espacio, así como datos biológicos de astronautas provenientes de GeneLab, un artículo reciente publicado en *Nature* encontró cuál podría ser la causa detrás de muchos de los efectos secundarios de viajar al espacio: el estrés mitocondrial. (Clyde, 2021)
 
-Las mitocondrias son componentes dentro de nuestras células que afectan funciones respiratorias y energéticas. Este hallazgo podría ser crucial para superar problemas de salud humana relacionados con el espacio. Comprender el origen de este problema podría ayudar a científicos a desarrollar contramedidas y terapias para mantener a las personas saludables en el espacio durante períodos más prolongados.
+Las mitocondrias son componentes de nuestras células que influyen en la función respiratoria y energética. Este descubrimiento podría ser crucial para superar los problemas de salud humana en el espacio. Comprender el origen de este problema podría ayudar a la comunidad científica a desarrollar soluciones y terapias para mantener a las personas sanas en el espacio durante períodos más prolongados.
 
-Para información adicional sobre el estudio del estrés mitocondrial en los cuerpos de astronautas, mira Living and Working in Space: Twins Study (enlace externo) en el canal de YouTube de la NASA.
+Para obtener información adicional sobre el estudio del estrés mitocondrial en los cuerpos de astronautas, mira [Vivir y trabajar en el espacio: Estudio de los gemelos (en inglés, Living and Working in Space: Twins Study)](https://www.youtube.com/watch?v=c9moR-KQpDQ) (enlace externo) en el canal de YouTube de la NASA.
 
-## Definición y consideraciones sobre Datos Abiertos
+## Definiciones y consideraciones de los Datos Abiertos
 
 ### ¿Qué son los datos?
 
 <img src="../images/media/image3_es.png" style="width:350px;height:auto;" />
-The Turing Way Community. Esta ilustración fue creada por Scriberia con la comunidad de The Turing Way y se usa bajo una licencia CC-BY 4.0. [DOI: 10.5281/zenodo.3332807](https://zenodo.org/records/3332808) (enlace externo)
+La Comunidad The Turing Way (en inglés, The Turing Way Community). Esta ilustración fue creada por Scriberia con la comunidad de The Turing Way y se usa bajo una licencia CC-BY 4.0. [DOI: 10.5281/zenodo.3332807](https://zenodo.org/records/3332808) (enlace externo)
 
 ---
 
-Los datos son cualquier tipo de información que se recolecta, observa o crea en el contexto de una investigación. Hoy en día, los datos se almacenan cada vez más de manera electrónica en formato digital.
+Los datos son cualquier tipo de información que se recolecta, se observa o se crea en el contexto de una investigación. Hoy en día, los datos se almacenan cada vez más de manera electrónica en formato digital.
 
 Los datos incluyen:
 
-**Datos primarios (crudos)** – Los datos primarios se refieren a datos recolectados o creados directamente por investigadores. Las preguntas de investigación guían la recolección de los datos. Por lo general, un investigador formulará una pregunta, desarrollará una metodología y comenzará a recolectar datos. Algunos ejemplos de datos primarios incluyen:
+**Datos primarios (crudos)** – Los datos primarios son los recolectados o creados directamente por las personas que investigan. Las preguntas de investigación guían la recopilación de datos. Por lo general, quien investiga formulará una pregunta, desarrollará una metodología y comenzará a recopilar los datos. Algunos ejemplos de datos primarios incluyen:
 
 - Respuestas a entrevistas, cuestionarios y encuestas.
-- Datos obtenidos de mediciones registradas, incluyendo datos de teledetección.
-- Datos obtenidos de muestras físicas y especímenes, que constituyen la base de muchos estudios.
-- Datos generados a partir de modelos y simulaciones.
+- Datos obtenidos a partir de mediciones registradas, incluidos datos de teledetección.
+- Los datos obtenidos a partir de muestras físicas y especímenes constituyen la base de muchos estudios.
+- Los datos generados a partir de modelos y simulaciones.
 
-**Datos secundarios y procesados** – Los datos secundarios suelen referirse a datos utilizados por alguien distinto de quien recolectó o generó los datos. A menudo, esto puede incluir datos que han sido procesados desde su estado crudo para ser más utilizables por otros.
+**Datos secundarios y procesados** – Los datos secundarios son los que utiliza una persona distinta de quien los recopiló o generó. A menudo, esto puede incluir datos que han sido procesados a partir de su estado bruto para que sean más fácilmente usables por otras personas.
 
-**Datos publicados** – Los datos publicados son datos que se comparten para abordar un estudio científico en particular y(o) para uso general. Si bien los datos publicados pueden superponerse con los datos primarios y secundarios, consideramos "datos publicados" como una categoría propia para enfatizar que esos conjuntos de datos idealmente están bien documentados y son fáciles de usar.
+**Datos publicados** – Los datos publicados son aquellos compartidos para abordar un estudio científico en particular y/o para uso general. Aunque los datos publicados pueden coincidir con los tipos de datos primarios y secundarios, hemos incluido los «datos publicados» como categoría propia para destacar que, en lo ideal, estos conjuntos de datos estén bien documentados y sean fáciles de utilizar.
 
-**Metadatos** – Los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Se utilizan a menudo para proporcionar un conjunto estándar de información sobre un conjunto de datos, con el fin de habilitar el uso y la interpretación de los datos de manera sencilla.
+**Metadatos** – Los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Normalmente se utilizan para proporcionar información estándar sobre un conjunto de datos con el fin de facilitar su uso e interpretación.
 
-El término datos abiertos se define en el *Open Data Handbook* de la Open Knowledge Foundation:
+El término "Datos Abiertos" se define en el manual de Datos Abiertos de la Open Knowledge Foundation (Fundación Conocimiento Abierto):
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote_es.jpg">
 
-"Los datos abiertos son datos que pueden usarse libremente, reutilizarse y redistribuirse por cualquier persona, sujetos solo, como máximo, al requisito de atribuir y compartir bajo la misma licencia." [-What is Open Data?, s. f.](https://opendatahandbook.org/guide/en/what-is-open-data/)
+"Los Datos Abiertos son datos que cualquiera puede usar, reusar y redistribuir libremente, sujetos únicamente y como máximo al requisito de atribuir y compartir por igual" [¿Qué son los Datos Abiertos? (en inglés, What is Open Data?), s. f.](https://opendatahandbook.org/guide/en/what-is-open-data/)
 Crédito de la imagen: Foto de Killian Cartignies en [Unsplash](https://unsplash.com/photos/person-wearing-silver-bracelet-holding-a-light-oKb2_15Uc8w) (enlace externo)
 
-Al hablar de datos en el contexto de este módulo, nos enfocamos en los datos que estás preparando para compartir, sin importar de qué tipo sean, como los datos asociados a una publicación científica. Si bien podrías compartir (y muchos lo hacen) cuadernos de laboratorio, análisis preliminares, productos de datos intermedios, borradores de artículos científicos, planes de investigación futura y elementos similares, esto no suele ser requerido por agencias financiadoras o instituciones y, por lo tanto, no será el foco de este módulo.
+Al hablar de datos en el contexto de este módulo, nos centramos en los datos que estás preparando para compartir, como los asociados a una publicación científica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y, por lo tanto, no serán el foco de este módulo.
 
-Como señalan Hemphill et al. en un artículo sobre reutilización de datos, quienes investigan suelen buscar datos que sean "completos, fáciles de obtener, fáciles de manipular y creíbles". Para que estos criterios se cumplan, los datos deberían:
+Como señalan Hemphill et al. en un artículo sobre la reutilización de datos, quienes investigan suelen buscar datos que sean "completos, fáciles de obtener, fáciles de manipular y creíbles". Para que estos criterios se cumplan, los datos deberían:
 
-- Estar suficientemente descritos con metadatos apropiados, lo que afecta en gran medida la reutilización de datos abiertos. No existe un enfoque único para metadatos, ya que su recolección está guiada por tus datos.
-- Tener la licencia, el copyright y la información de citación adecuados.
+- Estar suficientemente descritos con los metadatos adecuados, lo que afecta en gran medida su reuso. No hay una estructura única para los metadatos ya que su recopilación estará guiada por tus datos.
+- Disponer de la información adecuada sobre licencias, derechos de autor y citas.
 - Tener información de acceso apropiada.
-- Ser encontrables en un recurso acreditado o confiable.
-- Estar acompañados por un historial de cambios y versionado.
-- Incluir detalles de todos los pasos de procesamiento.
+- Ser fáciles de encontrar en una fuente acreditada o de confianza.
+- Estar acompañados con un historial de cambios y versiones.
+- Incluir detalles de todos los pasos de su procesamiento.
 
 (Hemphill et al., 2022)
 
-No todos los datos pueden compartirse, o compartirse con toda esta información. Existen distintas razones por las que puede no ser posible. Sin embargo, mientras más información se comparta sobre los datos, más se incrementa la confiabilidad y reutilización de la información.
+No todos los datos pueden compartirse ni con toda esta información. Hay diferentes razones por las que puede no ser posible. Sin embargo, cuanta más información se comparta sobre los datos, mayor será su fiabilidad y reuso.
 
 ## Beneficios de los Datos Abiertos
 
-Los datos sustentan casi toda la ciencia. Compartir datos abiertamente con otros habilita reproducibilidad, transparencia, validación, reutilización y colaboración. Entre los muchos beneficios de los datos abiertos se incluyen los siguientes:
+Los datos son la base de casi toda la ciencia. Compartir abiertamente los datos con otras personas facilita la reproducibilidad, la transparencia, la validación, el reuso y las colaboraciones. Entre los muchos beneficios de los datos abiertos se incluyen los siguientes:
 
 ---
 
-**Bien común** – Los datos impactan de forma significativa nuestra vida cotidiana. Los datos abiertos, en particular, cumplen un rol clave. Si te detienes a pensarlo, puede que notes que los datos abiertos no solo son comunes en nuestra sociedad, sino que también es posible que te hayan beneficiado y que los hayas usado.
+**Bien mayor** – Los datos desempeñan un papel importante en nuestra vida cotidiana. Los Datos Abiertos, en particular, juegan un rol clave. Si haces una pausa y piensas en ello, puedes darte cuenta de que los Datos Abiertos no sólo son comunes en nuestra sociedad, sino que tú mismo te has beneficiado y has usado Datos Abiertos.
 
-#### Ejemplo: Los datos abiertos ayudan a brindar información que salva vidas y a mejorar la preparación ante desastres
+#### Ejemplo: Ejemplo: los Datos Abiertos ayudan a proporcionar información que salva vidas frente al cambio climático
 
-Los tsunamis son olas oceánicas extremadamente grandes y de movimiento rápido que pueden causar un peligro significativo para poblaciones costeras. Estas olas pueden cruzar el océano a velocidades de más de 500 mph. Una red de sensores de superficie oceánica y detectores de actividad sísmica, propiedad de varias organizaciones nacionales e internacionales, mide y recolecta datos las 24 horas del día. Estos datos en tiempo real sobre posibles amenazas de tsunamis se ponen a disposición del público a través de plataformas de datos abiertos, lo que permite que cualquier persona acceda a información sobre condiciones del océano, peligros potenciales y advertencias activas de tsunami. Los datos permiten respuestas más rápidas y medidas de preparación que ayudan a salvar vidas. Las personas en áreas de riesgo pueden recibir notificaciones sobre posibles amenazas, lo que habilita procedimientos de evacuación más rápidos.
+Los tsunamis son olas oceánicas extremadamente grandes y de alta velocidad que pueden representar un peligro significativo para las poblaciones costeras. Estas olas pueden cruzar el océano a más de 500 mph. Una red de sensores de superficie oceánica y detectores de actividad sísmica, propiedad de varias organizaciones nacionales e internacionales, mide y recopila datos las 24 horas del día. Estos datos en tiempo real sobre posibles amenazas de tsunamis se ponen a disposición del público a través de plataformas de Datos Abiertos, lo que permite que cualquier persona acceda a información sobre las condiciones del océano, los peligros potenciales y las advertencias activas de tsunami. Los datos permiten respuestas más rápidas y medidas de preparación que ayudan a salvar vidas. Las personas en áreas de riesgo pueden recibir notificaciones sobre posibles amenazas, lo que permite implementar procedimientos de evacuación más rápidos.
 
-Los datos abiertos están disponibles para cualquiera con acceso a Internet. Este nivel de transparencia permite que el público comprenda la base de las advertencias de tsunami. Una fuente importante de datos abiertos sobre tsunamis es la que recolecta y mantiene la National Oceanic and Atmospheric Administration (NOAA). Los datos están disponibles en el [sitio del Tsunami Warning System](https://www.tsunami.gov/) (enlace externo).
+Los Datos Abiertos están disponibles para cualquiera con acceso a Internet. Este nivel de transparencia permite que el público comprenda la base de las advertencias de tsunami. Una fuente importante de Datos Abiertos sobre tsunamis es la que recolecta y mantiene la Administración Nacional Oceánica y Atmosférica (National Oceanic and Atmospheric Administration, NOAA). Los datos están disponibles en el [Sistema de Alerta de Tsunamis de los Estados Unidos (U.S. Tsunami Warning System)](https://www.tsunami.gov/) (enlace externo).
 
-**Informar la gestión de recursos**
+**Información sobre los recursos naturales**
 
 #### Ejemplo: Cambios en la composición de peces en la pesca recreativa de marlín en la costa este de Australia
 
-Un estudio en Springer Nature incluyó datos del programa de etiquetado de peces deportivos de New South Wales (enlace externo) para ayudar a mapear cambios en la composición de capturas pesqueras. Los hallazgos ayudaron a enfatizar la necesidad de estrategias de gestión adaptativas y sostenibles para prácticas pesqueras a escala local y global, con el fin de reducir los efectos de prácticas actuales y de la aparición de nuevas tecnologías pesqueras sobre la disponibilidad de peces. (Guillemin et al., 2025) Este ejemplo muestra cómo los datos abiertos pueden conducir a cambios de política que impactan directamente la vida de las comunidades.
+Un estudio en Springer Nature incluyó datos del programa de etiquetado de peces deportivos de New South Wales (New South Wales game fish tagging program) (enlace externo) para ayudar a mapear los cambios en la composición de las capturas pesqueras. Los hallazgos ayudaron a enfatizar la necesidad de estrategias de gestión adaptativas y sostenibles para las prácticas pesqueras a escala local y global, con el fin de reducir los efectos de las prácticas actuales y de la aparición de nuevas tecnologías pesqueras sobre la disponibilidad de peces. (Guillemin et al., 2025) Este ejemplo muestra cómo los Datos Abiertos pueden conducir a cambios de política que impactan directamente en la vida de las comunidades.
 
-**Respuesta a emergencias a gran escala**
+**Respuesta global de emergencia**
 
 #### Ejemplo: Huracán Ida
 
-La preparación ante tsunamis no es la única forma en que los datos abiertos pueden ayudar a una comunidad. Los datos abiertos pueden cumplir un rol vital al proporcionar datos oportunos y accionables para asistir a comunidades en la reducción del riesgo frente a muchos desastres naturales distintos, así como para ayudar en la respuesta y recuperación luego de un desastre a gran escala. En 2021, la NASA proporcionó datos como humedad del suelo, detección de inundaciones y cambios de vegetación para [apoyar esfuerzos de respuesta ante el Huracán Ida](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/). Los datos se compartieron a través del [NASA Disasters Mapping Portal](https://disasters-nasa.hub.arcgis.com/), donde se agregaron fotos subidas públicamente para aumentar la conciencia situacional y se usó IA para ayudar a evaluar daños del huracán. Para mejorar aún más la respuesta ante desastres y la resiliencia, [la NASA colabora con IBM](https://science.nasa.gov/open-science/ai-model-weather-climate/) para desarrollar modelos base de IA de código abierto que puedan usarse para evaluar riesgo de inundaciones e incluso pronosticar rendimientos de cultivos.
+La preparación ante tsunamis no es la única forma en que los Datos Abiertos pueden ayudar a una comunidad. Pueden desempeñar un rol vital al proporcionar datos oportunos y accionables para asistir a las comunidades en la reducción del riesgo frente a desastres naturales, así como para ayudar en la respuesta y la recuperación tras un desastre a gran escala. En 2021, la NASA proporcionó datos como humedad del suelo, detección de inundaciones y cambios de vegetación para [apoyar esfuerzos de respuesta ante el Huracán Ida](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/). Los datos se compartieron a través del [Portal de Mapeo de Desastres de la NASA (NASA Disasters Mapping Portal)](https://disasters-nasa.hub.arcgis.com/), donde se agregaron fotos subidas públicamente para aumentar la conciencia situacional y se utilizó Inteligencia Artificial para ayudar a evaluar los daños del huracán. Para mejorar aún más la respuesta ante desastres y la resiliencia, [la NASA colabora con IBM](https://science.nasa.gov/open-science/ai-model-weather-climate/) para desarrollar modelos base de Inteligencia Artificial de Código Abierto que puedan usarse para evaluar el riesgo de inundaciones e incluso pronosticar rendimientos de cultivos.
 
 Compartir datos tiene muchos beneficios y puede facilitar el acceso al conocimiento. Hacer que grandes volúmenes de datos sean más accesibles y utilizables puede mejorar la toma de decisiones en la gestión de desastres y en la recuperación a largo plazo.
 
@@ -124,11 +124,11 @@ Compartir datos tiene muchos beneficios y puede facilitar el acceso al conocimie
 
 #### Ejemplo: Pruebas de calidad del agua en Beirut
 
-Un científico ciudadano es una persona ciudadana o un científico aficionado que colabora con investigadores profesionales para ayudar a recolectar o interpretar datos en una escala espacial y temporal más amplia que la que los investigadores podrían alcanzar por sí mismos. Esta distribución de responsabilidades ayuda a que miembros del público participen en actividades científicas que finalmente los benefician, permitiendo que la investigación se realice a una escala más grande de lo que sería posible solo con investigadores profesionales. La ciencia ciudadana está ganando popularidad y reconocimiento como contribución valiosa a avances científicos.
+Una persona que hace ciencia ciudadana es (puede ser aficionada a la ciencia) quien colabora con investigaciones profesionales para ayudar a recopilar o interpretar datos en una escala espacial y temporal más amplia de la que el equipo investigador podría lograr sin su colaboración. Esta externalización de la responsabilidad favorece que el público en general participe en actividades científicas que, en última instancia, los benefician y permiten que la investigación se realice en una escala mayor de la que podría ser posible solo con personas investigadoras. La Ciencia Ciudadana está ganando popularidad y reconocimiento como una valiosa contribución a los avances científicos.
 
-Por ejemplo, como se reporta en el Capítulo 5 de *Contextualizing Openness: Situating Open Science*, se reclutaron voluntarios científicos ciudadanos en Beirut de 50 aldeas para ayudar a evaluar la calidad del agua local. Estos voluntarios recibieron formación para poder hacer las pruebas y, a su vez, no solo se recolectaron datos para informar avances científicos, sino que los científicos ciudadanos tuvieron la oportunidad de aprender a gestionar mejor sus recursos hídricos y mejorar condiciones, creando una interacción mutuamente beneficiosa. (Chan et al., 2019)
+Por ejemplo, se reclutaron personas voluntarias en Beirut de 50 aldeas para ayudar a probar la calidad del agua; fuente: capítulo 5 de *Contextualizando la apertura: situando la Ciencia Abierta* (en inglés). Estas personas voluntarias se formaron para realizar las pruebas. No solo se recogieron datos para informar los avances científicos, sino que quienes participaron en este proyecto de Ciencia Ciudadana tuvieron la oportunidad de aprender a gestionar mejor sus recursos hídricos y pudieron mejorar las condiciones, creando una interacción mutuamente beneficiosa. (Chan et al., 2019)
 
-**Datos abiertos y el intercambio equitativo de conocimiento**
+**Datos Abiertos e intercambio equitativo de conocimientos**
 
 En última instancia, la distribución libre del conocimiento incrementa la participación en la ciencia.
 
@@ -335,7 +335,7 @@ Una licencia es un documento legal que le dice a los usuarios cómo pueden usar 
 
 Para asegurar la reutilización abierta de tus datos, puedes usar una licencia abierta. Una licencia abierta incluye lenguaje que describe la capacidad del usuario para acceder, reutilizar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que son abiertas en distintos grados, y se discutirán con mayor profundidad en la Lección 3, "Producir Datos Abiertos".
 
-## Planificar para la apertura: usar el marco Usar, Producir, Compartir para Datos Abiertos
+## Planificar la apertura: El sistema  para los Datos Abiertos
 
 ### Planes de Ciencia Abierta y Gestión de Datos
 
@@ -372,11 +372,11 @@ Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
 En este currículo, el contenido está organizado según cómo podrías usarlo, producirlo y compartirlo. Parte de hacer ciencia abierta es construir sobre materiales de otros (usar), crear materiales propios (producir) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones están organizadas alrededor de estos pasos en el flujo de trabajo científico.
 
-El marco "Usar, Producir, Compartir" categoriza las tareas comúnmente usadas en la práctica de la ciencia abierta.
+El marco "Usar, Hacer, Compartir" categoriza las tareas comúnmente usadas en la práctica de la ciencia abierta.
 
 <img src="../images/media/image11_es.png" style="width:100%;height:auto;" />
 
-### Roles en Usar, Producir, Compartir
+### Roles en Usar, Hacer, Compartir
 
 Las personas que interactúan con datos en distintos puntos del flujo de trabajo científico pueden asumir diferentes roles. Es posible que estos roles se superpongan según requisitos del proyecto, el tamaño del equipo e incluso el financiamiento. Todos los miembros deberían usar principios de datos abiertos para realizar sus tareas. En general, los roles incluyen:
 
