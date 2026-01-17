@@ -7,7 +7,7 @@
 - [Beneficios de los Datos Abiertos](#beneficios-de-los-datos-abiertos)
 - [Desafíos de los Datos Abiertos](#desaf%C3%ADos-de-los-datos-abiertos)
 - [Aplicación de los principios FAIR](#aplicaci%C3%B3n-de-los-principios-fair)
-- [Planificar la apertura: El sistema  para los Datos Abiertos](#planificar-la-apertura-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
+- [Planificar la apertura: El sistema "usar, hacer, compartir" para los Datos Abiertos](#planificar-la-apertura-el-sistema-usar-hacer-compartir-para-los-datos-abiertos)
 - [Lección 1: Resumen](#lecci%C3%B3n-1-resumen)
 - [Lección 1: Evaluación](#lecci%C3%B3n-1-evaluaci%C3%B3n)
 
