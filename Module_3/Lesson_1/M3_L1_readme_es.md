@@ -337,7 +337,7 @@ Una licencia es un documento legal que indica a las personas usuarias cómo pued
 
 Para asegurar el reúso libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un texto que describe la capacidad del usuario para acceder, reusar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura, y que se tratarán con más detalle en la lección 3 de este mismo módulo "Hacer de Datos Abiertos".
 
-## Planificar la apertura: El sistema "Usar, hacer, compartir" para los Datos Abiertos
+## Planificar la apertura: El sistema "usar, hacer, compartir" para los Datos Abiertos
 
 ### Planificar proyectos de Ciencia Abierta y gestión de datos
 
