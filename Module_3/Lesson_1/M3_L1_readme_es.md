@@ -216,7 +216,7 @@ Crédito de la imagen: Una caricatura que describe el intercambio de datos FAIR 
 
 La gran mayoría de los datos actuales se comparten en línea. Los principios FAIR ayudan a las personas investigadoras a hacer un mejor uso de sus datos científicos y a interactuar con una audiencia más amplia de lo que permitirían las técnicas obsoletas. Los datos FAIR son más valiosos para la ciencia porque resultan más fáciles de usar. Los datos pueden ser FAIR independientemente de si se comparten abiertamente o no. Si los datos se comparten abiertamente, ser FAIR ayuda al reuso y amplía el impacto científico de los datos.
 
-Los principios FAIR no abarcan instrucciones de aplicación exhaustivas para cada tipo de datos, pero ofrecen ideas generales para mejorar la capacidad de compartir y reusar. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción para que los datos y los resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. A menudo se necesita un plan de gestión de datos y Ciencia Abierta bien coordinado para cumplir plenamente con FAIR, dependiendo del tamaño y el tipo de proyecto para el que se utilizan los datos.
+Los principios FAIR no incluyen instrucciones de aplicación exhaustivas para cada tipo de datos, pero ofrecen ideas generales para mejorar la capacidad de compartir y reusar. A veces se necesita un esfuerzo grupal y/o un largo proceso de producción para que los datos y los resultados sean FAIR. El proceso comienza en la etapa de planificación de un proyecto de investigación. A menudo se necesita un plan de gestión de datos y Ciencia Abierta bien coordinado para cumplir plenamente con FAIR, dependiendo del tamaño y el tipo de proyecto para el que se utilizan los datos.
 
 **Puedes encontrar información actualizada sobre los principios FAIR en el sitio de la Iniciativa GO FAIR**
 
@@ -242,7 +242,7 @@ Repasemos cómo hacer que los datos sean FAIR para tu comunidad.
             <ul>
             <li>Deposita los datos en repositorios para preservarlos a lo largo del tiempo.</li>
             <li>Asigna a tu conjunto de datos un identificador persistente (PID, por sus siglas en inglés), como por ejemplo un identificador de objeto digital (DOI).</li>
-            <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos, y registra los metadatos en un catálogo de metadatos que permitirá que estos se seleccionen adecuadamente.</li>
+            <li>Agrega metadatos enriquecidos y autodescriptivos en tus archivos de datos y registra los metadatos en un catálogo de metadatos que permitirá que estos se seleccionen adecuadamente.</li>
                 <ul>
                 <li>Ten en cuenta que algunas imágenes o archivos binarios no se pueden indexar ni buscar fácilmente y necesitarán archivos de metadatos o diccionarios complementarios para garantizar que se puedan descubrir en una búsqueda.</li>
                 </ul>
@@ -329,21 +329,21 @@ Repasemos cómo hacer que los datos sean FAIR para tu comunidad.
 Los metadatos son importantes para que los motores de búsqueda encuentren datos y para que las personas puedan comparar fácilmente lo que se devuelve.
 
 - Los metadatos son esenciales para la aplicación de los Principios FAIR y permiten que los datos sean utilizados por las máquinas de forma automatizada.
-- Cuanto más ricos y autodescriptivos sean los metadatos, mejor serán manejados por cualquiera que esté interesado en tus datos.
+- Cuanto más ricos y autodescriptivos sean los metadatos, mejor serán manejados por cualquiera interesado en tus datos.
 
 ### Licenciar datos
 
-Una licencia es un documento legal que indica a las personas usuarias cómo pueden utilizar un conjunto de datos en particular. Si no licencias tu trabajo, otros no podrán o no deberían reusarlo, ¡aunque lo quieras! Es imprescindible conocer las condiciones de licencia de un conjunto de datos antes de reusarlos. Sin una buena comprensión de lo que permite una licencia, las personas usuarias de los datos pueden enfrentarse a problemas de infracción de derechos de autor u otros problemas de propiedad intelectual.
+Una licencia es un documento legal que indica a las personas usuarias cómo pueden utilizar un conjunto de datos en particular. Si no licencias tu trabajo, otros no podrán o no deberían reusarlo, ¡aunque lo quieras! Es imprescindible conocer las condiciones de licencia de un conjunto de datos antes de reusarlos. Sin una buena comprensión de lo que permite una licencia, las personas usuarias de los datos pueden enfrentarse a infracciones de derechos de autor u otros problemas de propiedad intelectual.
 
-Para asegurar el reúso libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un texto que describe la capacidad del usuario para acceder, reusar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura, y que se tratarán con más detalle en la lección 3 de este mismo módulo "Hacer de Datos Abiertos".
+Para asegurar el reúso libre de tus datos, puedes recurrir a una licencia abierta. Una licencia abierta contiene un texto que describe la capacidad del usuario para acceder, reusar y redistribuir el conjunto de datos. Hay muchos tipos de licencias de datos que tienen distintos grados de apertura y que se tratarán con más detalle en la lección 3 de este mismo módulo "Hacer de Datos Abiertos".
 
 ## Planificar la apertura: El sistema "usar, hacer, compartir" para los Datos Abiertos
 
 ### Planificar proyectos de Ciencia Abierta y gestión de datos
 
-La mayoría de las agencias y organismos de financiamiento científico solicitan un plan de difusión de los resultados cuando se propone un proyecto de investigación. [Un ejemplo de un plan de Ciencia Abierta](https://science.nasa.gov/researchers/sara/faqs/osdmp) es el Plan de Ciencia Abierta y Gestión de Datos (OSDMP por sus siglas en inglés) de la Dirección de Misión de Ciencia de la NASA (SMD por sus siglas en inglés) que describe cómo se gestionará y pondrá a disposición del público la información producida a partir de las actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software e intercambio de publicaciones; estas dos últimas se tratarán en los próximos módulos. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware o cualquier otra cosa, también debes incluirlos en el plan. Puedes encontrar más información y modelos en [OSDMP en NASA](https://science.nasa.gov/researchers/sara/faqs/osdmp/) (en inglés).
+La mayoría de las agencias y organismos de financiamiento científico solicitan un plan de difusión de resultados al presentar un proyecto de investigación. [Un ejemplo de un plan de Ciencia Abierta](https://science.nasa.gov/researchers/sara/faqs/osdmp) es el Plan de Ciencia Abierta y Gestión de Datos (OSDMP por sus siglas en inglés) de la Dirección de Misión de Ciencia de la NASA (SMD por sus siglas en inglés) que describe cómo se gestionará y pondrá a disposición del público la información producida a partir de las actividades científicas. El OSDMP incluye secciones sobre gestión de datos, gestión de software e intercambio de publicaciones; estas dos últimas se abordarán en los próximos módulos. Si tu estudio tiene otros tipos de resultados, como muestras físicas, hardware u otros, también debes incluirlos en el plan. Puedes encontrar más información y modelos en [OSDMP de la NASA](https://science.nasa.gov/researchers/sara/faqs/osdmp/) (en inglés).
 
-Una buena práctica al comenzar tu viaje hacia los Datos Abiertos es crear un Plan de Gestión de Datos (PGD). En él se describe cómo se gestionarán, preservarán y publicarán los datos durante y después de un proyecto de investigación. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para Datos Abiertos incluyen una descripción teniendo en cuenta lo siguiente:
+Una buena práctica al comenzar tu viaje hacia los Datos Abiertos es crear un Plan de Gestión de Datos (PGD). En él se describe cómo se gestionarán, se preservarán y se publicarán los datos durante y después de un proyecto de investigación. Los elementos comunes a todos los Planes de Gestión de Datos (PGD) relevantes para Datos Abiertos incluyen una descripción teniendo en cuenta lo siguiente:
 
 |  |  |
 |---|---|
@@ -353,17 +353,17 @@ Una buena práctica al comenzar tu viaje hacia los Datos Abiertos es crear un Pl
 | ¿Cómo? | Manera en que el plan permite la conservación a largo plazo de los datos. |
 | ¿Quién? | Roles y responsabilidades de las personas que forman parte del equipo en la implementación del PGD. |
 
-Consulta si tu institución o tu organismo de financiación dispone de pautas, normas o modelos para PGDs. Sino, hay entidades que también disponen de guías y muestras de PGD, como ser:
+Consulta si tu institución o tu organismo de financiación dispone de pautas, normas o modelos para PGDs. Si no, hay entidades que también disponen de guías y muestras de PGD, como ser:
 
 - [USGS](https://www.usgs.gov/data-management/data-management-plans) (enlace externo)
 - [NOAA](https://marinedebris.noaa.gov/sites/default/files/DataManagementPlanGuidance%26Sample.pdf) (enlace externo)
 - [NSF](https://new.nsf.gov/funding/data-management-plan) (enlace externo)
 
-Se proporcionarán más detalles sobre cómo crear estos planes en la lección 5 de este mismo módulo "De la teoría a la práctica".
+Se proporcionarán más detalles sobre cómo elaborar estos planes en la lección 5 de este mismo módulo, "De la teoría a la práctica".
 
 ### Flujo de trabajo científico
 
-Hay una variedad de modelos de flujo de trabajo científico que aclaran y facilitan la comprensión de los principios y prácticas de la Ciencia Abierta. Los datos juegan un papel central en el flujo de trabajo, donde las personas usuarias pueden proponer crear nuevos datos, recopilar y empaquetar sus datos durante su proyecto, y luego archivarlos para su almacenamiento/uso/reuso a largo plazo.
+Hay una variedad de modelos de flujo de trabajo científico que aclaran y facilitan la comprensión de los principios y prácticas de la Ciencia Abierta. Los datos juegan un papel central en el flujo de trabajo, donde las personas usuarias pueden proponer la creación de nuevos datos, recopilar y empaquetar sus datos durante su proyecto y luego archivarlos para su almacenamiento, uso y reuso a largo plazo.
 
 Para este plan de estudios, utilizamos el modelo de flujo de trabajo de Opensciency (en inglés). Se utiliza para ilustrar que, independientemente del modelo de flujo de trabajo que se utilice, la adopción de Datos Abiertos se realiza durante todo el flujo de trabajo y la producción de entregables asociados.
 
