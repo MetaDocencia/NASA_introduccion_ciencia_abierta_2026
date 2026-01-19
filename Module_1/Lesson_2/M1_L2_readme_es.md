@@ -31,9 +31,9 @@ Esta lección presenta una perspectiva sobre el desarrollo de la ciencia, centra
 
 Además, destaca los beneficios de la Ciencia Abierta en una amplia gama de grupos de interesados, junto con ejemplos que invitan a los lectores a investigar más. La lección explora también los desafíos más usuales a la hora de adoptar prácticas en Ciencia Abierta.
 
-<img src="../images/media/image377_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image377_es.jpg" style="width: 100%; height: auto;" alt="Infografía con el símbolo de Acceso Abierto en el centro y flechas hacia beneficios de la Ciencia Abierta: mayor exposición para tu trabajo; aprendices pueden aplicar tus hallazgos; tasas de cita más altas; tu investigación puede influir en las políticas; el público puede acceder a tus hallazgos; en conformidad con las condiciones de financiamiento; la ciudadanía obtiene valor de sus impuestos; quienes investigan en todo el mundo pueden acceder a tu trabajo." />
 
-Figura: Existen muchos beneficios de la Ciencia Abierta. [CC-BY Danny Kingsley y Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
+[CC-BY Danny Kingsley y Sarah Brown](https://blogs.uef.fi/ueflibrary-bors/benefits-and-challenges-of-open-science/).
 
 ## Beneficios para ti
 
@@ -51,16 +51,16 @@ Los productos de investigación bien documentados también demuestran la calidad
 
 ### Dar y recibir crédito al usar los resultados de otras personas
 
-<img src="../images/media/image260_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image260_es.png" style="width: 100%; height: auto;" alt="Ilustración titulada “Reconocimiento”. A la izquierda, “El sistema actual está roto” y “No debería ser sólo para quienes escriben el trabajo”, con menciones a investigadoras/es, mentoras/es y revisoras/es que sostienen a una persona que se lleva todo el reconocimiento. A la derecha, “Quienes colaboran merecen ser reconocidos”, con un archivo de colaboradores/as y un robot de contribuciones que recolecta logros; aparece una cinta con el texto “Turing Way”." />
 Crédito de la imagen: ilustración del proyecto The Turing Way por Scriberia, con licencia CC-BY 4.0. DOI: 10.5281/zenodo.3332807 (enlace externo).
 
 Además de documentar tus propias investigaciones, la práctica de dar crédito a todos quienes han contribuido fortalecerá tu reputación en la comunidad científica y actualizará los valores compartidos de la Ciencia Abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas.
 
 Con frecuencia, las revistas científicas exigen que se atribuya el trabajo realizado como parte de un artículo mediante una declaración de contribución autoral, como en el ejemplo que se muestra en la figura. Además, resulta importante incluir una sección de agradecimientos para dar crédito a quienes hayan compartido recursos, equipamiento o conocimientos sin los cuales el producto final o el artículo no habría sido posible.
 
-<img src="../images/media/image262_es.png" style="width: 350px; height: auto;" />
+<img src="../images/media/image262_es.png" style="width: 500px; height: auto;" alt="Captura de pantalla de una sección titulada “Contribuciones de autoría”, con un párrafo que describe los aportes de distintas personas autoras (identificadas por iniciales) a una investigación." />
 
-Figura: *The Na+-K+-ATPase is needed in glia of touch receptors for responses to touch in C. elegans* [captura de pantalla]. (2025). *Journal of Neurophysiology*. https://journals.physiology.org/ (enlace externo).
+Fuente: [Journal of Neurophysiology](https://journals.physiology.org/) (enlace externo) (2025), captura de pantalla.
 
 ---
 
@@ -68,7 +68,7 @@ Figura: *The Na+-K+-ATPase is needed in glia of touch receptors for responses to
 
 Además de mejorar la precisión científica, adherirse a las prácticas científicas abiertas potencialmente ofrece beneficios personales para quienes investigan. La investigación publicada de forma abierta tiene mucho más visibilidad y potencial de impacto con grandes audiencias a través de Internet, que puede llevar a más citas, colaboradores de ideas afines y oportunidades de carrera/financiación, de acuerdo con un estudio de 2016 (McKiernan et al., 2016).
 
-<img src="../images/media/image263_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image263_es.png" style="width:50%;height:auto;" />
 
 #### Evidencias emergentes de que algunos aspectos de la Ciencia Abierta pueden aumentar la cantidad de citas
 
@@ -133,7 +133,7 @@ A continuación, se presenta un ejemplo de Ciencia Abierta que permitió identif
 
 Una persona colega, al revisar esos archivos, descubrió un error de codificación en el script y lo informó rápidamente a las personas autoras. Tras realizar un nuevo análisis con el código corregido, los resultados fueron mucho menos significativos de lo descrito inicialmente y ya no aportaban la evidencia necesaria para sostener las conclusiones publicadas originalmente. La autora principal se puso entonces en contacto con la persona editora de la revista y solicitó una [retractación](https://doi.org/10.1016/j.actpsy.2019.102886) (enlace externo, en inglés), proporcionando detalles sobre el error y el nuevo análisis.
 
-<img src="../images/media/image216_es.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image216_es.jpg" style="width: 350px; height: auto;" alt="Ilustración en 3D de una partícula viral: una esfera gris con múltiples protuberancias rojas en la superficie." />
 Crédito de la imagen: reproducida con permiso de *Acta Psychologica*. Copyright 2018 Elsevier B.V.
 
 La figura anterior, marcada por las personas autoras en su [declaración de retractación](https://doi.org/10.1016/j.actpsy.2019.102886) (enlace externo, en inglés), indica que el valor de FluencyN-1 era incorrecto en la publicación original, lo que llevó a informar erróneamente de una interacción significativa y a extraer conclusiones inexactas.
@@ -146,7 +146,7 @@ El [Observatorio Solar y Heliosférico (SOHO)](https://soho.nascom.nasa.gov/) ha
 
 El gran éxito de SOHO como buscador de cometas depende, por supuesto, de las personas que analizan los datos de la misión, una tarea que se abrió al mundo gracias a la disponibilidad pública en tiempo real de esos datos.
 
-<img src="../images/media/image268_es.jpg" style="width: 350px; height: auto;" />
+<img src="../images/media/image268_es.jpg" style="width: 350px; height: auto;" alt="Imagen del Sol con un disco que bloquea su brillo y, a la derecha, un recuadro ampliado con una cruz que señala un pequeño punto brillante (un cometa) cerca del Sol." />
 Crédito de la imagen: SOHO/ESA/NASA/NRL.
 
 Un grupo de astrónomos aficionados voluntarios se ha dedicado a buscar estos cometas mediante el [Proyecto Sungrazer](https://science.nasa.gov/citizen-science/the-sungrazer-project/), financiado por la NASA. Mientras que muchos especialistas buscan en las imágenes eventos solares muy específicos, varios miembros de la comunidad astronómica eligen revisar con gran detalle todas las imágenes disponibles en busca de otros fenómenos interesantes, como los cometas. Hasta la fecha, se han descubierto más de 2300 cometas y alrededor del 75% fueron identificados por personas que realizan Ciencia Ciudadana. Las imágenes que contienen cometas identificados por seres humanos también pueden utilizarse para crear conjuntos de datos de entrenamiento que mejoran los algoritmos y el software utilizados para identificar cometas de forma automática.
@@ -189,7 +189,7 @@ La Ciencia Abierta introduce un mayor nivel de escrutinio en la investigación, 
 
 El virus del Zika, uno de los muchos virus transmitidos por mosquitos, se convirtió en motivo de preocupación durante un brote a partir del momento en que se observó que un aumento de infecciones en mujeres embarazadas coincidía con un incremento de casos de microcefalia en fetos y recién nacidos. Este vínculo fue confirmado por los Centros para el Control y la Prevención de Enfermedades (CDC, por sus siglas en inglés) en 2016.
 
-<img src="../images/media/zika_example_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/zika_example_es.jpg" style="width: 100%; height: auto;" alt="Esquema del proyecto OpenZika: se combinan análisis computacionales y evaluación en laboratorio para buscar posibles tratamientos contra el virus del Zika, incluyendo el cribado virtual de millones de compuestos y la prueba experimental de un conjunto reducido." />
 Crédito de la imagen: el proyecto Open Zika utilizó la plataforma World Community Grid de IBM y técnicas de aprendizaje automático para identificar posibles candidatos a fármacos para tratar el virus del Zika. Imagen reproducida con permiso de *Journal of Chemical Information and Modeling*. Copyright 2024 American Chemical Society.
 
 Ante la necesidad urgente de tratamientos para combatir el Zika, se puso en marcha un proyecto global, colaborativo, de Ciencia Abierta y basado en colaboración masiva (*crowdsourcing*), llamado OpenZika (enlace externo). OpenZika integró estrategias computacionales y experimentales, lo que permitió evaluar rápidamente millones de compuestos frente a todas las estructuras de proteínas del virus del Zika descubiertas por equipos de investigación de todo el mundo. Los resultados de todos los estudios de cribado se hicieron públicamente disponibles, de modo que se pudieron identificar múltiples candidatos al tratamiento. Este ejemplo de Ciencia Abierta llevó a avances significativos en la manera de tratar los síntomas y reducir el riesgo de complicaciones en personas infectadas por el Zika, mejorando las capacidades médicas y salvando incontables vidas.
