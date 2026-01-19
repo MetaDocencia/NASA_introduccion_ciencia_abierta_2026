@@ -58,7 +58,7 @@ Las prácticas y principios de la Ciencia Abierta pueden aplicarse a todas las f
 
 <img src="../images/media/image266_es.png" alt="Ilustración del telescopio espacial Kepler" style="width: 100%; height: auto;" />
 
-![Ilustración del telescopio espacial Kepler](img src="../images/media/image266_es.png" style="width: 100%; height: auto;" /)
+![Ilustración del telescopio espacial Kepler](img src="../images/media/image266_es.png") style="width: 100%; height: auto;" /
 
 “Stargazing Live” fue un programa de televisión emitido en vivo durante tres noches consecutivas en 2017. Quienes conducían invitaban a la audiencia a identificar exoplanetas a partir de un conjunto de datos de acceso abierto. En las 48 horas posteriores al estreno del programa, más de 10.000 personas participaron en [Exoplanet Explorers](https://www.zooniverse.org/projects/ianc2/exoplanet-explorers) (en inglés) y clasificaron más de 2 millones de sistemas.
 
