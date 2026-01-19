@@ -180,7 +180,16 @@ La mayoría de los códigos de investigación deberían ser software de Código 
 </table>
 
 **Créditos de logos:**  
-(Se mantienen según el original, sin modificaciones).
+
+**Software Heritage** – *Software Heritage* y el logotipo de *Software Heritage* son marcas registradas de Inria.  
+**Open Source Development Network (OSDN)** – *OSDN* y su logotipo son marcas comerciales de Appirits Inc.
+**SourceForge** – *SourceForge* y el logotipo de *SourceForge* son marcas comerciales o marcas registradas de Slashdot Media en los Estados Unidos y en otros países (las “Marcas de Slashdot Media”).  
+**Free and Open-Source Software Hub (FOSSHUB)** – *Fosshub®* y el logotipo de *FossHub®* son marcas registradas de FossHub.  
+**Google Open Source** – *Google Open Source* y el logotipo de *Google Open Source* son marcas comerciales de Google LLC, y este currículo no está respaldado ni afiliado a Google de ninguna manera.  
+**Comprehensive Perl Archive Network** – El logotipo de *CPAN* fue creado por J. C. Thorpe y se distribuye bajo la Licencia Artistic o GPLv1+.  
+**PyPl** – *PyPI*, *Python Package Index* y los logotipos de bloques son marcas comerciales o marcas registradas de la [Python Software Foundation](https://www.python.org/psf-landing/) (enlace externo), en referencia a los productos y servicios asociados con [pypi.org](https://www.python.org/psf-landing/) (enlace externo).  
+**CRAN** – El logotipo de *R* es © 2016 de [The R Foundation](https://www.r-project.org/logo/) (enlace externo), bajo los términos de la licencia [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/) (enlace externo) (CC-BY-SA 4.0).
+
 
 **Recursos de la NASA para encontrar Software Abierto**
 
