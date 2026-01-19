@@ -25,7 +25,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 ## Planificar para la Ciencia Abierta
 
-<img src="../images/media/prof-paul-clouds_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/prof-paul-clouds_es.png" style="width: 100%; height: auto;" alt="Ilustración de un investigador, rodeado de globos de diálogo con preguntas para planificar: “¿Dónde voy a almacenar todos los datos?”, “¿Qué puedo compartir?”, “¿Cuál es la mejor forma de compartir mis resultados?”, “¿Cómo puedo colaborar de la mejor manera?”, “¿Cuándo debería compartir?”, “¿Cómo puedo compartir?” y “¿Durante cuánto tiempo debería mantener mi software?”." />
 
 Es importante pensar, discutir y planificar los productos y procesos deseados desde el inicio de una investigación. Conviene conocer cuáles son los mejores repositorios para tus materiales, conversar sobre el crédito y la autoría de cada uno de los productos abiertos del proyecto y comenzar a utilizar herramientas de Ciencia Abierta para organizar tu trabajo. En esta etapa, también recomendamos contactar repositorios de la disciplina y de la institución (como la biblioteca) para pedir ayuda. Si incluyes esta información en tus planes, tendrás más probabilidades de recibir fondos.
 
@@ -107,7 +107,7 @@ Los materiales de investigación son valiosos y reutilizables por un largo perí
 
 ### La Ciencia Abierta aplica a todo el flujo de trabajo
 
-<img src="../images/media/image402_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image402_es.png" style="width: 100%; height: auto;" alt="Diagrama de flujo de trabajo con una línea de tiempo y el título “HITOS”. Muestra tres fases: “Planificación”, “Implementación” y “Lanzamiento”. En “Planificación” aparecen los hitos “Ideación”, “Planificación” y “Planificación del proyecto”. En “Implementación” aparecen “Compromiso y formación”, “Recolección de datos”, “Gestión de datos” y “Exploración de datos”. En “Lanzamiento” aparecen “Preservación” y “Reporte y publicación”." />
 
 Flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
 
@@ -119,7 +119,8 @@ Para el propósito de nuestra discusión en esta lección y en los otros módulo
 
 Los productos creados a lo largo del proceso científico son necesarios para que otras personas puedan reproducir los hallazgos. Quienes investigan y deseen hacer que sus resultados sean reproducibles deben poner los elementos clave de su estudio abiertamente a disposición de los demás.
 
-<img src="../images/media/image130_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image130_es.png" style="width: 100%; height: auto;" alt="Diagrama con el listado de productos para cada hito del flujo de trabajo. Para el hito Ideación, el producto es Propuestas. Para el hito Planificación y para el hito Planificación del proyecto, el producto es Planes de Gestión de Datos y código de conducta. Para el hito Compromiso y formación, el producto es Tutoriales y pautas para colaboradores. Para el hito Recolección de datos, el producto es Datos sin procesar y metadatos. Para el hito Gestión de datos, el producto es Ciclos de análisis. Para el hito Exploración de datos, el producto es Código y cuadernos. Para el hito Preservación, el producto es Archivos. Para el hito Reporte y publicación, los productos son Artículos, conferencias, blogs, videos y tuits." />
+
 
 Productos del flujo de trabajo de Ciencia Abierta. Fuente: Opensciency
 
@@ -129,7 +130,7 @@ Continuando con el flujo de trabajo, este diagrama actualizado muestra ahora los
 
 ### Usar, Hacer, Compartir
 
-<img src="../images/media/image165_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image165_es.png" style="width: 100%; height: auto;" alt="Ilustración del sistema “Usar, Hacer, Compartir”" />
 
 La idea de que la Ciencia Abierta puede afectar a todo tu flujo de trabajo científico puede parecer abrumadora e inalcanzable, pero recuerda: la Ciencia Abierta se da a través de todo un espectro. Incluso los pequeños pasos hacia la apertura conducen a una ciencia más accesible, inclusiva y reproducible. Y el plan de estudios de Introducción a la Ciencia Abierta está aquí para ayudarte a atravesar este proceso.
 
@@ -151,7 +152,7 @@ Los módulos 3, 4 y 5 abordarán cómo generar tus datos, tu código y tus resul
 
 ### ¿Cómo vas a compartir?
 
-<img src="../images/media/image257_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image257_es.png" style="width: 100%; height: auto;" alt="Texto en un globo: “¿Cómo vas a compartir tus resultados más allá de una publicación? Incluye en tu plan actividades sociales y de difusión - ¿Cómo estás capacitando e involucrando a tus pares, comunidad y el público?”. A la derecha se ve una ilustración de charla o taller con varias personas sentadas y una persona presentando frente a una pantalla con gráficos e íconos." />
 
 Crédito de la imagen: Freepik.com
 
@@ -175,23 +176,26 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 
 ## Caso de estudio: Los resultados de un Plan Abierto
 
-<img style="width:100%;height:auto;" src="../images/media/natashaquote_es.jpg">
+<img src="../images/media/natashaquote_es.jpg" style="width:100%;height:auto;" alt="Manos en un laboratorio usando una pipeta." />
+
+Crédito de la imagen: modificado por la NASA a partir de “Unrecognizable chemist taking liquid with pipette from test tube in modern laboratory” de RF..studio vía [Pexels](https://www.pexels.com/) (enlace externo)
 
 "Las pautas de la Ciencia Abierta de la NASA están centradas en nuestro trabajo de Ciencia de Temprana Liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo."
 
 **Coautora Dra. Natasha Batalha**
 
-Crédito de la imagen: modificado por la NASA a partir de “Unrecognizable chemist taking liquid with pipette from test tube in modern laboratory” de RF..studio vía [Pexels](https://www.pexels.com/) (enlace externo)
 
 ---
 
 Uno de los primeros descubrimientos del Telescopio Espacial James Webb (JWST, por sus siglas en inglés) fue la [primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella](https://www.nasa.gov/feature/goddard/2022/nasa-s-webb-detects-carbon-dioxide-in-exoplanet-atmosphere). Este descubrimiento se hizo posible gracias a la adopción de principios de Ciencia Abierta tanto por parte del proyecto como del equipo de investigación.
 
-<img src="../images/media/image255_es.jpg" style="width: 100%; height: auto;" />
+<img src="../images/media/image255_es.jpg" style="width: 100%; height: auto;" alt="Ilustración del Telescopio Espacial James Webb (JWST) en el espacio." />
+
 
 Crédito de la imagen: NASA's Goddard Space Flight Center Conceptual Image Lab
 
-<img src="../images/media/atmocomp_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/atmocomp_es.png" style="width: 100%; height: auto;" alt="Gráfico de la composición atmosférica del exoplaneta WASP-39 b medido con JWST (NIRSpec). Eje vertical: cantidad de luz bloqueada. Eje horizontal: longitud de onda (micrones)." />
+
 
 Crédito de la figura: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
@@ -203,7 +207,8 @@ Veamos qué resultados abiertos se obtuvieron y, mientras lo hacemos, echemos un
 
 ### Planificación para la Ciencia Abierta
 
-<img src="../images/media/image193_es.png" style="width: 100%; height: auto;" />
+<img src="../images/media/image193_es.png" style="width: 100%; height: auto;" alt="Línea de tiempo con hitos de un proyecto para Ciencia Abierta. Aparecen en orden: Ideación; Planificación (remarcado); Planificación del proyecto; Compromiso y formación; Recolección de datos; Gestión de datos; Exploración de datos; Preservación; Reporte y publicación." />
+
 
 <table>
     <colgroup>
