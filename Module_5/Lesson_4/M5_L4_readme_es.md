@@ -408,7 +408,7 @@ Leé la afirmación a continuación y decidí si es verdadera o falsa.
 
 Mirá con atención la solicitud para enviar un artículo a una revista a continuación. ¿Esta solicitud parece confiable?
 
-<img src="../images/media/image74_es.jpeg" style="width:100%;height:auto;" />
+<img src="../images/media/image74_es.png" style="width:100%;height:auto;" />
 
 - Sí
 - No
