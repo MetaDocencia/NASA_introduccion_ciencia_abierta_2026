@@ -217,10 +217,10 @@ Pasos para esta actividad:
 1. Inicia sesión en [GitHub](https://github.com/). Si aún no lo has hecho, crea una cuenta de usuario gratuita.
 2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
 3. Escribe un nombre breve que puedas recordar para tu repositorio. Por ejemplo, "os-test".
-4. Establece la visibilidad del repositorio como 'Pública' seleccionando esta opción durante su creación.
+4. Establece la visibilidad del repositorio como 'Pública' al seleccionar esta opción durante su creación.
 5. En 'Inicializar este repositorio con:' (_Initialize this repository with:_ en inglés) selecciona 'Añadir un archivo README' (_Add a README file_ en inglés).
 6. Selecciona cualquier licencia con el botón (_Choose a license_ (en inglés).
-7. Haz clic en 'Crear repositorio' (_Create repository_ en inglés).
+7. Selecciona 'Crear repositorio' (_Create repository_ en inglés).
 8. Se te redirigirá automáticamente a la página de tu nuevo repositorio.
 9. Ahora obtendremos un DOI para la aplicación Zenodo. Ten en cuenta que vamos a usar [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/) para ello. ¡Esto ofrece todas las mismas posibilidades que [https://zenodo.org](https://zenodo.org/) pero es un sitio de pruebas! Crea una cuenta gratuita si aún no lo has hecho.
 
