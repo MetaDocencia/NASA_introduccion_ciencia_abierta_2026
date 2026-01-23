@@ -321,16 +321,17 @@ Tómate el tiempo necesario para localizar la revista de origen y proporcionar u
 
 **Ejemplo de servidor de preprints de arXiv (citar solo si no hay publicación en revista disponible)**
 
-<img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image31_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de una página de arXiv alojada en Cornell University. Se ve el encabezado rojo de arXiv, el título del artículo “Evidencia de múltiples shocks a partir de la emisión de rayos gamma de RS Ophiuchi”, la lista de autores y el inicio del resumen. A la derecha aparece un panel con opciones de acceso al documento (PDF, fuente, otros formatos), enlaces de navegación y secciones de referencias y citas." />
 
-Evidencia de múltiples choques a partir de la emisión de rayos gamma de RS Ophiuchi [captura de pantalla]. (2023). arXiv. [https://arxiv.org/abs/2211.02059](https://arxiv.org/abs/2211.02059) (enlace externo, en inglés)
+
+Evidencia de múltiples choques a partir de la emisión de rayos gamma de RS Ophiuchi. (2023). arXiv. [https://arxiv.org/abs/2211.02059](https://arxiv.org/abs/2211.02059) (enlace externo, en inglés)
 
 ---
 **Ejemplo de publicación fuente en una revista (citar siempre)**
 
-<img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image32_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de una página de artículo en The Astrophysical Journal. Se ve el título “Evidencia de múltiples impactos causados por la emisión de rayos γ de RS Ophiuchi”, la lista de autores, la fecha de publicación y el DOI, junto con botones para descargar el artículo en PDF o ePub. A la derecha aparecen métricas del artículo (como descargas y citas) y opciones para compartir." />
 
-Evidence for multiple shocks from the γ-ray emission of RS Ophiuchi [captura de pantalla]. (2023). IOPscience. [https://iopscience.iop.org/article/10.3847/1538-4357/acc105](https://iopscience.iop.org/article/10.3847/1538-4357/acc105) (enlace externo)
+Evidence for multiple shocks from the γ-ray emission of RS Ophiuchi. (2023). IOPscience. [https://iopscience.iop.org/article/10.3847/1538-4357/acc105](https://iopscience.iop.org/article/10.3847/1538-4357/acc105) (enlace externo)
 
 ---
 
