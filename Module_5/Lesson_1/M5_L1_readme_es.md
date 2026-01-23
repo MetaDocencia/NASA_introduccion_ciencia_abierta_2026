@@ -51,8 +51,9 @@ Recién en el siglo XXI la comunidad científica amplió el significado de Resul
 
 Es posible que conozcas cómo es el ciclo de vida de una investigación, pero tal vez no hayas considerado qué resultados podrían compartirse abiertamente a lo largo de este proceso. Esta lección adopta una definición del ciclo de vida de la investigación basada en *The Turing Way* y lo desglosa en nueve fases, como se muestra en la figura a continuación. (OpenSciency Contributors, 2023; The Turing Way, 2024)
 
-<img src="../images/media/image7_es.png" style="width:100%;height:auto;" />
-Crédito de imagen: NASA  
+<img src="../images/media/image7_es.png" style="width:100%;height:auto;" alt="Diagrama del flujo de trabajo con hitos y productos asociados. Hitos: Ideación → producto: “Propuestas”. Planificación y Planificación del proyecto → productos: “Planes de Gestión de Datos, código de conducta”. Compromiso y formación → producto: “Tutoriales, pautas para colaboradores”. Recolección de datos → producto: “Datos sin procesar, metadatos”. Gestión de datos → producto: “Ciclos de análisis”. Exploración de datos → producto: “Código, cuadernos”. Preservación → producto: “Archivos”. Reporte y publicación → productos: “Artículos, conferencias, blogs, videos, tuits”." />
+Crédito de imagen: NASA.
+
 Fuente de productos del flujo de trabajo de ciencia abierta: Opensciency.
 
 Aunque las fases se presentan de manera lineal, reconocemos que el ciclo de investigación rara vez lo es. Se crean productos a lo largo del proceso científico que se necesitan para que otras personas puedan reproducir los hallazgos. Los productos de investigación incluyen artículos de revistas, datos y código, así como presentaciones, actas de congresos, informes, documentos técnicos, algoritmos, modelos y simulaciones, materiales de divulgación, tutoriales y muchos otros. El término “Resultados Abiertos” abarca de manera integral todos estos productos de investigación y más.
@@ -79,7 +80,7 @@ A lo largo de este módulo te mostraremos cómo usar, hacer y compartir Resultad
 
 Específicamente, el sistema "Usar, Hacer, Compartir" ha sido integrado de forma natural a lo largo de este plan de estudios y debería resultarte un formato familiar en este momento. La Lección 2 cubrirá "Usar". La Lección 3, "Hacer". Y la Lección 4, "Compartir". A lo largo de este módulo, prestaremos especial atención a los manuscritos y otros productos de investigación como ejemplos, ya que los módulos anteriores cubrieron el sistema "Usar, Hacer, Compartir" sobre datos y software abiertos.
 
-<img src="../images/media/thepracticeofopen_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/thepracticeofopen_es.png" style="width:100%;height:auto;" alt="Diagrama “Usar, Hacer, Compartir” organizado en tres columnas. Columna USAR: “Descubrir productos existentes”; “Evaluar productos existentes”; “Usar productos existentes”. Columna HACER: “Crear un plan de gestión”; “Crear nuevos productos”; “Crear guías de contribución”; “Crear papers reproducibles”. Columna COMPARTIR: “¿Se pueden compartir los productos? (regulación)”; “¿Cuándo compartirlos?”; “¿Cómo compartirlos? (Qué revista elegir)”; “¿Dónde compartirlos?”; “Archivar”; “Asignar una licencia”; “Verificar identificadores” (“ORCID”, “DOI”); “Crear citación”. En la parte superior hay flechas que sugieren un ciclo y se incluyen íconos ilustrativos sobre cada columna." />
 Crédito de imagen: NASA
 
 ## Ejemplos de Resultados Abiertos
@@ -88,8 +89,9 @@ Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación**
 
 ### Llegar a nuevas audiencias
 
-<img src="../images/media/image9_es.png" style="width:100%;height:auto;" />
-Taller de Google Earth Engine y geemap en GeoPython Conference 2021 [captura de pantalla]. (2025). YouTube. [https://www.youtube.com/watch?v=wGjpjh9IQ5I](https://www.youtube.com/watch?v=wGjpjh9IQ5I) (enlace externo)
+<img src="../images/media/image9_es.png" style="width:100%;height:auto;" alt="Captura de pantalla del sitio web de GeoPython: banner principal con el texto “22-23 de abril de 2020” y “2 días de GeoPython”." />
+
+Taller de Google Earth Engine y geemap en GeoPython Conference 2021. YouTube. [https://www.youtube.com/watch?v=wGjpjh9IQ5I](https://www.youtube.com/watch?v=wGjpjh9IQ5I) (enlace externo)
 
 El profesor Qiusheng Wu, asociado en la Universidad de Tennesee, creó un [canal de YouTube](https://youtube.com/%40giswqs) (enlace externo) en abril de 2020 con el propósito de compartir tutoriales en video sobre el [paquete de Python geemap](https://geemap.org/) (enlace externo) que estaba desarrollando. Desde entonces, Wu ha publicado más de 700 tutoriales en video sobre temas geoespaciales de código abierto. El canal superó los 42 mil suscriptores, con más de 1,9 millones de visualizaciones y más de 60 mil horas de reproducción en total. En promedio, recibe 70 horas de reproducción al día.
 
@@ -130,7 +132,8 @@ Y, por último, pero no por ello menos importante, tenemos el ejemplo del equipo
 
 Las plataformas de comunicación abierta ampliaron el alcance y la audiencia de los resultados, habilitaron la participación de más de 400 personas investigadoras y contribuyeron a un descubrimiento increíble: la primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella.
 
-<img src="../images/media/image13_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image13_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama de flujo del proceso de investigación con etapas como ideación, planificación del proyecto, recolección y exploración de datos, y reporte y publicación. Reporte y publicación aparecen remarcadas y en la parte inferior se muestran ejemplos de publicación en acceso abierto: un artículo en Nature y su preprint en arXiv, ambos titulados “Identificación de dióxido de carbono en la atmósfera de un exoplaneta”." />
+
 - Identificación de dióxido de carbono en una atmósfera de un exoplaneta [captura de pantalla]. (2023). Nature. [https://www.nature.com/articles/s41586-022-05269-w](https://www.nature.com/articles/s41586-022-05269-w) (enlace externo)  
 - Identificación de dióxido de carbono en una atmósfera de un exoplaneta [captura de pantalla]. (2023). arXiv. [https://arxiv.org/abs/2208.11692](https://arxiv.org/abs/2208.11692) (enlace externo)
 
@@ -138,7 +141,8 @@ Al público le interesa lo que estás haciendo y llegar a ese público puede imp
 
 Las plataformas de comunicación abierta ampliaron notablemente el alcance y la audiencia de los resultados.
 
-<img src="../images/media/image14_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama del flujo de trabajo de investigación que culmina en “Reporte y publicación” (remarcada). Debajo se muestran ejemplos de comunicación abierta en redes y plataformas: dos publicaciones en Twitter, un video en TikTok y un video en YouTube, junto a los íconos de cada plataforma y un mensaje que destaca que hay muchas maneras de reportar resultados abiertos." />
+
 - Publicación de Megan Weiner Mansfield [captura de pantalla]. (2023). X. [https://x.com/cornerof_thesky/status/1595086671275589632?s=20](https://x.com/cornerof_thesky/status/1595086671275589632?s=20) (enlace externo)  
 - Publicación de Vivien Parmentier [captura de pantalla]. (2023). X. [https://x.com/V_Parmentier/status/1595127493199302656?s=20](https://x.com/V_Parmentier/status/1595127493199302656?s=20) (enlace externo)  
 - Publicación de Astro jacket [captura de pantalla]. (2023). TikTok. [https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1](https://www.tiktok.com/@astrojaket/video/7168878696906886405?_t=8XZZBvQW9bh&_r=1) (enlace externo)  
@@ -160,7 +164,8 @@ Hay muchos incentivos personales para implementar principios de ciencia abierta 
 
 ### ¿Cuál es la causa de esta crisis de reproducibilidad?
 
-<img src="../images/media/image16_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image16_es.png" style="width:100%;height:auto;" alt="Diagrama de una línea de tiempo del proceso de investigación con etapas etiquetadas: Ideación, Planificación, Planificación del proyecto, Compromiso y formación, Recolección de datos, Gestión de datos, Exploración de datos, Preservación y Reporte y publicación. La línea avanza de izquierda a derecha." />
+
 Crédito de imagen: NASA
 
 Las tres causas principales de la crisis de reproducibilidad son:
