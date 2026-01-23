@@ -44,7 +44,7 @@ Para estos ejemplos, ¿Qué otra información o detalles podrían añadirse? Si 
 
 [**La NASA anuncia que el verano de 2023 será el más caluroso jamás registrado**](https://www.nasa.gov/news-release/nasa-announces-summer-2023-hottest-on-record/)
 
-<img src="../images/media/image75_es.jpeg" style="width:350px;height:auto;" />
+<img src="../images/media/image75_es.jpeg" style="width:350px;height:auto;" alt="Mapa mundial con una escala de colores que muestra anomalías de temperatura: predominan tonos amarillos, naranjas y rojos." />
 
 Crédito de la imagen: NASA Earth Observatory/Lauren Dauphin.
 
