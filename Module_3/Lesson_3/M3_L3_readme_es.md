@@ -48,7 +48,11 @@ Son preferibles los formatos de datos compatibles con los usados por la comunida
 - ¿Hay herramientas disponibles o se necesitan herramientas especializadas para leer el formato de los datos?
 - ¿El formato de los datos se utiliza habitualmente en tu disciplina? Las normas comunitarias garantizan la compatibilidad, la interoperabilidad y la facilidad de uso al intercambiar o compartir datos entre personas que investigan u organizaciones de la misma comunidad.
 
-<img src="../images/media/image31_es.png" style="width:100%;height:auto;" />
+<img
+  src="../images/media/image31_es.png"
+  style="width:100%;height:auto;"
+  alt="Diagrama con cuatro preguntas guía para elegir formatos de datos y sus explicaciones. Pregunta 1: “¿El formato de los datos es compatible con su tipo, forma y tamaño?”. Respuesta 1: "Por ejemplo, si tienes datos oceánicos 3-d de un modelo global, tal vez quieras elegir un formato de dato que permita datos multidimensionales, ¡como netcdf!". Pregunta 2: “¿Este tipo de formato es usual en nuestra disciplina?”. Respuesta 2: "Los estándares adoptados por la comunidad aseguran la compatibilidad, interoperabilidad y facilidad de uso cuando intercambias o compartes datos entre quienes investigan u organizaciones de una misma comunidad". Pregunta 3: “¿El formato de los datos tiene un soporte de metadatos adecuado?”. Respuesta 3: "Como aprendimos previamente, los metadatos son clave para que los datos sean FAIR". Pregunta 4: “¿Hay herramientas fácilmente disponibles o se necesitan herramientas especializadas para leer el formato de los datos?”. Respuesta 4: "Usa formatos de datos abiertos siempre que puedas. ¡Revisa la siguiente imagen para más detalles sobre formatos de datos abiertos!"."
+/>
 Crédito de la imagen: NASA
 
 Consulta si tu organismo de financiación, institución o repositorio de datos tiene requisitos adicionales o alguna guía sobre los formatos de datos.
@@ -181,10 +185,9 @@ La versión adecuada preserva la calidad y la procedencia de los datos (el orige
 
 ## Hacer que los datos sean reusables mediante las licencias
 
-<img src="../images/media/image32_es.png" style="width:100%;height:auto;" />
-
+<img src="../images/media/image32_es.png" style="width:100%;height:auto;" alt="Viñeta estilo dibujo a mano sobre papel cuadriculado. Se ve un árbol grande y, junto al tronco, un personaje sentado. Texto en la viñeta: “A veces simplemente no puedo indignarme con los derechos de autoría”." />
 Crédito de la imagen: XKCD con licencia CC BY-NC 2.5 DEEX. 
-El personaje de la viñeta reflexiona: "A veces simplemente no puedo indignarme por la ley de derechos de autor."
+
 
 ---
 
@@ -203,7 +206,11 @@ Un conjunto de datos sin licencia no significa que los datos estén abiertos; su
 
 Es crucial entender cuándo y dónde se aplica la licencia. Por ejemplo, los datos generados con fondos públicos de investigación del Gobierno de los Estados Unidos son, por defecto, de dominio público. Sin embargo, esto solo aplica a la jurisdicción de los Estados Unidos. Para que esto se aplique internacionalmente, quienes generan datos deben seleccionar una licencia abierta.
 
-<img src="../images/media/image34_es.png" style="width:100%;height:auto;" />
+<img
+  src="../images/media/image34_es.png"
+  style="width:100%;height:auto;"
+  alt="Tabla con información sobre distintos tipos de Licencias. Atribución (BY): “En cualquier explotación de la obra autorizada por la licencia será necesario reconocer la autoría (obligatoria en todos los casos).”. No Comercial (NC): “La explotación de la obra queda limitada a usos no comerciales.”. Sin obras derivadas (ND): “La autorización para explotar la obra no incluye la posibilidad de crear una obra derivada.”. Compartir Igual (SA): “La explotación autorizada incluye la creación de obras derivadas siempre que mantengan la misma licencia al ser divulgadas.”. Dominio Público CC0: “La persona titular de los derechos de autor ha renunciado voluntariamente a sus derechos y la obra puede utilizarse libremente.”"
+/>
 Crédito: NASA
 
 Existen varios tipos de licencias que se construyen entre sí. Las licencias Creative Commons (CC) se usan a menudo para conjuntos de datos. CC0 (también conocido como "dominio público") es la licencia que permite el mayor reúso porque tiene las menores restricciones sobre lo que las personas usuarias pueden hacer. Aunque la licencia CC0 no exige explícitamente citas, debes seguir las mejores prácticas de la comunidad y citar la fuente de los datos. CC-BY es otra licencia común utilizada para datos científicos que requiere citar la fuente. A partir de ahí, puedes añadir restricciones sobre el uso comercial, la capacidad de adaptar o modificar los datos o los requisitos para compartir con la misma licencia. Estas decisiones reducen la usabilidad al imponer restricciones, por lo que otras personas que hacen ciencia no podrán usar los datos debido a impedimentos institucionales o legales. Las agencias de financiación pueden requerir el uso de una licencia específica. Para las agencias públicas, a menudo se usa CC-0 o CC-BY para maximizar la rentabilidad de la inversión y asegurar la reutilización más amplia posible.
@@ -212,7 +219,11 @@ Existen varios tipos de licencias que se construyen entre sí. Las licencias Cre
 
 Aquí hay un ejemplo de cómo una licencia de datos puede afectar el reuso. La Fase 6 del Proyecto de Intercomparación de Modelo Acoplado (Coupled Model Intercomparison Project Phase 6 [CMIP6]) consiste en "correr" alrededor de 100 modelos climáticos distintos que se están produciendo mediante 49 grupos de modelado diferentes. Estos son los datos que se usan para entender cómo podría ser nuestro futuro clima. Tú probablemente hayas visto imágenes que usan estos datos en artículos sobre el cambio climático de la Tierra y cómo puede impactar en nuestras vidas. Las versiones anteriores de estos datos estaban bajo la licencia CC-BY-NC-SA (Creative Commons: atribución, no comercial, compartir igual).
 
-<img src="../images/media/ipccm3l3_es.png" style="width:100%;height:auto;" />
+<img
+  src="../images/media/ipccm3l3_es.png"
+  style="width:100%;height:auto;"
+  alt="Mapa mundial con países sombreados según el “Índice global de ODS (0–100)” y áreas en tonos rojizos superpuestos. En la parte inferior hay un gráfico de barras que muestra “Billones de personas” en función del “Calentamiento respecto al período preindustrial en la estación con mayor calentamiento (°C)”."
+/>
 Fuente de la imagen: "An IPCC Special Report" por ResearchGate
 
 ---
