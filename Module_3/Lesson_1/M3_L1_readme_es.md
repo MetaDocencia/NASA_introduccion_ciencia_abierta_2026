@@ -33,7 +33,7 @@ En muchos sentidos, los Datos Abiertos son una expansión natural de la Ciencia 
 
 Pérdida de tejido óseo, vértigo, anemia, atrofia muscular, mayor riesgo de cáncer; estos son solo algunos de los efectos secundarios de viajar al espacio para los humanos. Para estudiar estos riesgos de viajar al espacio para la salud humana, las personas que investigan en el mundo usan la plataforma GeneLab de Código Abierto de la NASA. GeneLab recopila grandes cantidades de datos de biología espacial en el [Open Science Data Repository (OSDR)](https://www.nasa.gov/osdr/), que incluye datos sobre muestras humanas y de organismos modelo expuestas a condiciones de viaje espacial. Sus repositorios [digitales](https://osdr.nasa.gov/bio/repo/search?q=&data_source=cgene,alsda&data_type=study) y físicos incluyen información celular, así como ADN, ARN y proteínas. Al ser una plataforma abierta, los datos de GeneLab son públicamente accesibles y sin costo.
 
-<img src="../images/media/image2_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image2_es.jpg" style="width:100%;height:auto;" alt="Imagen de un astronauta flotando en el espacio, con la Tierra al fondo. Sobre la imagen hay dos recuadros de texto. Uno indica: "Las personas investigadoras identificaron un posible responsable de los cambios que se ven en el cuerpo en el espacio: el motor de la célula, llamada mitocondria"; el otro señala: "Este análisis usa datos de la plataforma abierta GeneLab colectados durante décadas de experimentación en la Estación Espacial Internacional, incluyendo muestras de 59 astronautas"." />
 Crédito de la imagen: "Astronaut at spacewalk (en español, Astronauta en caminata espacial)" por Vadimsadovski vía [AdobeStock](https://stock.adobe.com/contributor/203529807/vadimsadovski?load_type=author&prev_url=detail&asset_id=132366202), licencia estándar (enlace externo)
 
 ### Ejemplo
@@ -48,7 +48,7 @@ Para obtener información adicional sobre el estudio del estrés mitocondrial en
 
 ### ¿Qué son los datos?
 
-<img src="../images/media/image3_es.png" style="width:350px;height:auto;" />
+<img src="../images/media/image3_es.png" style="width:500px;height:auto;" alt="Ilustración de una persona caminando por un sendero mientras carga un gran cubo que dice: “DATA”. A la izquierda, un cartel indica: “REPOSITORIO DE DATOS” y debajo: “DEPÓSITOS BIENVENIDOS”, con una flecha apuntando hacia la izquierda." />
 La Comunidad The Turing Way (en inglés, The Turing Way Community). Esta ilustración fue creada por Scriberia con la comunidad de The Turing Way y se usa bajo una licencia CC-BY 4.0. [DOI: 10.5281/zenodo.3332807](https://zenodo.org/records/3332808) (enlace externo)
 
 ---
@@ -71,10 +71,9 @@ Los datos incluyen:
 **Metadatos** – Los metadatos son un tipo especial de datos que describen otros datos u objetos (por ejemplo, muestras). Normalmente se utilizan para proporcionar información estándar sobre un conjunto de datos con el fin de facilitar su uso e interpretación.
 
 El término "Datos Abiertos" se define en el manual de Datos Abiertos de la Open Knowledge Foundation (Fundación Conocimiento Abierto):
+"Los Datos Abiertos son datos que cualquiera puede usar, reusar y redistribuir libremente, sujetos únicamente y como máximo al requisito de atribuir y compartir por igual" [¿Qué son los Datos Abiertos? (en inglés, What is Open Data?), s. f.](https://opendatahandbook.org/guide/en/what-is-open-data/)
 
 <img style="width:100%;height:auto;" src="../images/media/opendatahandbookquote_es.jpg">
-
-"Los Datos Abiertos son datos que cualquiera puede usar, reusar y redistribuir libremente, sujetos únicamente y como máximo al requisito de atribuir y compartir por igual" [¿Qué son los Datos Abiertos? (en inglés, What is Open Data?), s. f.](https://opendatahandbook.org/guide/en/what-is-open-data/)
 Crédito de la imagen: Foto de Killian Cartignies en [Unsplash](https://unsplash.com/photos/person-wearing-silver-bracelet-holding-a-light-oKb2_15Uc8w) (enlace externo)
 
 Al hablar de datos en el contexto de este módulo, nos centramos en los datos que estás preparando para compartir, como los asociados a una publicación científica, sin importar de qué tipo de datos se trate. Si bien podrías compartir (y muchas personas lo hacen) libretas de laboratorio, análisis preliminares, productos de datos intermedios, borradores de publicaciones científicas, planes para investigaciones futuras y otras cosas similares, estos normalmente no son requeridos por agencias o instituciones financiadoras y, por lo tanto, no serán el foco de este módulo.
@@ -167,7 +166,7 @@ La implementación de buenas prácticas para la Ciencia Abierta puede fortalecer
 
 Tómate un momento para reflexionar sobre lo que significa para ti compartir datos.
 
-<img style="width:100%;height:auto;" src="../images/media/image6_es.jpeg">
+<img style="width:100%;height:auto;" src="../images/media/image6_es.jpeg" alt="Nube de palabras" />
 
 Fuente de la imagen: Nube de palabras "Open Research Data - the FAIRest Data is the Future of Science - Estonia national OpenAIRE event" por OpenAIRE, con licencia CC 4.0
 
@@ -206,7 +205,7 @@ En última instancia, eres libre de implementar los principios y recursos de los
 
 ## Aplicación de los Principios FAIR
 
-<img src="../images/media/image9_es.jpg" style="width:100%;height:auto;" />
+<img src="../images/media/image9_es.jpg" style="width:100%;height:auto;" alt="Caricatura en trazo naranja titulada “PRINCIPIOS FAIR”. Presenta cuatro viñetas, cada una asociada a un principio: “FÁCIL DE ENCONTRAR” (una persona busca datos en una hoja), “ACCESIBLE” (otra persona accede a datos en un pizarrón donde aparece un DOI), “INTEROPERABLE” (una persona frente a una computadora se pregunta cómo abrir un archivo .xz) y “REUSABLE” (dos personas intercambian un paquete con el símbolo de Creative Commons, indicando permisos de reutilización). " />
 
 Crédito de la imagen: Una caricatura que describe el intercambio de datos FAIR por Patrick Hochstenbach, con licencia CC0 1.0
 
@@ -369,14 +368,14 @@ Para este plan de estudios, utilizamos el modelo de flujo de trabajo de Openscie
 
 Si tu proyecto ya está en curso, es una buena idea actualizar futuras publicaciones de datos para adherirse a los principios de Datos Abiertos en la medida de lo posible. Para nuevos proyectos, tus propuestas deberían incluir la creación de Datos Abiertos desde el inicio de tu proyecto.
 
-<img src="../images/media/image10_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image10_es.png" style="width:100%;height:auto;" alt="Diagrama del flujo de trabajo con hitos y productos asociados. Hitos: Ideación → producto: “Propuestas”. Planificación y Planificación del proyecto → productos: “Planes de Gestión de Datos, código de conducta”. Compromiso y formación → producto: “Tutoriales, pautas para colaboradores”. Recolección de datos → producto: “Datos sin procesar, metadatos”. Gestión de datos → producto: “Ciclos de análisis”. Exploración de datos → producto: “Código, cuadernos”. Preservación → producto: “Archivos”. Reporte y publicación → productos: “Artículos, conferencias, blogs, videos, tuits”." />
 Fuente de productos del flujo de trabajo de Ciencia Abierta: Opensciency.
 
 En este plan de estudios, el contenido se organiza según cómo podrías usarlo, hacerlo y compartirlo. Una parte de la Ciencia Abierta consiste en construir sobre los materiales de otros (usar), crear materiales por ti mismo (hacer) y compartirlos para que otros puedan usar esos resultados (compartir). Las lecciones se organizan en torno a estos pasos del flujo de trabajo científico.
 
 El sistema "Usar, Hacer, Compartir" clasifica las tareas más habituales en la práctica de la Ciencia Abierta.
 
-<img src="../images/media/image11_es.png" style="width:100%;height:auto;" />
+<img src="../images/media/image11_es.png" style="width:100%;height:auto;" alt="Diagrama “Usar, Hacer, Compartir”. Tres columnas: USAR: “Descubrir productos existentes”; “Evaluar productos existentes”; “Usar productos existentes”. HACER: “Crear un plan de gestión”; “Seleccionar las bases de la creación (por ej. formatos, base de código)”; “Crear nuevos productos”. COMPARTIR: “¿Se pueden compartir los productos? (regulación)”; “¿Dónde se pueden compartir?” (subpunto: “Archivar”); “Asignar una licencia”; “Verificar identificadores” (subpuntos: “ORCID”, “DOI”); “Crear la cita”." />
 
 ### Roles en Usar, Hacer, Compartir
 
