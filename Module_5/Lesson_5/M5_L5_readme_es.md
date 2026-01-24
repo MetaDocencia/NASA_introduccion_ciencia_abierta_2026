@@ -45,13 +45,15 @@ Para estos ejemplos, ¿Qué otra información o detalles podrían añadirse? Si 
 
 **Encode: Multidimensional encoding of brain connectomes (external link)**
 
-[IMG: PENDIENTE - https://nasastem.instructure.com/courses/283/pages/module-5-lesson-5-from-theory-to-practice?module_item_id=5027] Image credit: Caiafa, C.F., Pestilli, F. Multidimensional encoding of brain connectomes. Sci Rep 7, 11491 (2017). https://doi.org/10.1038/s41598-017-09250-w (external link)
+[IMG: https://drive.google.com/file/d/175k1ZbLsidYebFwyzq-Qj35M_lLKLksm/view?usp=drive_link
+
+Crédito de imagen: Caiafa, C.F., Pestilli, F. Multidimensional encoding of brain connectomes. Sci Rep 7, 11491 (2017). https://doi.org/10.1038/s41598-017-09250-w (enlace externo)
 
 ---
 
 Cuando los resultados y los objetos de investigación se publican abiertamente, cualquiera puede reproducir el resultado científico. Para temas como el cambio climático, la transparencia de los resultados ayuda a reducir la desinformación y aumenta la confianza del público en los resultados.
 
-Here is an example of open-source software and repositories available through GitHub. [Encode](https://github.com/brain-life/encode) (external link) is a software that can be used in neurocomputational analyses of diffusion-weighted magnetic resonance imaging (dMRI) data to visualize anatomical structures and connectomes in the brain. This software, [described here](https://www.nature.com/articles/s41598-017-09250-w#Abs1) (external link), can be incredibly useful for mapping brain networks and understanding relations in human health and disease. The GitHub page also contains repositories for the necessary accompanying software as well as demo datasets for users to run while learning the code. This is a great example of how researchers can make science open and methods easy to follow such that research can continue smoothly.
+Aquí se presenta un ejemplo de software de código abierto y de repositorios disponibles a través de GitHub. [Encode](https://github.com/brain-life/encode) (enlace externo, en inglés) es un software que puede utilizarse en análisis neurocomputacionales de datos de resonancia magnética ponderada por difusión (en inglés, diffusion-weighted magnetic resonance imaging dMRI) para visualizar estructuras anatómicas y conectomas en el cerebro. Este software, [descrito aquí](https://www.nature.com/articles/s41598-017-09250-w#Abs1) (enlace externo, en inglés), puede resultar sumamente útil para mapear redes cerebrales y comprender relaciones en la salud y la enfermedad humanas. La página de GitHub también contiene repositorios para el software complementario necesario, así como conjuntos de datos de demostración que permiten a los usuarios ejecutar el código mientras aprenden a utilizarlo. Este es un excelente ejemplo de cómo quienes hacen investigación puede hacer Ciencia Abierta y presentar métodos fáciles de seguir, de modo que la investigación pueda continuar de manera fluida y sostenible.
 
 Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alcance de los proyectos. Estos son algunos pasos que puedes tomar para compartir tus Resultados Abiertos de forma que tu trabajo sea más utilizable, reproducible e colaborativo:
 
@@ -78,14 +80,14 @@ Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alc
 
 A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho a la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo usar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizarlas de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
 
-[IMG: PENDIENTE ]
-
+[IMG: [PENDIENTE ](https://drive.google.com/file/d/1vot6xoCkNlIPow41UjX_RXWo7qEWxi_h/view?usp=drive_link)]
+Crédito de imagen: NASA
 
 La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando libres a las personas que investigan para pensamientos más creativos. Estas herramientas son mejores que los humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Es importante tener esto en cuenta a la hora de determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido sugerido generado por IA. En el ámbito científico, hay muchas tareas que podrían agilizarse usando la IA, según tres estudios publicados en Nature:
 
-- [Los motores de búsqueda de ciencias de la IA están creciendo en número — ¿son buenos?](https://www.nature.com/articles/d41586-023-01273-w) (en inglés).
-- [Cómo la tecnología de IA puede dominar la literatura científica](https://www.nature.com/articles/d41586-018-06617-5) (en inglés).
-- [IA y ciencia: que piensan 1.600 personas que investigan](https://www.nature.com/articles/d41586-023-02980-0) (en inglés).
+- [Los motores de búsqueda de ciencias de la IA están creciendo en número — ¿son buenos?](https://www.nature.com/articles/d41586-023-01273-w) (enlace externo, en inglés).
+- [Cómo la tecnología de IA puede dominar la literatura científica](https://www.nature.com/articles/d41586-018-06617-5) (enlace externo, en inglés).
+- [IA y ciencia: que piensan 1.600 personas que investigan](https://www.nature.com/articles/d41586-023-02980-0) (enlace externo, en inglés).
 
 ### Usando IA:
 
@@ -189,23 +191,24 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 
 ### Compartiendo con IA:
 
-- Resultados: Los modelos IA/AA (aprendizaje automático) se utilizan cada vez más en investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences) (en inglés).
-- Las indicaciones incrementales pueden ayudar a crear un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [X (antes conocido como Twitter)](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite) (en inglés).
+- Resultados: Los modelos IA/AA (aprendizaje automático) se utilizan cada vez más en investigación. Al compartir resultados, sigue las mejores prácticas descritas en el artículo [Uso ético y responsable de IA/AA en la Tierra, el Espacio y las Ciencias Ambientales](https://essopenarchive.org/users/536571/articles/635008-ethical-and-responsible-use-of-ai-ml-in-the-earth-space-and-environmental-sciences) (enlace externo, en inglés).
+- Las indicaciones incrementales pueden ayudar a crear un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [X (antes conocido como Twitter)](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite) (enlace externo, en inglés).
 - Las herramientas de IA pueden ayudar a identificar dónde compartir resultados y ayudar a escribir publicaciones breves en las redes sociales u otras publicaciones basadas en tu artículo.
 
-[IMG: PENDIENTE https://nasastem.instructure.com/courses/283/pages/module-5-lesson-5-from-theory-to-practice?module_item_id=5027] Image credit: NASA
+[IMG: https://drive.google.com/file/d/1vv8EdPwdlAlhKh224VMW-_5r8BDatvda/view?usp=drive_link] 
+Crédito de imagen: NASA
 
 ### Precauciones sobre el uso de herramientas de IA
 
-Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchas exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. Como sucede con todo otro material dentro de un artículo, las personas responsables de la autoría deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden ser leídos en las pautas de IA de [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/) (ambas en inglés).
+Las revistas están implementando cada vez más pautas y requisitos relacionados al uso de herramientas de IA durante el proceso de escritura. Muchas exigen que se divulgue el uso de herramientas de IA para escribir, crear imágenes u otros elementos y se identifique su método de uso. Como sucede con todo otro material dentro de un artículo, las personas responsables de la autoría deben garantizar que el contenido sea correcto. Ejemplos de esta política pueden ser leídos en las pautas de IA de [Nature](https://www.nature.com/nature-portfolio/editorial-policies/ai) y [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10318315/) (ambos enlaces externos, en inglés).
 
-Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido) que proporciona información plagiada en violación de las licencias, así como también falsificación de material, incluidas las citas. El uso de estas herramientas de IA puede dar lugar a hallazgos de mala conducta académica y de investigación en caso de que los materiales generados por IA contengan falsificación o plagio. Así que ten cuidado. Obtén más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) (en inglés).
+Además, existen numerosos ejemplos de IA generativa (tanto para código como para contenido) que proporciona información plagiada en violación de las licencias, así como también falsificación de material, incluidas las citas. El uso de estas herramientas de IA puede dar lugar a hallazgos de mala conducta académica y de investigación en caso de que los materiales generados por IA contengan falsificación o plagio. Así que ten cuidado. Obtén más información sobre posibles problemas con la IA en un [ejemplo de Nature](https://www.nature.com/nature-index/news/artificial-intelligence-writing-tools-promise-faster-manuscripts-for-researchers) (enlace externo, en inglés).
 
 En este momento, y por estas razones, las herramientas de IA generalmente no están permitidas en las solicitudes de subvenciones o en la revisión por pares y actividades de revisión de propuestas.
 
 El Instituto Nacional de Salud (NIH, por sus siglas en inglés) ha prohibido "a los revisores científicos por pares usar procesadores de lenguaje natural, grandes modelos de lenguaje, u otras tecnologías generativas de Inteligencia Artificial (IA) para analizar y formular críticas de revisión por pares para solicitudes de subvenciones y propuestas de contratos de Investigación y Desarrollo." Utilizar IA en el proceso de revisión por pares es una violación de la confidencialidad porque estas herramientas "no tienen garantía de dónde se enviarán, guardarán, verán o utilizarán los datos en el futuro." El uso de herramientas de IA para ayudar a redactar una crítica, o para ayudar a mejorar la gramática y la sintaxis de un borrador crítico, se consideran violaciones de la confidencialidad. (National Institutes of Health, 2023)
 
-Las herramientas de IA para la ciencia se están desarrollando rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura está avanzando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges usar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la revista Nature](https://www.nature.com/articles/d41586-023-02980-0) (en inglés). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se usen con el fin apropiado y de forma ética.
+Las herramientas de IA para la ciencia se están desarrollando rápidamente. La comprensión de la comunidad científica de cómo usar IA de forma ética y segura está avanzando a medida que su uso en la investigación se expande rápidamente. Las pautas anteriores ofrecen una instantánea en el tiempo y probablemente seguirán evolucionando. Si eliges usar estas herramientas para la investigación científica, considera cuidadosamente cuánto confiar en ellas y cómo sus sesgos pueden impactar los resultados, como se advierte en [este artículo de la revista Nature](https://www.nature.com/articles/d41586-023-02980-0) (enlace externo, en inglés). Internet ha transformado el mundo y es probable que las herramientas de IA hagan lo mismo. Como con cualquier herramienta, es importante que se usen con el fin apropiado y de forma ética.
 
 ## Lección 5: Resumen
 
@@ -227,7 +230,7 @@ _Pregunta_
 
 Lee la siguiente afirmación y decide si es verdadera o falsa.
 
-_Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos para que tus resultados estén disponibles de formas distintas a la de publicación tradicional, por ejemplo publicaciones de blogs o tutoriales en línea._
+_Es una buena idea incluir planes en tu Plan de Ciencia Abierta y Gestión de Datos para que tus resultados estén disponibles de formas distintas a la de publicación tradicional, por ejemplo, publicaciones de blogs o tutoriales en línea._
 
 - Verdadero
 - Falso
@@ -236,7 +239,7 @@ _Pregunta_
 
 **02/03**
 
-¿Cuál de los siguientes aspectos de IA se consideran como beneficios? Selecciona todos los que correspondan.
+¿Cuáles de los siguientes aspectos de IA se consideran como beneficios? Selecciona todos los que correspondan.
 
 - Recomendaciones personalizadas de artículos de revistas basadas en tu disciplina e intereses
 - Recomendaciones de datos y software relevantes para tu proyecto científico
@@ -248,7 +251,7 @@ _Pregunta_
 
 **03/03**
 
-¿Cuáles de los siguientes son los pasos que puedes tomar para compartir tus Resultados Abiertos en línea? Supongamos que, al igual que la actividad, estás compartiendo una visualización interactiva.
+¿Cuáles de los siguientes son los pasos que puedes seguir para compartir tus Resultados Abiertos en línea? Supongamos que, al igual que la actividad, estás compartiendo una visualización interactiva.
 
 - Organizar tu proyecto en un repositorio público de GitHub
 - Asignar una licencia abierta
@@ -266,11 +269,8 @@ La ciencia tiene como objetivo beneficiar a la sociedad. Compartir nuestra cienc
 A lo largo de este plan de estudios, nos hemos centrado en las habilidades necesarias para hacer que los productos y procesos de investigación estén a disposición de todas las personas. La práctica tradicional de compartir únicamente los resultados limita la visión de cómo se hace la ciencia y puede limitar quién puede participar en la ciencia. Al compartir tu proceso científico y trabajar abiertamente, avanza toda la ciencia de una manera más rápida y transparente. ¡Este plan de estudios continuará evolucionando a medida que evolucione la ciencia y agradecemos tus contribuciones!
 
 <img src="../images/media/opensciencequote_es.jpg" style="width:100%;height:auto;" />
-[IMG: PENDIENTE] Image credit: "Closeup of Little Atoms Under a Microscope" by Steve Johnson via Pexels (external link)
-
-["La Ciencia Abierta es el principio y la práctica de lograr que los productos y procesos de investigación estén disponibles para todas las personas, mientras se respeta las diversas culturas, manteniendo la seguridad, privacidad, fomentando la colaboración, la reproducibilidad y la equidad."]
-
-**https://open.science.gov/**
+[IMG: https://drive.google.com/file/d/1gN17IEX8KEVG2Z0JsKPYMn8tTIEwqL4h/view?usp=drive_link] 
+Crédito de imagen: "Primer plano de pequeños átomos bajo un microscopio (Closeup of Little Atoms Under a Microscope)" by Steve Johnson via [Pexels](https://www.pexels.com/) (enlace externo, en inglés).
 
 ---
 
@@ -298,42 +298,42 @@ A lo largo de este plan de estudios, nos hemos centrado en las habilidades neces
 
 **OpenSciency**
 
-[CLICK PARA MAS INFORMACIÓN](https://opensciency.github.io/sprint-content/) (en inglés)
+[CLICK PARA MAS INFORMACIÓN](https://opensciency.github.io/sprint-content/) (enlace externo, en inglés)
 
 **Curso online, masivo y abierto (MOOC, por sus siglas en inglés) de Ciencia Abierta**
 
-[CLICK PARA MAS INFORMACIÓN](https://opensciencemooc.eu/) (en inglés)
+[CLICK PARA MAS INFORMACIÓN](https://opensciencemooc.eu/) (enlace externo, en inglés)
 
 ### ¡Lleva tus habilidades en programación y ciencias de datos al siguiente nivel!
 
 **Carpentries**
 
-[CLICK PARA MAS INFORMACIÓN](https://carpentries.org/) (en inglés)
+[CLICK PARA MAS INFORMACIÓN](https://carpentries.org/) (enlace externo, en inglés)
 
 ### Lee guías en línea y aprende sobre las iniciativas en curso de la comunidad científica abierta:
 
 **The Turing Way**
 
-[CLICK PARA MAS INFORMACIÓN](https://the-turing-way.netlify.app/index.html) (en inglés)
+[CLICK PARA MAS INFORMACIÓN](https://the-turing-way.netlify.app/index.html) (enlace externo, en inglés)
 
 **Centro de Ciencia Abierta**
 
-[CLICK PARA MAS INFORMACIÓN](https://www.cos.io/) (en inglés)
+[CLICK PARA MAS INFORMACIÓN](https://www.cos.io/) (enlace externo, en inglés)
 
 **Open Science NL**
 
-[CLICK PARA MAS INFORMACIÓN](https://www.openscience.nl/en) (en inglés)
+[CLICK PARA MAS INFORMACIÓN](https://www.openscience.nl/en) (enlace externo, en inglés)
 
 Estos sitios son solo un comienzo: ¡hay muchos más recursos fantásticos de Ciencia Abierta en línea! ¡Sigue de cerca el contenido de aprendizaje de disciplinas específicas que están desarrollando actualmente los beneficiarios de la subvención ScienceCore de la NASA, y que aparecerá aquí una vez que esté disponible!
 
 ### Disclaimer
 
-Please note that we reference several papers throughout the course. Depending on the paper, it might be blocked by a paywall. If you would like to get a copy of the paper, please contact the author or search for it in an online preprint archive. For example, bioRxiv.org (external link).
+Ten en cuenta que a lo largo del curso se citan varios artículos. Dependiendo del artículo, es posible que el acceso esté restringido por un muro de pago. Si deseas obtener una copia, se recomienda contactar directamente al autor o buscar el trabajo en un repositorio de preprints en línea. Por ejemplo, [bioRxiv.org](https://www.biorxiv.org/) (enlace externo).
 
-### References Cited
+### Referencias
 
-Extance, A. (2018). How AI technology can tame the scientific literature. Nature, 561, 273-274. doi: https://doi.org/10.1038/d41586-018-06617-5 (external link)
-Hosseini, M., Rasmussen, L. M., & Resnik, D. B. (2023). Using AI to write scholarly publications. Accountability in Research, 31(7), 715-723. https://doi.org/10.1080/08989621.2023.2168535 (external link)
-National Institutes of Health. (2023). The Use of Generative Artificial Intelligence Technologies is Prohibited for the NIH Peer Review Process (NIH Notice No. NOT-OD-23-149). https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html (external link)
-Sanderson, K. (2023). AI science search engines are exploding in number — are they any good? Nature, 616, 639-640. doi: https://doi.org/10.1038/d41586-023-01273-w (external link)
-Van Noorden, R. & Perkel, J. (2023). AI and science: what 1,600 researchers think. Nature, 621, 672-675. doi: https://doi.org/10.1038/d41586-023-02980-0 (external link)
+Extance, A. (2018). How AI technology can tame the scientific literature. Nature, 561, 273-274. doi: https://doi.org/10.1038/d41586-018-06617-5 (enlace externo, en inglés)
+Hosseini, M., Rasmussen, L. M., & Resnik, D. B. (2023). Using AI to write scholarly publications. Accountability in Research, 31(7), 715-723. https://doi.org/10.1080/08989621.2023.2168535 (enlace externo, en inglés)
+National Institutes of Health. (2023). The Use of Generative Artificial Intelligence Technologies is Prohibited for the NIH Peer Review Process (NIH Notice No. NOT-OD-23-149). https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html (enlace externo, en inglés)
+Sanderson, K. (2023). AI science search engines are exploding in number — are they any good? Nature, 616, 639-640. doi: https://doi.org/10.1038/d41586-023-01273-w (enlace externo, en inglés)
+Van Noorden, R. & Perkel, J. (2023). AI and science: what 1,600 researchers think. Nature, 621, 672-675. doi: https://doi.org/10.1038/d41586-023-02980-0 (enlace externo, en inglés)
