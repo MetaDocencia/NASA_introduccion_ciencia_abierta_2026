@@ -124,6 +124,7 @@ Los datos pueden usarse para la navegación, así como para la planificación y 
 [Matplotlib](https://matplotlib.org/) fue desarrollado alrededor de 2002 por el postdoctorando John Hunter para visualizar datos de neurobiología en los que trabajaba. Él no era desarrollador de software, ¡era neurobiólogo! Podría haberse limitado a publicar el artículo en una revista revisada por pares y tal vez haber compartido su código para crear las figuras, pero en lugar de eso inició un proyecto abierto en GitHub y pensó: «Bueno, si esto es útil para mí, tal vez lo sea para otras personas…».
 
 <img src="../images/media/image12M5L1_es.jpeg" style="width:100%;height:auto;" />
+
 Créditos de imagen: “Man in Black Suit Jacket Using Computer”, Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo).
 
 
