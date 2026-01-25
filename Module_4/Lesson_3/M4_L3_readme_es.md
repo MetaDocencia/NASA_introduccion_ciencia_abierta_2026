@@ -66,7 +66,7 @@ Esta lección se centra principalmente en cómo gestionar el código de acceso a
   style="width:250px;height:auto;"
   alt="Viñeta de XKCD. En la pantalla de una computadora aparece una lista desordenada de archivos: “Untitled 241.doc”, “Untitled 138 copia.docx”, “Untitled 138 copia 2.docx”, “Untitled 139.docx”, “Untitled 243 IMPORTANTE.doc”, “Untitled 244.doc”, “Untitled 4 DIRECCIÓN MAMÁ..jpg”, “Untitled 246 final.docx”, “Untitled 246_final_cad.dwg”. A la derecha, una persona mira la pantalla y exclama: “¡¡OH POR DIOS!!”. Texto al pie: “PROTIP: NUNCA MIRES LA CARPETA DE DOCUMENTOS DE OTRA PERSONA.”"
 />
-Crédito de la imagen: Foto de XKCD con licencia Creative Commons Attribution-NonCommercial 2.5
+Créditos de imagen: XKCD. Licencia Creative Commons Attribution-NonCommercial 2.5.
 
 ---
 
