@@ -138,9 +138,7 @@ Actualizar la forma de medir el éxito de la ciencia puede fomentar que las pers
 En esta actividad, reflexiona sobre las respuestas a las preguntas y luego compara esas reflexiones con los puntos clave.
 
 <img style="width:600px;height:auto;" src="../images/media/tobeopen_es.jpg" alt="Foto de una sala de conferencia con personas sentadas en mesas mientras un expositor presenta frente a una pantalla grande=." />
-
-
-Crédito de la imagen: NASA 2023, Stennis Space Center.
+Créditos de imagen: NASA (2023), Stennis Space Center.
 
 ---
 
