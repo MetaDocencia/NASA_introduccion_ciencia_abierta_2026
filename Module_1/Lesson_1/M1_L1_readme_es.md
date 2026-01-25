@@ -207,9 +207,8 @@ Compartir de manera abierta no solo ayuda a la sociedad, sino que también puede
             <p>El equipo de la nave espacial Juno hizo posible una ciencia nueva e inesperada gracias a los datos abiertos y de fácil acceso. La participación pública aportó nuevas perspectivas y amplió la capacidad del equipo para llevar a cabo valiosas investigaciones.</p>
             <p><img src="../images/media/image243_es.jpg" style="width: 100%; height: auto;" alt="Dos imágenes lado a lado de una superficie: a la izquierda, una vista en escala de grises; a la derecha, una versión procesada con más contraste y color que resalta los detalles."/>
 </p>
-            <p><strong>Créditos:</strong></p>
-            <p>Datos de la imagen: NASA/JPL-Caltech/SwRI/MSSS</p>
-            <p>Procesamiento de imágenes: Navaneeth Krishnan S ©️ CC BY</p>
+            <p>Créditos de imagen: Datos de la imagen: NASA/JPL-Caltech/SwRI/MSSS.</p>
+            <p>Procesamiento de imágenes: Navaneeth Krishnan S (CC BY)</p>
         </td>
     </tr>
   </tbody>
