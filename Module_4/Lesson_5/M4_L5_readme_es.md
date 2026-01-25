@@ -27,11 +27,12 @@ Al finalizar esta lección deberías ser capaz de:
 Muchas convocatorias de NASA requieren la presentación de un Plan de Ciencia Abierta y Gestión de Datos como parte del paquete de propuesta. La Guía de Ciencia Abierta y Código Abierto de la Dirección de Misiones Científicas de NASA (SMD) establece:
 
 <img style="width: 100%; height: auto;" src="../images/media/codebg_es.jpg">
+Créditos de imagen: “Codes on Tilt Shift Lens”, Markus Spiske vía [Pexels](https://www.pexels.com/photo/codes-on-tilt-shift-lens-2004161/) (enlace externo).
+
 
 > "Un Plan de Ciencia Abierta y Gestión de Datos de la NASA (PCAGD) describe cómo se gestionará y se pondrá a disposición abiertamente la información científica producida a partir de actividades científicas financiadas por la NASA. El PCAGD debe incluir secciones sobre gestión de datos, gestión de software y uso compartido de publicaciones".
 > — NASA Science Mission Directorate, 2025
 
-Crédito de la imagen: “Codes on Tilt Shift Lens” de Markus Spiske vía [Pexels](https://www.pexels.com/photo/codes-on-tilt-shift-lens-2004161/) (enlace externo)
 
 ---
 
