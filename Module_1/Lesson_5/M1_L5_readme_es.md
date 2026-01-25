@@ -152,6 +152,7 @@ Los módulos 3, 4 y 5 abordarán cómo generar tus datos, tu código y tus resul
 <img src="../images/media/image257_es.png" style="width: 100%; height: auto;" alt="Texto en un globo: “¿Cómo vas a compartir tus resultados más allá de una publicación? Incluye en tu plan actividades sociales y de difusión - ¿Cómo estás capacitando e involucrando a tus pares, comunidad y el público?”. A la derecha se ve una ilustración de charla o taller con varias personas sentadas y una persona presentando frente a una pantalla con gráficos e íconos." />
 Créditos de imagen: Freepik.com.
 
+
 El lugar que elijas para compartir tus materiales y resultados de investigación tendrá una gran influencia en su impacto, en qué tan fácil será para los demás encontrarlo, cuánto tiempo estará disponible y lo fácil que será reusarlo.
 
 ¿Compartirás datos en un archivo lleno de columnas con números no etiquetados sin ninguna unidad o explicación o, en cambio, estará en un formato abierto y estándar, y siguiendo los principios [FAIR](https://www.go-fair.org/fair-principles/) (Fácil de encontrar, Accesible, Interoperable y Reusable)? El Módulo 3 cuenta con más detalles para ayudarte a entender mejor cómo compartir tus datos y explica las ideas como FAIR, y buenas prácticas a la hora de compartir datos. Esto incluye diversas consideraciones sobre dónde compartir tus datos, así como sobre cómo hacerlos accesibles y preservarlos.
@@ -175,6 +176,7 @@ Tómate un momento para responder las siguientes preguntas sobre tu investigaci�
 <img src="../images/media/natashaquote_es.jpg" style="width:100%;height:auto;" alt="Manos en un laboratorio usando una pipeta." />
 Créditos de imagen: Modificado por la NASA a partir de “Unrecognizable chemist taking liquid with pipette from test tube in modern laboratory”, de RF..studio vía [Pexels](https://www.pexels.com/) (enlace externo).
 
+
 "Las pautas de la Ciencia Abierta de la NASA están centradas en nuestro trabajo de Ciencia de Temprana Liberación (ERS, por sus siglas en inglés), apoyando un proceso científico inclusivo, transparente y colaborativo."
 
 **Coautora Dra. Natasha Batalha**
@@ -186,6 +188,7 @@ Uno de los primeros descubrimientos del Telescopio Espacial James Webb (JWST, po
 
 <img src="../images/media/image255_es.jpg" style="width: 100%; height: auto;" alt="Ilustración del Telescopio Espacial James Webb (JWST) en el espacio." />
 Créditos de imagen: NASA's Goddard Space Flight Center Conceptual Image Lab.
+
 
 <img src="../images/media/atmocomp_es.png" style="width: 100%; height: auto;" alt="Gráfico de la composición atmosférica del exoplaneta WASP-39 b medido con JWST (NIRSpec). Eje vertical: cantidad de luz bloqueada. Eje horizontal: longitud de onda (micrones)." />
 Créditos de imagen: NASA, ESA, CSA, Joseph Olmsted (STScI).
@@ -377,6 +380,7 @@ Existen muchos repositorios que albergan datos abiertos, software y resultados. 
 
 <img src="../images/media/lightbulb-ethos-of-open-science_es.png" style="width: 100%; height: auto;" alt="Ilustración de una bombilla que representa el ethos de la Ciencia Abierta. Dentro de la bombilla hay cuatro secciones con los textos: Herramientas Abiertas, Código Abierto, Datos Abiertos y Resultados Abiertos. Alrededor de la bombilla aparecen beneficios asociados: Reproducibilidad y transparencia, Aceleración del ritmo de la ciencia, Fomento de la colaboración y Maximización del impacto científico. En la base de la bombilla se lee: El ethos de la Ciencia Abierta." />
 Créditos de imagen: NASA.
+
 
 Este plan de estudios de Introducción es un buen lugar para una introducción más profunda de los diversos elementos de Ciencia Abierta. Cada uno de los siguientes 4 módulos proporciona detalles y ejercicios prácticos para ayudar a quienes participan del programa a desarrollar una mejor comprensión de este tema específico.
 
