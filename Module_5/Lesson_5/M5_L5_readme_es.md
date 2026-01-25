@@ -31,7 +31,7 @@ Aunque no es obligatorio, puede ser una buena idea incluir planes para hacer que
 ### Actividad 5.1: Lápiz y papel
 
 <img src="../images/media/image21_es.png" style="width:350px;height:auto;" />
-Crédito de imagen: NASA
+Créditos de imagen: NASA.
 
 Escribe una sección de resultados de muestra de un PCAGD que detalle cómo planearías hacer públicos tus resultados. Piensa en un ejemplo de tu investigación y qué detalles necesitarás incluir para convencer a quienes revisan las propuestas que compartirás los resultados de Acceso Abierto.
 
@@ -45,7 +45,7 @@ Para estos ejemplos, ¿Qué otra información o detalles podrían añadirse? Si 
 
 **Encode: Multidimensional encoding of brain connectomes (external link)**
 
-[IMG: https://drive.google.com/file/d/175k1ZbLsidYebFwyzq-Qj35M_lLKLksm/view?usp=drive_link
+<img src="../images/media/encode_example_es.jpg" style="width:600px;height:auto;" />
 
 Crédito de imagen: Caiafa, C.F., Pestilli, F. Multidimensional encoding of brain connectomes. Sci Rep 7, 11491 (2017). https://doi.org/10.1038/s41598-017-09250-w (enlace externo)
 
@@ -80,8 +80,9 @@ Hay muchas maneras en que la Ciencia Abierta puede ampliar la duración o el alc
 
 A lo largo de estos módulos, Internet ha sido identificada como una tecnología disruptiva fundamental que cambió la forma en que se realiza casi toda la ciencia. La comunidad científica rara vez va a las bibliotecas para leer los últimos artículos de una revista. Los datos ya no se envían por correo a todo el mundo en unidades de cinta. El software ya no se comparte a través de disquetes flexibles. Internet ayudó a crear el flujo de trabajo científico moderno y ha hecho a la ciencia más interactiva y accesible. Ahora las herramientas de IA están empezando a alterar la ciencia de una manera similar. La IA no sólo está revolucionando muchos aspectos de nuestras vidas, sino que también está cambiando nuestra forma de hacer ciencia. A medida que las empresas compiten por crear e integrar nuevas herramientas de IA generativa en cada aspecto de nuestras vidas, muchas personas que investigan y editan revistas, instituciones, y agencias buscan cómo usar estas herramientas de forma eficaz, comprender su fiabilidad, precisión y sesgos, y cómo utilizarlas de forma ética. Otro motivo de preocupación es cómo la información compartida con las herramientas de IA puede utilizarse para revelar datos confidenciales de forma intencionada o no, lo que plantea problemas de privacidad.
 
-[IMG: [PENDIENTE ](https://drive.google.com/file/d/1vot6xoCkNlIPow41UjX_RXWo7qEWxi_h/view?usp=drive_link)]
-Crédito de imagen: NASA
+<img src="../images/media/image80_es.png" style="width:500px;height:auto;" />
+
+Créditos de imagen: NASA.
 
 La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un acelerador, ocupándose de las tareas tediosas y dejando libres a las personas que investigan para pensamientos más creativos. Estas herramientas son mejores que los humanos para procesar grandes cantidades de datos, pero los seres humanos son mejores para el pensamiento creativo y matizado. Es importante tener esto en cuenta a la hora de determinar si usar o no la IA. Por ejemplo, muchas personas ya utilizan herramientas de IA para ayudarles a gestionar su bandeja de entrada y a redactar correos electrónicos con contenido sugerido generado por IA. En el ámbito científico, hay muchas tareas que podrían agilizarse usando la IA, según tres estudios publicados en Nature:
 
@@ -195,8 +196,9 @@ La IA puede ayudarnos a usar y compartir la investigación. Puede actuar como un
 - Las indicaciones incrementales pueden ayudar a crear un esquema para tu artículo de investigación. Se puede encontrar un ejemplo en [X (antes conocido como Twitter)](https://twitter.com/MushtaqBilalPhD/status/1640243808851075072?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1640243808851075072%7Ctwgr%5E86f4269a3a6f05f7927bdb57e4f45654f827dc44%7Ctwcon%5Es1_\&ref_url=https%3A%2F%2Fwww.euronews.com%2Fnext%2F2023%2F08%2F07%2Fbest-ai-tools-academic-research-chatgpt-consensus-chatpdf-elicit-research-rabbit-scite) (enlace externo, en inglés).
 - Las herramientas de IA pueden ayudar a identificar dónde compartir resultados y ayudar a escribir publicaciones breves en las redes sociales u otras publicaciones basadas en tu artículo.
 
-[IMG: https://drive.google.com/file/d/1vv8EdPwdlAlhKh224VMW-_5r8BDatvda/view?usp=drive_link] 
-Crédito de imagen: NASA
+<img src="../images/media/image81_es.png" style="width:500px;height:auto;" />
+
+Créditos de imagen: NASA.
 
 ### Precauciones sobre el uso de herramientas de IA
 
@@ -269,8 +271,8 @@ La ciencia tiene como objetivo beneficiar a la sociedad. Compartir nuestra cienc
 A lo largo de este plan de estudios, nos hemos centrado en las habilidades necesarias para hacer que los productos y procesos de investigación estén a disposición de todas las personas. La práctica tradicional de compartir únicamente los resultados limita la visión de cómo se hace la ciencia y puede limitar quién puede participar en la ciencia. Al compartir tu proceso científico y trabajar abiertamente, avanza toda la ciencia de una manera más rápida y transparente. ¡Este plan de estudios continuará evolucionando a medida que evolucione la ciencia y agradecemos tus contribuciones!
 
 <img src="../images/media/opensciencequote_es.jpg" style="width:100%;height:auto;" />
-[IMG: https://drive.google.com/file/d/1gN17IEX8KEVG2Z0JsKPYMn8tTIEwqL4h/view?usp=drive_link] 
-Crédito de imagen: "Primer plano de pequeños átomos bajo un microscopio (Closeup of Little Atoms Under a Microscope)" by Steve Johnson via [Pexels](https://www.pexels.com/) (enlace externo, en inglés).
+
+Créditos de imagen: “Primer plano de pequeños átomos bajo un microscopio (Closeup of Little Atoms Under a Microscope)”, Steve Johnson vía [Pexels](https://www.pexels.com/) (enlace externo, en inglés).
 
 ---
 
