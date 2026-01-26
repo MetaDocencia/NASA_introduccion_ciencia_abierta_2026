@@ -56,7 +56,7 @@ Créditos de imagen: Ilustración del proyecto The Turing Way de Scriberia (CC B
 
 Además de documentar tus propias investigaciones, la práctica de dar crédito a todos quienes han contribuido fortalecerá tu reputación en la comunidad científica y actualizará los valores compartidos de la Ciencia Abierta. A medida que las personas ganen confianza en los beneficios de la investigación cooperativa, también comenzarán a dar crédito a más contribuciones que antes podrían no haber sido reconocidas.
 
-Con frecuencia, las revistas científicas exigen que se atribuya el trabajo realizado como parte del artículo mediante una declaración de contribución autoral, como en el ejemplo que se muestra en la figura. Además, resulta importante incluir una sección de agradecimientos para dar crédito a quienes hayan compartido recursos, equipamiento o conocimientos sin los cuales el producto final o el artículo no habría sido posible.
+Con frecuencia, las revistas científicas exigen que se atribuya el trabajo realizado como parte del artículo mediante una declaración de contribución autoral, como en el ejemplo mostrado en la figura. Además, resulta importante incluir una sección de agradecimientos para dar crédito a quienes hayan compartido recursos, equipamiento o conocimientos sin los cuales el producto final o el artículo no habría sido posible.
 
 <img src="../images/media/image262_es.png" style="width: 500px; height: auto;" alt="Captura de pantalla de una sección titulada “Contribuciones de autoría”, con un párrafo que describe los aportes de distintas personas autoras (identificadas por iniciales) a una investigación." />
 
@@ -66,7 +66,7 @@ Créditos de imagen: [Journal of Neurophysiology](https://journals.physiology.or
 
 ### Más visibilidad e impacto
 
-Además de mejorar la precisión científica, la adhesión a las prácticas científicas abiertas potencialmente ofrece beneficios personales para quienes investigan. La investigación publicada de forma abierta tiene mucho más visibilidad y potencial de impacto entre grandes audiencias a través de Internet, lo que puede llevar a más citas, a colaboradores de ideas afines y a oportunidades de carrera y financiación, de acuerdo con un estudio de 2016 (McKiernan et al., 2016).
+Además de mejorar la precisión científica, la adhesión a las prácticas científicas abiertas potencialmente ofrece beneficios personales a quienes investigan. La investigación publicada de forma abierta tiene mucho más visibilidad y potencial de impacto entre grandes audiencias a través de Internet, lo que puede llevar a más citas, a colaboraciones con profesionales de ideas afines y a oportunidades de carrera y financiación, de acuerdo con un estudio de 2016 (McKiernan et al., 2016).
 
 <img src="../images/media/image263_es.png" style="width:50%;height:auto;" />
 
@@ -93,7 +93,7 @@ Todos estos son productos científicos tangibles. Gran parte del tiempo de la ac
 
 ### Más colaboraciones
 
-Las prácticas de Ciencia Abierta también pueden habilitar colaboraciones más sólidas, tanto dentro de una misma disciplina como entre disciplinas, tal como lo demuestra un estudio de 2016 (Hormia-Poutanen y Forsström, 2016). La facilidad de acceso a los datos abiertos permite una participación más amplia y diversa de parte de distintos grupos.
+Las prácticas de Ciencia Abierta también pueden favorecer colaboraciones más sólidas, tanto dentro de una misma disciplina como entre disciplinas, como demuestra un estudio de 2016 (Hormia-Poutanen y Forsström, 2016). La facilidad de acceso a los datos abiertos permite una participación más amplia y diversa por parte de distintos grupos.
 
 Prácticas de Ciencia Abierta, como el pre-registro (*pre-registration*), mediante el cual se documenta el plan de investigación al inicio de un estudio, permiten un diseño de investigación más robusto, ya que es posible solicitar retroalimentación de varios colaboradores y partes interesadas antes de comenzar la recolección de datos. De manera similar, las preimpresiones permiten obtener comentarios más rápidos sobre las conclusiones extraídas a partir de los datos una vez recopilados.
 
@@ -129,7 +129,7 @@ La Ciencia Abierta también permite examinar las decisiones analíticas tomadas 
 
 Esto permite comprobar si es posible llegar a las mismas conclusiones que el equipo de investigación original y facilita una mayor confianza y apoyo por parte del público, tal como señala un informe de la UNESCO de 2021 (UNESCO, 2021).
 
-A continuación, se presenta un ejemplo de Ciencia Abierta que permitió identificar un error de codificación clave que llevó a la publicación de resultados inexactos. El estudio, publicado originalmente en *Acta Psychologica*, investigaba si las dificultades para comprender determinadas señales del habla también daban lugar a ajustes en el procesamiento secuencial ante cambios en la frecuencia de dichas señales. Después de la publicación del artículo, las personas autoras compartieron sus archivos de Matlab, incluidos los scripts usados para analizar los datos obtenidos en un estudio con participantes humanos. 
+A continuación, se presenta un ejemplo de Ciencia Abierta que permitió identificar un error de codificación clave que llevó a la publicación de resultados inexactos. El estudio, publicado originalmente en *Acta Psychologica*, investigaba si las dificultades para comprender determinadas señales del habla también daban lugar a ajustes en el procesamiento secuencial ante cambios en su frecuencia. Después de la publicación del artículo, las personas autoras compartieron sus archivos de Matlab, incluidos los scripts usados para analizar los datos obtenidos en un estudio con participantes humanos. 
 
 Una persona colega, al revisar esos archivos, descubrió un error de codificación en el script y lo informó rápidamente a las personas autoras. Tras realizar un nuevo análisis con el código corregido, los resultados fueron mucho menos significativos de lo descrito inicialmente y ya no aportaban la evidencia necesaria para sostener las conclusiones publicadas originalmente. La autora principal se puso entonces en contacto con la persona editora de la revista y solicitó una [retractación](https://doi.org/10.1016/j.actpsy.2019.102886) (enlace externo, en inglés), proporcionando detalles sobre el error y el nuevo análisis.
 
@@ -155,7 +155,7 @@ En 2022, la NASA decidió financiar un [desafío](https://www.topcoder.com/commu
 
 ### Calidad y diversidad de las comunicaciones académicas
 
-La Ciencia Abierta también mejora la situación de la literatura científica. Las revistas científicas han enfrentado tradicionalmente el problema del sesgo de publicación, por el cual los artículos publicados presentan abrumadoramente resultados novedosos y positivos, según un estudio de 2018 (DeVito y Goldacre, 2018). Esto produce un contexto en el que los resultados científicos publicados en ciertas disciplinas pueden mostrar efectos exagerados o incluso “falsos positivos” (es decir, afirmar erróneamente que existe un efecto), lo que dificulta evaluar la confiabilidad de los resultados, según un estudio de 2011 (Simmons et al., 2011) y otro de 2016 (Nissen et al., 2016).
+La Ciencia Abierta también mejora la situación de la literatura científica. Las revistas científicas han enfrentado tradicionalmente el problema del sesgo de publicación, por el cual los artículos publicados presentan, en su mayoría, resultados novedosos y positivos, según un estudio de 2018 (DeVito y Goldacre, 2018). Esto produce un contexto en el que los resultados científicos publicados en ciertas disciplinas pueden mostrar efectos exagerados o incluso “falsos positivos” (es decir, afirmar erróneamente que existe un efecto), lo que dificulta evaluar la confiabilidad de los resultados, según un estudio de 2011 (Simmons et al., 2011) y otro de 2016 (Nissen et al., 2016).
 
 Las prácticas de Ciencia Abierta, como los informes registrados (*registered reports*), mitigan el sesgo de publicación y mejoran la confiabilidad de la literatura científica. Los informes registrados son formatos de publicación de revistas que realizan la revisión por pares y aceptan los artículos antes de que se lleve a cabo la recopilación de datos, lo que elimina la presión para distorsionar los resultados, según un estudio de 2022 (Chambers y Tzavella, 2022).
 
@@ -183,7 +183,7 @@ La ciencia aborda temas que afectan a todos los aspectos de la vida. Sin embargo
 
 Quien financia la investigación gubernamental a través de los impuestos debería tener derecho a acceder a los resultados y a los datos, siempre que la seguridad y la protección no se vean comprometidas. La ciencia debe ser más abierta para garantizar que el conocimiento generado beneficie al público que lo hace posible.
 
-La Ciencia Abierta introduce un mayor nivel de escrutinio en la investigación, lo que ayuda a garantizar la precisión y fomenta la eficiencia mediante el debate abierto. Este enfoque acelera el ritmo de los descubrimientos y, a continuación, la difusión de los resultados a la sociedad y a quienes toman decisiones de política pública. Este enfoque acelera el ritmo de los descubrimientos y, posteriormente, la difusión de los resultados al público y a los responsables de diseñar políticas.
+La Ciencia Abierta introduce un mayor nivel de escrutinio en la investigación, lo que ayuda a garantizar la precisión y a fomentar la eficiencia mediante el debate abierto. Este enfoque acelera el ritmo de los descubrimientos y, a continuación, la difusión de los resultados a la sociedad y a quienes toman decisiones de política pública. Este enfoque acelera el ritmo de los descubrimientos y, posteriormente, la difusión de los resultados al público y a los responsables de diseñar políticas.
 
 ### La Ciencia Abierta puede acelerar el ritmo al que avanza la ciencia
 
@@ -198,7 +198,7 @@ Ante la necesidad urgente de tratamientos para combatir el Zika, se puso en marc
 
 ### La Ciencia Abierta es ciencia eficiente
 
-La Ciencia Abierta beneficia recíprocamente a quienes investigan y a las comunidades a las que estas personas esperan servir. Los datos derivados de una observación o de un experimento científico pueden tener usos imprevistos. En la Lección 1, se revisó un ejemplo en el que datos de radar usados para analizar patrones climáticos a gran escala sirvieron para observar cambios en las rutas migratorias de aves como respuesta a fenómenos meteorológicos y climáticos que se originan a miles de kilómetros de distancia.
+La Ciencia Abierta beneficia recíprocamente a quienes investigan y a las comunidades a las que estas personas esperan servir. Los datos derivados de una observación o de un experimento científico pueden tener usos imprevistos. En la Lección 1, se revisó un ejemplo en el que datos de radar, usados para analizar patrones climáticos a gran escala, sirvieron para observar cambios en las rutas migratorias de aves como respuesta a fenómenos meteorológicos y climáticos que se originan a miles de kilómetros de distancia.
 
 Mediante prácticas de Ciencia Abierta, es posible evitar el desperdicio de recursos en la investigación, como la repetición involuntaria y costosa de estudios previos, según un informe de la Comisión Europea de 2020 (Baker et al., 2020). En las ciencias humanas, esto también reduce la fatiga de las personas participantes a largo plazo. Al maximizar lo que se aprende a partir de datos disponibles públicamente, no resulta necesario realizar pruebas una y otra vez. Al “donar” la ciencia, individuos, comunidades e instituciones pueden adoptar con mayor facilidad los resultados de la investigación para diseñar intervenciones ajustadas a sus propias necesidades sin que el conocimiento quede restringido a los equipos de investigación originales o a las instituciones involucradas. De este modo, la Ciencia Abierta puede fortalecer los impactos sociales y económicos de los resultados científicos.
 
@@ -214,7 +214,7 @@ La mejor manera de incluir a un grupo de personas dedicadas a la Ciencia Abierta
 
 ### conclusiones clave: Beneficios para la sociedad
 
-- El público en general que financia la investigación gubernamental a través de los impuestos debería tener derecho a sus resultados y a sus datos, siempre que la seguridad y la protección no sean un problema.
+- El público en general, que financia la investigación gubernamental a través de los impuestos, debería tener derecho a sus resultados y a sus datos, siempre que la seguridad y la protección no sean un problema.
 - La Ciencia Abierta permite corregir errores con rapidez y construir sobre resultados precisos, lo que incide en la formulación de políticas.
 - La Ciencia Abierta disminuye la repetición involuntaria y costosa de estudios previos, acelerando la ciencia que beneficia a la sociedad.
 
@@ -222,7 +222,7 @@ La mejor manera de incluir a un grupo de personas dedicadas a la Ciencia Abierta
 
 Conclusiones principales de esta lección:
 
-- Citar el trabajo de otras personas cuyos resultados sirven como base o se reusan apoya la práctica comunitaria de la Ciencia Abierta basada en usar, crear y compartir.
+- Citar el trabajo de otras personas cuyos resultados sirven como base o se reusan apoya la práctica comunitaria de la Ciencia Abierta, basada en usar, crear y compartir.
 - Hacer ciencia de manera abierta puede aumentar la visibilidad de la investigación y dar lugar a colaboraciones más significativas.
 - La calidad y la eficiencia de la ciencia mejoran cuando se siguen buenas prácticas de Ciencia Abierta.
 - La Ciencia Abierta ayuda a la sociedad al permitir que más personas participen en la ciencia, lo que incrementa la precisión y el impacto de los resultados.
