@@ -11,7 +11,7 @@
 
 ## Descripción general
 
-En esta lección aprenderás a descubrir, evaluar y citar un conjunto de Datos Abiertos. Al explorar repositorios, también aprenderás sobre los problemas y las consideraciones al buscar conjuntos de datos. Después, aprenderás a determinar si el conjunto de datos es adecuado para su uso y qué revisar en la documentación, las licencias y los formatos de archivo. La lección concluye con una discusión sobre la importancia de citar los conjuntos de datos y sobre cómo leer y seguir las instrucciones de citación.
+En esta lección aprenderás a descubrir, evaluar y citar un conjunto de Datos Abiertos. Al explorar repositorios, también aprenderás sobre los problemas y las consideraciones al buscar conjuntos de datos. Después, aprenderás a determinar si el conjunto de datos es adecuado para su uso y qué revisar en la documentación, las licencias y los formatos de archivo. La lección concluye con una discusión sobre la importancia de citar los conjuntos de datos y cómo leer y seguir las instrucciones de citación.
 
 ## Objetivos de aprendizaje
 
@@ -19,7 +19,7 @@ Al finalizar esta lección deberías ser capaz de:
 
 - Seleccionar fuentes de datos y usar técnicas de búsqueda para descubrir Datos Abiertos.
 - Evaluar si un conjunto de datos incorpora elementos de Acceso Abierto que garantizan que sean fácilmente reusados.
-- Explicar la importancia de citar Datos Abiertos, y encontrar y seguir las instrucciones de citación.
+- Explicar la importancia de citar Datos Abiertos y encontrar y seguir las instrucciones de citación.
 
 ## Introducción
 
@@ -30,20 +30,20 @@ Como ejemplo, veamos los datos mensuales promedio de dióxido de carbono del Obs
 <img src="../images/media/image19_es.jpg" style="width:100%;height:auto;" alt="Gráfico de serie temporal titulado “Concentración de dióxido de carbono en el Observatorio Mauna Loa*”. Eje vertical: “Concentración de CO2 (ppm)”. Eje horizontal: años desde 1960 hasta 2020+. Una línea negra con oscilaciones estacionales muestra un aumento sostenido de CO2 a lo largo del tiempo. En la esquina inferior derecha aparecen los logos de UC San Diego y Scripps Institution of Oceanography." />
 Créditos de imagen: “Concentración de dióxido de carbono en el Observatorio de Mauna Loa (en inglés, Carbon Dioxide Concentration at Mauna Loa Observatory)”, Scripps Institution of Oceanography, UC San Diego. Licencia CC BY 4.0.
 
-Si deseas hacer este gráfico tú mismo o usar los datos para algún otro fin, primero deberás encontrarlos. Si buscas este conjunto de datos o cualquier otro dato, es posible que encuentres varias fuentes. ¿Cómo decides qué datos usar?
+Si deseas hacer este gráfico tú mismo o usar los datos para algún otro fin, primero deberás encontrarlos. Si buscas este conjunto de datos o cualquier otro, es posible que encuentres varias fuentes. ¿Cómo decides qué datos usar?
 
 Si comienzas en Google y buscas "datos de dióxido de carbono de Mauna Loa", encontrarás muchos resultados. Aquí se presentan algunos de ellos:
 
 <img
   src="../images/media/image20_es.png"
   style="width:100%;height:auto;"
-  alt="Imágenes de cinco pantallas comparando resultados de búsqueda para “datos de dióxido de carbono de Mauna Loa”. Pantalla 1: “Laboratorio de Monitoreo Global de la NOAA” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Sitio de la NOAA. Archivos en formato texto y csv. Las condiciones de uso requieren mencionar la autoría y menciona a alguien ¡que no es Keeling! Sin DOI.” Pantalla 2: “La Curva Keeling de UCSD” (https://keelingcurve.ucsd.edu/) con el texto: “¡La fuente de datos original! ¡Pero sólo está como un archivo csv! Buena declaración de reutilización, licencias y tiene DOI.” Pantalla 3: “CO2.earth” (https://www.co2.earth/) con el texto: “Otra fuente de los datos de Keeling.” Pantalla 4: “IRIDL KEELING MAUNA_LOA co2” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Los datos finalizan en 1995. Referencias las publicaciones de Keeling. Sin DOI. Sin link a los datos originales.” Pantalla 5: “DataHub CO2 PPM” (https://datahub.io/core/co2-ppm) con el texto: “Tiene link para comenzar a explorar los datos en una notebook interactiva. No está siendo actualizado.”"
+  alt="Imágenes de cinco pantallas comparando resultados de búsqueda para “datos de dióxido de carbono de Mauna Loa”. Pantalla 1: “Laboratorio de Monitoreo Global de la NOAA” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Sitio de la NOAA. Archivos en formato texto y csv. Las condiciones de uso requieren mencionar la autoría y mencionar a alguien ¡que no es Keeling! Sin DOI.” Pantalla 2: “La Curva Keeling de UCSD” (https://keelingcurve.ucsd.edu/) con el texto: “¡La fuente de datos original! ¡Pero sólo está como un archivo csv! Buena declaración de reuso, licencias y tiene DOI.” Pantalla 3: “CO2.earth” (https://www.co2.earth/) con el texto: “Otra fuente de los datos de Keeling.” Pantalla 4: “IRIDL KEELING MAUNA_LOA co2” (https://gml.noaa.gov/ccgg/trends/data.html) con el texto: “Los datos finalizan en 1995. Referencias las publicaciones de Keeling. Sin DOI. Sin link a los datos originales.” Pantalla 5: “DataHub CO2 PPM” (https://datahub.io/core/co2-ppm) con el texto: “Tiene link para comenzar a explorar los datos en una notebook interactiva. No está siendo actualizado.”"
 />
-- Créditos de imagen 1: Modificado de “Trends in Atmospheric Carbon Dioxide CO2”, Dr. Xin Lan (NOAA/GML) y Dr. Ralph Keeling (Scripps Institution of Oceanography).
-- Créditos de imagen 2: Modificado de “Carbon Dioxide Concentration at Mauna Loa Observatory”, Scripps Institution of Oceanography (UC San Diego). Licencia CC BY 4.0.
-- Créditos de imagen 3: Modificado de Earth’s CO2 Home Page, CO2.earth.
-- Créditos de imagen 4: Modificado de “Trends in Atmospheric Carbon Dioxide CO2”, Dr. Xin Lan (NOAA/GML) y Dr. Ralph Keeling (Scripps Institution of Oceanography).
-- Créditos de imagen 5: Modificado de “Trends in Atmospheric Carbon Dioxide”, DATA HUB. Open Data Commons Public Domain Dedication and License.
+- Crédito de imagen 1: Modificado de “Trends in Atmospheric Carbon Dioxide CO2”, Dr. Xin Lan (NOAA/GML) y Dr. Ralph Keeling (Scripps Institution of Oceanography).
+- Crédito de imagen 2: Modificado de “Carbon Dioxide Concentration at Mauna Loa Observatory”, Scripps Institution of Oceanography (UC San Diego). Licencia CC BY 4.0.
+- Crédito de imagen 3: Modificado de Earth’s CO2 Home Page, CO2.earth.
+- Crédito de imagen 4: Modificado de “Trends in Atmospheric Carbon Dioxide CO2”, Dr. Xin Lan (NOAA/GML) y Dr. Ralph Keeling (Scripps Institution of Oceanography).
+- Crédito de imagen 5: Modificado de “Trends in Atmospheric Carbon Dioxide”, DATA HUB. Open Data Commons Public Domain Dedication and License.
 
 ¿Cómo decides cuál usar? En esta lección cubriremos cómo encontrar datos abiertos, evaluar su relevancia y luego usarlos en tu propio trabajo.
 
@@ -55,7 +55,7 @@ Los Datos Abiertos pueden descubrirse accediendo a una gran variedad de reposito
 
 ### Dónde comenzar tu búsqueda
 
-Hay múltiples caminos para encontrar datos de investigación y deberías tener práctica en todos.
+Hay múltiples caminos para encontrar datos de investigación y deberías tener experiencia en todos ellos.
 
 <img
   src="../images/media/image21_es.png"
@@ -74,7 +74,7 @@ Créditos de imagen: NASA, Dominic Hart (2023).
 
 ### Publicaciones
 
-Los conjuntos de datos a menudo se adjuntan a publicaciones especializadas en forma de material complementario. Los motores de búsqueda de publicaciones pueden permitir el descubrimiento de publicaciones relevantes que se pueden usar para encontrar datos de una publicación en particular.
+Los conjuntos de datos a menudo se adjuntan a publicaciones especializadas como material complementario. Los motores de búsqueda de publicaciones pueden permitir el descubrimiento de publicaciones relevantes que pueden usarse para encontrar datos de una publicación en particular.
 
 ### Portales de búsqueda de datos
 
@@ -93,7 +93,7 @@ Los datos también se pueden encontrar usando una amplia variedad de portales de
   <tbody>
     <tr>
         <td colspan="3">
-            <p>Los portales de búsqueda de datos genéricos permiten el descubrimiento de una gran variedad de datos. No están diseñados para disciplinas específicas; sirven a un público más amplio. Este tipo de portal de búsqueda recopila y facilita la búsqueda de datos. No son fuentes de información científica. Se trata de servicios de agregación que hacen hincapié en la cantidad, no necesariamente en la calidad. Aquí es donde las personas que hacen ciencia ciudadana suelen acudir para encontrar datos y, para los no profesionales, es una gran manera de involucrarse en la ciencia.</p>
+            <p>Los portales de búsqueda de datos genéricos permiten el descubrimiento de una amplia variedad de datos. No están diseñados para disciplinas específicas; sirven a un público más amplio. Este tipo de portal de búsqueda recopila y facilita la búsqueda de datos. No son fuentes de información científica. Se trata de servicios de agregación que hacen hincapié en la cantidad, no necesariamente en la calidad. Aquí es donde las personas que hacen ciencia ciudadana suelen acudir para encontrar datos y, para los no profesionales, es una gran manera de involucrarse en la ciencia.</p>
             <p>Ejemplos incluyen:</p>
             <ul>
                 <li><a href="https://datasetsearch.research.google.com/">Google</a> (enlace externo)</li>
@@ -166,7 +166,7 @@ Los datos también se pueden encontrar usando una amplia variedad de portales de
 
 Una forma común de compartir y encontrar Datos Abiertos es a través de repositorios de datos. Muchos repositorios albergan Datos Abiertos con identificadores persistentes, licencias claras y directrices de citación y metadatos estándar.
 
-Ten en cuenta que algunos de nuestros portales de búsqueda, por ejemplo, también son repositorios, pero no siempre. Algunos de los portales de búsqueda son simplemente catálogos de información sobre los datos, en lugar de ubicaciones de almacenamiento de los datos.
+Ten en cuenta que algunos de nuestros portales de búsqueda, por ejemplo, también son repositorios, aunque no siempre. Algunos de los portales de búsqueda son simplemente catálogos de información sobre los datos, en lugar de ubicaciones de almacenamiento de los datos.
 
 *Selecciona cada pestaña para ver más información.*
 
@@ -286,12 +286,12 @@ Unir el tipo de repositorio con la definición correcta.
 <img
   src="../images/media/image24_es.png"
   style="width:100%;height:auto;"
-  alt="Infografía titulada “Encontré los datos... ¿pero son buenos?” con una nube central verde y tres íconos (microscopio, símbolos de código y un átomo). Alrededor aparecen preguntas para evaluar un conjunto de datos: “¿Los datos son apropiados para mi proyecto?”, “¿Tienen metadatos?”, “¿Los datos están documentados?”, “¿Necesito software específico para usar los datos?”, “¿Están en un formato en el que puedo usarlos?”, “¿Cuál es la licencia? ¿Tengo permiso para usarlos?”, “¿Cómo debo citar los datos?”, “¿Son los datos originales o alguien los modificó?” y “¿Alguien más ha usado estos datos?”."
+  alt="Infografía titulada “Encontré los datos... ¿pero son buenos?” con una nube central verde y tres íconos (microscopio, símbolos de código y un átomo). Alrededor aparecen preguntas para evaluar un conjunto de datos: “¿Los datos son apropiados para mi proyecto?”, “¿Tienen metadatos?”, “¿Los datos están documentados?”, “¿Necesito software específico para usar los datos?”, “¿Están en un formato en el que puedo usarlos?”, “¿Cuál es la licencia? ¿Tengo permiso para usarlos? “¿Cómo debo citar los datos?”, “¿Son los datos originales o alguien los modificó?” y “¿Alguien más ha usado estos datos?”."
 />
 Créditos de imagen: NASA.
 
 
-El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reúso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales (adaptados de un curso de gestión de datos abiertos creado por GODAN Action) para evaluar la pertinencia y utilidad de los conjuntos de datos son:
+El uso de Datos Abiertos para un proyecto depende de una serie de factores, como la calidad de los datos, las condiciones de acceso y reuso, la facilidad para encontrar los datos, etc. Algunos elementos esenciales (adaptados de un curso de gestión de datos abiertos creado por GODAN Action) para evaluar la pertinencia y utilidad de los conjuntos de datos son:
 
 **Preguntas prácticas**
 
@@ -299,7 +299,7 @@ El uso de Datos Abiertos para un proyecto depende de una serie de factores, como
 - ¿Es clara la razón por la que se recogen los datos? ¿Es claro el uso que el editor hace de los datos?
 - ¿Existen otros usos de los datos descritos?
 - ¿Son accesibles los datos?
-- ¿Los datos están actualizados o tienen fecha?
+- ¿Los datos están actualizados o tienen una fecha?
 - ¿Estarán disponibles los datos durante al menos un año?
 - ¿Se actualizarán los datos periódicamente?
 - ¿Existe un proceso de control de calidad?
@@ -310,7 +310,7 @@ El uso de Datos Abiertos para un proyecto depende de una serie de factores, como
 - ¿Se dispone de los datos desde una ubicación consistente?
 - ¿Están los datos bien estructurados y pueden ser leídos de forma automatizada?
 - ¿Se describen los términos y acrónimos complejos que aparecen en los datos?
-- ¿Usan los datos un esquema o estándar de datos?
+- ¿Usan los datos un esquema o un estándar de datos?
 - ¿Hay alguna API disponible para acceder a los datos?
 - ¿Qué herramientas o programas informáticos se necesitan para usar estos datos?
 
@@ -319,7 +319,7 @@ El uso de Datos Abiertos para un proyecto depende de una serie de factores, como
 - ¿Existe una comunidad de usuarios de los datos?
 - ¿Se trata de datos en los que ya confía un gran número de personas?
 - ¿Están los datos respaldados oficialmente?
-- ¿Existen acuerdos de nivel de servicio para los datos?
+- ¿Existen acuerdos sobre el nivel de servicio de los datos?
 - ¿Está claro quién mantiene los datos y con quién se debe contactar?
 
 (GODAN Action, s. f.)
@@ -330,13 +330,13 @@ Muchas de estas preguntas pueden responderse consultando la documentación y los
 
 ### La importancia de la citación
 
-Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas ni reconocimientos. Si una persona investigadora puede confiar en que su trabajo será citado y usado para impulsar el desarrollo de la ciencia, la idea de abrir los datos resulta más atractiva y beneficiosa para ambas partes. Se recomienda el uso de prácticas de citación estándar para garantizar el debido reconocimiento.
+Los agradecimientos y las citas contribuyen a fomentar una cultura de intercambio de datos sin temor a que se roben ideas ni a que se nieguen reconocimientos. Si una persona investigadora puede confiar en que su trabajo será citado y usado para impulsar el desarrollo de la ciencia, la idea de abrir los datos resulta más atractiva y beneficiosa para ambas partes. Se recomienda el uso de prácticas de citación estándar para garantizar el debido reconocimiento.
 
 Citar los datos también contribuye a la transparencia en el uso que se hace de ellos. Al citar los datos, las personas autoras originales y los nuevos equipos de investigación pueden seguir fácilmente cómo se usan los datos para responder a diferentes preguntas.
 
 ### Revisar pautas de citación
 
-Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La cita suele incluir:
+Muchos conjuntos de datos y repositorios especifican cómo deben citarse. La cita suele incluir:
 
 - Las personas autoras y sus instituciones
 - Título
@@ -350,7 +350,7 @@ Muchos conjuntos de datos y repositorios especifican cómo deben ser citados. La
 <img
   src="../images/media/image25_es.png"
   style="width:100%;height:auto;"
-  alt="Captura de pantalla de un ejemplo de código en un archivo CITATION.cff (formato YAML) que indica cómo citar un software. Incluye campos como versión del formato (cff-version), mensaje de citación, autores con nombres y ORCID, título del software, versión, identificador DOI y fecha de publicación."
+  alt="Captura de pantalla de un ejemplo de código en el archivo CITATION.cff (en formato YAML) que muestra cómo citar un software. Incluye campos como versión del formato (cff-version), mensaje de citación, autores con nombres y ORCID, título del software, versión, identificador DOI y fecha de publicación."
 />
 Créditos de imagen: [GitHub](https://github.com/) (enlace externo).
 
@@ -363,7 +363,7 @@ La mayoría de los conjuntos de datos exigen (como mínimo) que al citarlos se i
 
 **Ejemplo de un Centro de Archivo Activo Distribuido de la NASA (Distributed Active Archive Center, DAAC)**
 
-Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted,version 001, Greenbelt, Maryland, USA: Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed on July 12th, 2018 at doi:10.5067/83NO2QDLG6M0
+Matthew Rodell and Hiroko Kato Beaudoing, NASA/GSFC/HSL (08.16.2007), GLDAS CLM Land Surface Model L4 3 Hourly 1.0 x 1.0 degree Subsetted, version 001, Greenbelt, Maryland, USA: Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed on July 12th, 2018 at doi:10.5067/83NO2QDLG6M0
 
 **Ejemplo del Sistema de Datos Planetarios de la NASA (NASA Planetary Data System, PDS)**
 
@@ -375,7 +375,7 @@ RDR OPS V1.0 [Conjunto de datos]. NASA Planetary Data System. [https://doi.org/1
 Conclusiones principales de esta lección:
 
 - Los datos relevantes pueden encontrarse en diversos lugares y puede ser necesario recurrir al método de ensayo y error para localizarlos. Usa repositorios en línea o conversa con colegas de la comunidad para comenzar.
-- Es necesario evaluar cuidadosamente los datos antes de usarlos. Asegúrate de que los datos sean reutilizables, relevantes para tu trabajo y provengan de una fuente confiable.
+- Es necesario evaluar cuidadosamente los datos antes de usarlos. Asegúrate de que los datos sean reusables, relevantes para tu trabajo y provengan de una fuente confiable.
 - Es importante citar los datos cuando se usan para otorgar el crédito adecuado a quienes investigan.
 
 ## Lección 2: Evaluación
