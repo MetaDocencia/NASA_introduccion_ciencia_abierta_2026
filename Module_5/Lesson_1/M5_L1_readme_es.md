@@ -10,7 +10,7 @@
 
 ## Panorama general
 
-Esta lección tiene como objetivo ampliar tu perspectiva sobre los resultados de investigación que pueden compartirse a lo largo del ciclo de vida de una investigación. Primero consideraremos qué es un Resultado Abierto. Para hacerlo, veremos un ejemplo de un proyecto de investigación de vanguardia que utiliza las mejores prácticas de Resultados Abiertos. Las perspectivas obtenidas a partir de este ejemplo nos harán reflexionar sobre cómo podemos trabajar para promover la investigación reproducible.
+Esta lección tiene como objetivo ampliar tu perspectiva sobre los resultados de investigación que pueden compartirse a lo largo del ciclo de vida de una investigación. Primero consideraremos qué es un Resultado Abierto. Para hacerlo, veremos un ejemplo de un proyecto de investigación de vanguardia que usa las mejores prácticas de Resultados Abiertos. Las perspectivas obtenidas a partir de este ejemplo nos harán reflexionar sobre cómo podemos trabajar para promover la investigación reproducible.
 
 ## Objetivos de aprendizaje
 
@@ -20,7 +20,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Describir cómo compartir Resultados Abiertos puede hacer progresar la ciencia y tu carrera.
 - Explicar qué es la crisis de la reproducibilidad y cómo la Ciencia Abierta puede ayudar a combatirla.
 
-## ¿Qué objetos de investigación se crean a lo largo del ciclo de investigación?
+## ¿Qué objetos de investigación se generan a lo largo del ciclo de investigación?
 
 ### La representación tradicional de un “resultado científico” ha cambiado con el tiempo
 
@@ -45,7 +45,7 @@ Más tarde, en la década de 1940, el trabajo editorial comenzó a comercializar
 <img src="../images/media/image6_es.png" style="width:350px;height:auto;" />
 Créditos de imagen: NASA.
 
-Recién en el siglo XXI la comunidad científica amplió el significado de Resultados Abiertos. La evolución de esta definición fue impulsada por avances tecnológicos, como Internet y mejoras en los modos de compartir información. El movimiento de Acceso Abierto fue establecido por la Iniciativa de Acceso Abierto de [Budapest Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) (en inglés) en 2002 y la Declaración de Berlín sobre Acceso Abierto [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) (en inglés) en 2003, ambas formalizaron la idea de que, con respecto a los nuevos conocimientos, debería haber "disponibilidad gratuita en la Internet pública, permitir a cualquier persona leer, descargar, copiar, distribuir, imprimir, buscar o enlazar el texto completo de estos artículos" (Budapest Open Access Initiative).
+Recién en el siglo XXI la comunidad científica amplió el significado de Resultados Abiertos. La evolución de esta definición fue impulsada por avances tecnológicos, como Internet y las mejoras en los modos de compartir información. El movimiento de Acceso Abierto fue establecido por la Iniciativa de Acceso Abierto de [Budapest Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) (en inglés) en 2002 y la Declaración de Berlín sobre Acceso Abierto [Berlin Declaration on Open Access](https://openaccess.mpg.de/Berlin-Declaration) (en inglés) en 2003, ambas formalizaron la idea de que, con respecto a los nuevos conocimientos, debería haber "disponibilidad gratuita en la Internet pública, permitir a cualquier persona leer, descargar, copiar, distribuir, imprimir, buscar o enlazar el texto completo de estos artículos" (Budapest Open Access Initiative).
 
 ### Pero los resultados siempre han sido mucho más que sólo la publicación
 
@@ -69,7 +69,7 @@ Los Resultados Abiertos pueden incluir tanto datos como código. Dado que los da
 - Resúmenes y presentaciones en conferencias.
 - Discusiones en foros.
 
-Los artículos revisados por pares y de Acceso Abierto se archivan para su conservación a largo plazo y representan un debate más formal de ideas científicas, interpretaciones y conclusiones. Estos debates informan el método que los investigadores utilizan para compartir sus resultados. En la siguiente sección de esta lección, discutiremos diferentes tipos de intercambio y métodos para construirlos y adaptarlos para usar en tu investigación.
+Los artículos revisados por pares y de Acceso Abierto se archivan para su conservación a largo plazo y representan un debate más formal de ideas científicas, interpretaciones y conclusiones. Estos debates informan el método que los investigadores usan para compartir sus resultados. En la siguiente sección de esta lección, discutiremos diferentes tipos de intercambio y métodos para construirlos y adaptarlos para usar en tu investigación.
 
 Las personas científicas pueden compartir su progreso incremental a lo largo del proceso de investigación e invitar a la comunidad a dejar sus comentarios. Compartir más partes del proceso de investigación genera más interacciones entre quienes investigan y puede mejorar el resultado final (puede ser un artículo revisado por pares).
 
@@ -77,7 +77,7 @@ A lo largo de este módulo te mostraremos cómo usar, hacer y compartir Resultad
 
 ### La práctica de “Abierto”
 
-Específicamente, el sistema "Usar, Hacer, Compartir" ha sido integrado de forma natural a lo largo de este plan de estudios y debería resultarte un formato familiar en este momento. La Lección 2 cubrirá "Usar". La Lección 3, "Hacer". Y la Lección 4, "Compartir". A lo largo de este módulo, prestaremos especial atención a los manuscritos y otros productos de investigación como ejemplos, ya que los módulos anteriores cubrieron el sistema "Usar, Hacer, Compartir" sobre datos y software abiertos.
+Específicamente, el sistema "Usar, Hacer, Compartir" se ha integrado de forma natural a lo largo de este plan de estudios y debería resultarte un formato familiar en este momento. La Lección 2 cubrirá "Usar". La Lección 3, "Hacer". Y la Lección 4, "Compartir". A lo largo de este módulo, prestaremos especial atención a los manuscritos y otros productos de investigación como ejemplos, ya que los módulos anteriores cubrieron el sistema "Usar, Hacer, Compartir" en el ámbito de Datos y Software Abiertos.
 
 <img src="../images/media/thepracticeofopen_es.png" style="width:100%;height:auto;" alt="Diagrama “Usar, Hacer, Compartir” organizado en tres columnas. Columna USAR: “Descubrir productos existentes”; “Evaluar productos existentes”; “Usar productos existentes”. Columna HACER: “Crear un plan de gestión”; “Crear nuevos productos”; “Crear guías de contribución”; “Crear papers reproducibles”. Columna COMPARTIR: “¿Se pueden compartir los productos? (regulación)”; “¿Cuándo compartirlos?”; “¿Cómo compartirlos? (Qué revista elegir)”; “¿Dónde compartirlos?”; “Archivar”; “Asignar una licencia”; “Verificar identificadores” (“ORCID”, “DOI”); “Crear citación”. En la parte superior hay flechas que sugieren un ciclo y se incluyen íconos ilustrativos sobre cada columna." />
 Créditos de imagen: NASA.
@@ -93,7 +93,7 @@ Ampliemos nuestras perspectivas sobre los tipos de **objetos de investigación**
 Créditos de imagen: Taller de Google Earth Engine y geemap en GeoPython Conference 2021. [YouTube](https://www.youtube.com/watch?v=wGjpjh9IQ5I ). (enlace externo)
 
 
-El profesor Qiusheng Wu, asociado en la Universidad de Tennesee, creó un [canal de YouTube](https://youtube.com/%40giswqs) (enlace externo) en abril de 2020 con el propósito de compartir tutoriales en video sobre el [paquete de Python geemap](https://geemap.org/) (enlace externo) que estaba desarrollando. Desde entonces, Wu ha publicado más de 700 tutoriales en video sobre temas geoespaciales de código abierto. El canal superó los 42 mil suscriptores, con más de 1,9 millones de visualizaciones y más de 60 mil horas de reproducción en total. En promedio, recibe 70 horas de reproducción al día.
+El profesor Qiusheng Wu, asociado en la Universidad de Tennessee, creó un [canal de YouTube](https://youtube.com/%40giswqs) (enlace externo) en abril de 2020 con el propósito de compartir tutoriales en video sobre el [paquete de Python geemap](https://geemap.org/) (enlace externo) que estaba desarrollando. Desde entonces, Wu ha publicado más de 700 tutoriales en video sobre temas geoespaciales de Código Abierto. El canal superó los 42 mil suscriptores, con más de 1,9 millones de visualizaciones y más de 60 mil horas de reproducción en total. En promedio, recibe 70 horas de reproducción al día.
 
 El canal de YouTube le ha permitido a Wu llegar a una audiencia mucho más amplia, más allá de los límites de un aula tradicional. Ha hecho que la investigación geoespacial de vanguardia sea más accesible para el público en general y ha logrado establecer colaboraciones con personas de todo el mundo. Esto ha sido particularmente beneficioso para la promoción de Wu, ya que ha derivado en mayores oportunidades de financiamiento, publicaciones y participación pública a través de YouTube, redes sociales y GitHub.
 
@@ -117,7 +117,7 @@ Créditos de imagen: “OpenStreetMap 2011”, Ken Vermette. Licencia CC BY-SA 3
 
 [OpenStreetMap](https://welcome.openstreetmap.org/) brinda acceso a mapas gratuitos y editables que cubren todo el mundo. Los mapas incluyen datos sobre rutas, edificios, direcciones, comercios, puntos de interés, modos y medios de transporte, características naturales y mucho más. Según el sitio web, el proyecto, iniciado en 2004 por Steve Coast, cuenta con más de 1 millón de personas contribuyentes y 5 millones de personas usuarias. OpenStreetMap es usado por personas, empresas, organizaciones sin fines de lucro e incluso gobiernos.
 
-Los datos pueden usarse para la navegación, así como para la planificación y la logística. (OpenStreetMap, s. f.) Lo que comenzó como un proyecto pequeño para abordar la falta de datos cartográficos disponibles libremente creció hasta convertirse en un recurso utilizado globalmente con fines que quien lo creó nunca podría haber imaginado. Esto solo fue posible porque se configuró y compartió de manera abierta y se construyó por una comunidad dedicada a mejorarlo. Nunca sabés hacia dónde puede ir tu proyecto personal ni quiénes podrían estar interesados en colaborar.
+Los datos pueden usarse para la navegación, así como para la planificación y la logística. (OpenStreetMap, s. f.) Lo que comenzó como un proyecto pequeño para abordar la falta de datos cartográficos disponibles libremente creció hasta convertirse en un recurso usado globalmente con fines que quien lo creó nunca podría haber imaginado. Esto solo fue posible porque se configuró y compartió de manera abierta y se construyó por una comunidad dedicada a mejorarlo. Nunca sabés hacia dónde puede ir tu proyecto personal ni quiénes podrían estar interesados en colaborar.
 
 ### Nuevas visualizaciones para compartir resultados
 
@@ -127,21 +127,19 @@ Los datos pueden usarse para la navegación, así como para la planificación y 
 
 Créditos de imagen: “Man in Black Suit Jacket Using Computer”, Kampus Production vía [Pexels](https://www.pexels.com/) (enlace externo).
 
-
-
-Matplotlib es actualmente la librería de gráficas más utilizada en el lenguaje de programación Python y un componente principal del conjunto de librerías científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se usó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
+Matplotlib es actualmente la librería de gráficas más usada en el lenguaje de programación Python y un componente principal del conjunto de librerías científicas de Python, junto con NumPy, SciPy e IPython. Matplotlib se usó para la visualización de datos durante el aterrizaje de la nave Phoenix en Marte en 2008 y para la creación de la primera imagen de un agujero negro.
 
 ### Estudio de caso del proyecto JWST: Informes y publicación
 
-Y, por último, pero no por ello menos importante, tenemos el ejemplo del equipo científico del JWST, del que ya vimos en el Módulo 1, y cómo informaron sobre sus resultados. Esto se hizo de varias formas, como la publicación de un artículo de revisión por pares, de preimpresiones (preprints) y de artículos en blogs y redes sociales. Su publicación revisada por pares se publicó en formato de libre acceso (Acceso Abierto) en *Nature*, junto con una preimpresión (preprint) en arXiv.
+Y, por último, pero no por ello menos importante, tenemos el ejemplo del equipo científico del JWST, del que ya vimos en el Módulo 1, y cómo informaron sobre sus resultados. Esto se hizo de varias formas, como la publicación de artículos de revisión por pares, de preimpresiones (preprints) y de artículos en blogs y redes sociales. Su publicación revisada por pares se publicó en formato de libre acceso (Acceso Abierto) en *Nature*, junto con una preimpresión (preprint) en arXiv.
 
 Las plataformas de comunicación abierta ampliaron el alcance y la audiencia de los resultados, habilitaron la participación de más de 400 personas investigadoras y contribuyeron a un descubrimiento increíble: la primera detección de dióxido de carbono en la atmósfera de un planeta que orbita otra estrella.
 
-<img src="../images/media/image13_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama de flujo del proceso de investigación con etapas como ideación, planificación del proyecto, recolección y exploración de datos, y reporte y publicación. Reporte y publicación aparecen remarcadas y en la parte inferior se muestran ejemplos de publicación en acceso abierto: un artículo en Nature y su preprint en arXiv, ambos titulados “Identificación de dióxido de carbono en la atmósfera de un exoplaneta”." />
+<img src="../images/media/image13_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama de flujo del proceso de investigación con etapas como ideación, planificación del proyecto, recolección y exploración de datos, y reporte y publicación. Reporte y publicación aparecen remarcadas y en la parte inferior se muestran ejemplos de publicación en Acceso Abierto: un artículo en Nature y su preprint en arXiv, ambos titulados “Identificación de dióxido de carbono en la atmósfera de un exoplaneta”." />
 
 Créditos de imagen:
-- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [Nature](https://www.nature.com/articles/s41586-022-05269-w) (enlace externo).
-- Identificación de dióxido de carbono en una atmósfera de un exoplaneta. (2023). [arXiv](https://arxiv.org/abs/2208.11692) (enlace externo).
+- Identificación del dióxido de carbono en la atmósfera de un exoplaneta. (2023). [Nature](https://www.nature.com/articles/s41586-022-05269-w) (enlace externo).
+- Identificación del dióxido de carbono en la atmósfera de un exoplaneta. (2023). [arXiv](https://arxiv.org/abs/2208.11692) (enlace externo).
 
 
 
@@ -149,7 +147,7 @@ Al público le interesa lo que estás haciendo y llegar a ese público puede imp
 
 Las plataformas de comunicación abierta ampliaron notablemente el alcance y la audiencia de los resultados.
 
-<img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama del flujo de trabajo de investigación que culmina en “Reporte y publicación” (remarcada). Debajo se muestran ejemplos de comunicación abierta en redes y plataformas: dos publicaciones en Twitter, un video en TikTok y un video en YouTube, junto a los íconos de cada plataforma y un mensaje que destaca que hay muchas maneras de reportar resultados abiertos." />
+<img src="../images/media/image14_es.png" style="width:100%;height:auto;" alt="Captura de pantalla de un diagrama del flujo de trabajo de investigación que culmina en “Reporte y publicación” (remarcada). A continuación se muestran ejemplos de comunicación abierta en redes y plataformas: dos publicaciones en Twitter, un video en TikTok y otro en YouTube, junto con los íconos de cada plataforma y un mensaje que destaca que hay muchas maneras de reportar resultados abiertos." />
 
 Créditos de imagen:
 - Publicación de Megan Weiner Mansfield. (2023). [X](https://x.com/cornerof_thesky/status/1595086671275589632?s=20) (enlace externo).
@@ -162,14 +160,14 @@ Créditos de imagen:
 ## ¿Qué es la crisis de la reproducibilidad?
 
 
-En 2016, una encuesta de *Nature* sobre reproducibilidad encontró que, de 1.576 investigadores, «Más del 70% de las personas que investigan han intentado y fracasado en reproducir los experimentos de otro equipo científico, y más de la mitad han fracasado en reproducir sus propios experimentos» (Baker, 2016). La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente tras varios estudios en los que no se reprodujeron los resultados positivos previamente reportados.
+En 2016, una encuesta de *Nature* sobre reproducibilidad encontró que, de 1.576 investigadores, «Más del 70% de las personas que investigan han intentado y fracasado en reproducir los experimentos de otro equipo científico, y más de la mitad han fracasado en reproducir sus propios experimentos» (Baker, 2016). La “crisis de la reproducibilidad” en la ciencia es una preocupación creciente tras varios estudios en los que no se pudieron reproducir los resultados positivos previamente reportados.
 
 Si queremos resolver la crisis de la reproducibilidad, debemos considerar todo el flujo de trabajo de la investigación. El hecho de que el 70% de las personas que investigan no puedan reproducir los resultados de otros equipos científicos resulta alarmante, sobre todo si se tiene en cuenta que la reproducibilidad de la ciencia es la piedra angular del método científico.
 
 <img src="../images/media/image15_es.png" style="width:350px;height:auto;" />
 Créditos de imagen: NASA.
 
-Hay muchos incentivos personales para implementar principios de ciencia abierta en todas las etapas del proceso de investigación. Al hacer Resultados Abiertos a lo largo del proceso, aumentás tu capacidad de reproducir tus propios resultados. Esto también tiene implicancias para la investigación, más allá de la capacidad de mejorarla.
+Hay muchos incentivos personales para implementar principios de Ciencia Abierta en todas las etapas del proceso de investigación. Al hacer Resultados Abiertos a lo largo del proceso, aumentás tu capacidad de reproducir tus propios resultados. Esto también tiene implicancias para la investigación, más allá de la capacidad de mejorarla.
 
 ### ¿Cuál es la causa de esta crisis de reproducibilidad?
 
@@ -181,7 +179,7 @@ Las tres causas principales de la crisis de reproducibilidad son:
 
 1. Los métodos intermedios de investigación suelen describirse de manera poco formal o no se describen en absoluto.
 2. A menudo se omiten por completo los datos intermedios.
-3. Muchas veces sólo se piensa en los resultados, en el momento de la publicación.
+3. Muchas veces, sólo se piensa en los resultados en el momento de la publicación.
 
 Debemos pensar en todo el proceso de investigación como un resultado. Por ejemplo, los artículos científicos describen de manera poco precisa los métodos computacionales, lo que requiere un gran esfuerzo por parte de los demás para comprenderlos y reusarlos.
 
@@ -227,15 +225,15 @@ El equipo de OpenSciency creó una gran tabla que describe todos los tipos de ob
 
 [HACÉ CLIC PARA APRENDER (ENLACE EXTERNO, EN INGLÉS)](https://opensciency.github.io/sprint-content/open-results/lesson1-research-process-and-results.html#research-stages-and-open-result-table)
 
-Pensar en compartirlo todo a la vez puede resultar abrumador cuando estás empezando. Para avanzar, enfócate en cómo podrías elegir el elemento más importante. Aquí redujimos la lista a un solo par de elementos por categoría. Además, podrías pensar en acortar la lista aún más al empezar. Por ejemplo, en tu trabajo, compartir el código usado para preparar los datos puede ser el factor más crítico para la reproducibilidad. Entonces, compartir código sería un buen punto de partida para tu recorrido por la ciencia abierta. Los pequeños pasos que damos nos llevan hacia una ciencia abierta y sostenible.
+Pensar en compartirlo todo a la vez puede resultar abrumador cuando estás empezando. Para avanzar, enfócate en cómo podrías elegir el elemento más importante. Aquí redujimos la lista a un solo par de elementos por categoría. Además, podrías pensar en acortar la lista aún más al empezar. Por ejemplo, en tu trabajo, compartir el código usado para preparar los datos puede ser el factor más crítico para la reproducibilidad. Entonces, compartir código sería un buen punto de partida para tu recorrido por la Ciencia Abierta. Los pequeños pasos que damos nos llevan hacia una Ciencia Abierta y sostenible.
 
-- **Propuesta:** Las propuestas pueden compartirse en Zenodo y en plataformas abiertas de financiamiento como [ogrants.org](https://www.ogrants.org/) (enlace externo, en inglés).
+- **Propuesta:** Las propuestas pueden compartirse en Zenodo y en plataformas de financiamiento abiertas como [ogrants.org](https://www.ogrants.org/) (enlace externo, en inglés).
 - **Planificación:** Los proyectos pueden prerregistrarse antes de comenzar.
 - **Diseño del proyecto:** Se pueden publicar las pautas para la colaboración de las personas o un código de conducta en Zenodo, GitHub o en las páginas web del equipo.
 - **Compromiso y capacitación:** Los cuadernos computacionales del flujo de trabajo de investigación pueden compartirse con el equipo a través de GitHub y publicarse en Zenodo.
 - **Recopilación de datos:** Los datos sin procesar pueden compartirse mediante repositorios de datos.
 - **Gestión de datos:** El código puede compartirse en repositorios de software.
-- **Exploración de datos:** Los cuadernos computacionales pueden ser compartidos a través de GitHub y publicados en Zenodo.
+- **Exploración de datos:** Los cuadernos computacionales pueden compartirse a través de GitHub y publicarse en Zenodo.
 - **Almacenamiento:** Los Planes de Gestión de Datos para el almacenamiento de la información pueden publicarse en Zenodo.
 - **Informe y publicación:**
   - Artículos en Acceso Abierto revisados por pares
@@ -251,7 +249,7 @@ Pensar en compartirlo todo a la vez puede resultar abrumador cuando estás empez
 
 En esta lección has aprendido:
 
-- El flujo de trabajo científico contemporáneo implica ser abierto tanto en procesos como en productos. Los productos de la investigación (resultados) incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
+- El flujo de trabajo científico contemporáneo implica ser abierto tanto en los procesos como en los productos. Los productos de la investigación (resultados) incluyen mucho más que el informe final, lo que supone un cambio drástico respecto a la noción histórica de resultado científico.
 - En cada etapa del proceso de desarrollo de la investigación se producen resultados que podemos considerar tales.
 - Podemos combatir la crisis de la reproducibilidad compartiendo estos objetos de investigación en cada etapa de nuestro flujo de trabajo.
 - ¡Existen ejemplos asombrosos de grupos de investigación que comparten distintos tipos de resultados de Acceso Abierto!
@@ -279,7 +277,7 @@ En este plan de estudios, un producto de investigación se define como el produc
 
 ¿Cuáles son algunas de las causas clave de la crisis de reproducibilidad?
 
-- A. Los métodos intermedios de investigación a menudo se describen de manera informal o no se describen directamente.
+- A. Los métodos intermedios de investigación a menudo se describen de forma informal o no se especifican explícitamente.
 - B. Los datos intermedios a menudo se omiten por completo.
 - C. A menudo, solo pensamos en los resultados al momento de la publicación.
 - D. Todas las anteriores
