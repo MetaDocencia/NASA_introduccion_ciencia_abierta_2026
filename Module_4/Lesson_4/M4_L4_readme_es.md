@@ -41,7 +41,7 @@ Escribir código científico suele ser un proceso dinámico y colaborativo, en e
 
 ### Archivado de Código Abierto
 
-Archivar el código garantiza que sea accesible a largo plazo y que pueda cumplir con los requisitos de archivo de organismos de financiación e instituciones. La accesibilidad a largo plazo ayuda a otras personas a reproducir tus resultados mucho después de tu publicación. El archivado, por sí solo, no fomenta el desarrollo continuo ni la colaboración. Se trata de preservar el software de forma estática y a largo plazo, no de hacerlo evolucionar.
+Archivar el código garantiza que sea accesible a largo plazo y que cumpla con los requisitos de archivo de organismos de financiación e instituciones. La accesibilidad a largo plazo ayuda a otras personas a reproducir tus resultados mucho después de tu publicación. El archivado, por sí solo, no fomenta el desarrollo continuo ni la colaboración. Se trata de preservar el software de forma estática y a largo plazo, no de hacerlo evolucionar.
 
 ### ¿Deberías compartir tu software?
 
@@ -60,8 +60,8 @@ En cambio, si el software se desarrolló con financiación externa (por ej. gube
 - **Qué:** Descripción de la gestión, la conservación y la distribución del software.
 - **Cuándo:** El cronograma para archivar y compartir el software.
 - **Dónde:** Ubicación donde se compartirá y se archivará el software a largo plazo.
-- **Cómo:** Habilitar la reutilización del software mediante la asignación de un DOI, una licencia, pautas de contribución, etc.
-- **Quién:** Roles, funciones y responsabilidades de las personas que participan en el equipo.
+- **Cómo:** Habilitar el reuso del software mediante la asignación de un DOI, una licencia, pautas de contribución, etc.
+- **Quién:** Roles, funciones y responsabilidades de las personas que integran el equipo.
 
 ## Cuestiones legales y de seguridad
 
@@ -100,7 +100,7 @@ En cambio, si el software se desarrolló con financiación externa (por ej. gube
   <tbody>
     <tr>
         <td colspan="2">
-            <p>La seguridad es una preocupación al compartir software. Las personas malintencionadas pueden adjuntar código malicioso a los programas en un intento de infiltrarse en los sistemas informáticos mediante vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada que puede acarrear grandes pérdidas económicas para los usuarios. Los riesgos de seguridad deben tenerse en cuenta a la hora de compartir software.</p>
+            <p>La seguridad es una preocupación al compartir software. Las personas malintencionadas pueden adjuntar código malicioso a los programas en un intento de infiltrarse en los sistemas informáticos mediante vulnerabilidades de seguridad, exponiendo potencialmente información sensible y privada, lo que puede acarrear grandes pérdidas económicas para los usuarios. Los riesgos de seguridad deben tenerse en cuenta a la hora de compartir software.</p>
             <p>Las consideraciones de seguridad pueden incluir:</p>
             <ul>
                 <li>¿Las políticas tecnológicas de tu institución permiten que pongas a prueba el código que quieres usar en tu máquina?</li>
@@ -138,7 +138,7 @@ Supongamos que deseas iniciar un nuevo proyecto de Código Abierto:
 
 #### Conclusiones clave: Conoce las políticas de publicación de software de tu organización
 
-Las políticas de publicación de software varían según la organización y cada pieza de software es distinta. Por lo tanto, es importante que no hagamos suposiciones basadas en experiencias anteriores al pensar estas políticas.
+Las políticas de publicación de software varían según la organización y cada pieza de software es distinta. Por lo tanto, es importante que no hagamos suposiciones basadas en experiencias anteriores al pensar en estas políticas.
 
 ## Cuándo: El cronograma para archivar y compartir código
 
@@ -162,7 +162,7 @@ Créditos de imagen: NASA.
 
 Al igual que los datos, el código puede compartirse de muchas maneras; por ejemplo, por correo electrónico o en un sitio web personal, aunque estos métodos no son recomendables. Entonces, ¿dónde deberías compartir tu Código Abierto?
 
-En primer lugar, considera las políticas de tu institución o agencia de financiación, que pueden establecer dónde debes y puedes compartir. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo en los que debes archivar el código y pueden restringir la posibilidad de compartirlo en otros repositorios. Tu disciplina científica también puede tener un repositorio específico para Código Abierto.
+En primer lugar, considera las políticas de tu institución o agencia de financiación, que pueden establecer dónde debes y dónde puedes compartir. Por ejemplo, algunas agencias de financiación especifican los depósitos a largo plazo en los que debes archivar el código y pueden restringir la posibilidad de compartirlo en otros repositorios. Tu disciplina científica también puede tener un repositorio específico para Código Abierto.
 
 ### ¿Cuáles son las mejores opciones y prácticas para archivar el código?
 
@@ -197,7 +197,7 @@ Elige la licencia adecuada para compartir software de manera que cumpla con los 
 <img src="../images/media/image78_es.png" style="width:500px;height:auto;" alt="Captura de pantalla de GitHub al crear un archivo nuevo: en el campo de nombre se escribió “LICENSE” y aparece la opción “Choose a license template”. También se ven las pestañas “Edit” y “Preview”." />
 
 
-Asegúrate de que tu repositorio de GitHub sea público, permitiendo que cualquier persona pueda buscarlo.
+Asegúrate de que tu repositorio de GitHub sea público, de modo que cualquier persona pueda buscarlo.
 
 ### Hacer el código citable
 
@@ -218,7 +218,7 @@ Pasos para esta actividad:
 1. Inicia sesión en [GitHub](https://github.com/). Si aún no lo has hecho, crea una cuenta de usuario gratuita.
 2. Crea un nuevo repositorio con este [enlace](https://github.com/new).
 3. Escribe un nombre breve que puedas recordar para tu repositorio. Por ejemplo, "os-test".
-4. Establece la visibilidad del repositorio como 'Pública' al seleccionar esta opción durante su creación.
+4. Establece la visibilidad del repositorio en 'Pública' al seleccionar esta opción durante su creación.
 5. En 'Inicializar este repositorio con:' (_Initialize this repository with:_ en inglés) selecciona 'Añadir un archivo README' (_Add a README file_ en inglés).
 6. Selecciona cualquier licencia con el botón (_Choose a license_ (en inglés).
 7. Selecciona 'Crear repositorio' (_Create repository_ en inglés).
@@ -241,12 +241,12 @@ Pasos para esta actividad:
 5. Selecciona el nombre del repositorio.
 6. Localiza y selecciona el botón que contiene 'usuario/os-test'
 
-<img src="../images/media/zenododoi6_es.png" style="width:100%;height:auto" alt="Captura de pantalla de Zenodo (instancia Sandbox) en ‘Mi cuenta’ > ‘GitHub’, dentro del repositorio ‘/os-test’. En la sección ‘Lanzamientos’ aparece el encabezado ‘¡Empieza ya!’ con los pasos ‘1 Activa el interruptor’ y ‘2 Crear un comunicado’. En el paso 2 se ve, resaltado con un círculo rojo, un botón verde con el ícono de GitHub y el texto ‘/os-test’, que corresponde al botón ‘usuario/os-test’." />
+<img src="../images/media/zenododoi6_es.png" style="width:100%;height:auto" alt="Captura de pantalla de Zenodo (instancia Sandbox) en ‘Mi cuenta’ > ‘GitHub’, dentro del repositorio ‘/os-test’. En la sección ‘Lanzamientos’ aparece el encabezado ‘¡Empieza ya!’ con los pasos ‘1 Activa el interruptor’ y ‘2 Crear un comunicado’. En el paso 2 se ve, resaltado con un círculo rojo, un botón verde con el ícono de GitHub y el texto ‘/os-test’, correspondiente al botón ‘usuario/os-test’." />
 
 7. Añade una etiqueta 'test'. Es posible que tengas que crear una nueva etiqueta para 'test' si se te solicita.
 8. Localiza y selecciona el botón 'publicar lanzamiento' (en inglés, _publish release_).
 
-<img src="../images/media/zenododoi8_es.png" style="width:100%;height:auto" alt="Captura de pantalla de la página ‘Releases’ de GitHub para crear un lanzamiento. Se ve el menú desplegable ‘Choose a tag’ con el texto ‘test’ escrito y la opción ‘Create new tag: test on publish’, resaltado con un círculo rojo. En la parte inferior izquierda, también resaltados con un círculo rojo, aparecen la casilla ‘Set as a pre-release’ y los botones ‘Publish release’ y ‘Save draft’." />
+<img src="../images/media/zenododoi8_es.png" style="width:100%;height:auto" alt="Captura de pantalla de la página ‘Releases’ de GitHub para crear un lanzamiento. Se ve el menú desplegable ‘Choose a tag’ con el texto ‘test’ y la opción ‘Create new tag: test on publish’, resaltada con un círculo rojo. En la parte inferior izquierda, también resaltados con un círculo rojo, aparecen la casilla ‘Set as a pre-release’ y los botones ‘Publish release’ y ‘Save draft’." />
 
 
 9. Navega a la página [Zenodo GitHub](https://sandbox.zenodo.org/account/settings/github/) y verifica el DOI de 'os-test'.
@@ -258,7 +258,7 @@ Zenodo archiva tu repositorio y emite un nuevo DOI cada vez que creas un nuevo [
 
 ### Hacer tu código fácil de citar
 
-La información sobre cómo citar el software puede añadirse al README (LEEME) u a otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITACIÓN) al repositorio.
+La información sobre cómo citar el software puede añadirse al README (LEEME) u a otra documentación en tu repositorio. Otro paso útil para hacer accesible la información de citas de tu repositorio es añadir un archivo CITATION (CITACIÓN) a él.
 
 ### ¿Por qué usar archivos CITATION?
 
@@ -268,7 +268,7 @@ Los archivos CITATION son un medio para hacer que la información de citas sea f
 
 <img src="../images/media/image419_es.png" style="width:100%;height:auto;" />
 
-Si esperas que la comunidad contribuya a tu software, es una buena práctica incluir archivos CONTRIBUTING (CONTRIBUIR) y CODE_OF_CONDUCT (CÓDIGO DE CONDUCTA) en tu repositorio que describan las expectativas para las interacciones entre las personas participantes.
+Si esperas que la comunidad contribuya a tu software, es una buena práctica incluir archivos CONTRIBUTING (CONTRIBUIR) y CODE_OF_CONDUCT (CÓDIGO DE CONDUCTA) en tu repositorio que describan las expectativas de interacción entre las personas participantes.
 
 No entraremos en detalles aquí, pero puedes consultar el [repositorio GitHub del paquete Xarray](https://github.com/pydata/xarray/tree/main) (enlace externo, en inglés) para ver un buen ejemplo.
 
@@ -299,13 +299,13 @@ Añadir los archivos CITATION (CITACIÓN), CONTRIBUTING (CONTRIBUIR) y CODE_OF_C
 
 ---
 
-Todos estos roles pueden o no ser necesarios, según sea el tamaño de tu proyecto. Es necesario contar con un proceso transparente para asignar cualquiera de los roles a quienes participan de la comunidad.
+Todos estos roles pueden o no ser necesarios, según sea el tamaño de tu proyecto. Es necesario contar con un proceso transparente para asignar cualquiera de los roles a quienes participan en la comunidad.
 
 ### Responsabilidades después de compartir
 
 Si el software está pensado para que otras personas lo usen, entonces quien lo desarrolla debería mantenerlo.
 
-- Es cortés por parte de quien desarrolla informar a las personas que lo usan si tienen la intención de mantener el software o el código o no.
+- Es cortés por parte de quien desarrolla informar a las personas que lo usan si tienen la intención de mantener el software o el código.
 - Menciona esto en la documentación donde se discuta el estado de desarrollo del proyecto.
 - Esto ayudará a quienes lo usen a saber si seguirán recibiendo apoyo en el futuro y les permitirá tomar decisiones sobre la posibilidad de basar su trabajo en curso en tu proyecto.
 - En caso de que quien desarrolle/investigue no disponga del tiempo o del financiamiento necesario para seguir adelante con su proyecto, pero otras personas estén interesadas en mantenerlo, considera la posibilidad de ceder la propiedad del software a quienes investiguen/desarrollen/participen, o la entidad interesada en su uso continuo.
