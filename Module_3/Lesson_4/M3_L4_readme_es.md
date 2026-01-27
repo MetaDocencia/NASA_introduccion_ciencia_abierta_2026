@@ -12,7 +12,7 @@
 
 ## Descripción general
 
-En esta lección aprenderás las buenas prácticas para compartir tus datos con una audiencia más amplia. La discusión comienza con una revisión del proceso para compartir y evaluar si tus datos pueden compartirse. Luego aprenderás cómo asegurar que tus datos estén disponibles públicamente mediante una lección sobre repositorios y el ciclo de vida de la accesibilidad de los datos. Desde la selección de un repositorio hasta el archivado de tus datos, estas prácticas aseguran que tus datos se mantengan y sean buscables. Finalmente, recorrerás los pasos para hacer que tus datos sean lo más reutilizables posible y concluyes con una sección sobre a quién considerar para ayudar en el proceso de compartirlos.
+En esta lección aprenderás las buenas prácticas para compartir tus datos con una audiencia más amplia. La discusión comienza con una revisión del proceso para compartir y evaluar si tus datos pueden ser compartidos. Luego aprenderás cómo asegurar que tus datos estén disponibles públicamente mediante una lección sobre repositorios y el ciclo de vida de la accesibilidad de los datos. Desde la selección de un repositorio hasta el archivado de tus datos, estas prácticas aseguran que tus datos se mantengan y permanezcan accesibles. Finalmente, recorrerás los pasos para hacer que tus datos sean lo más reusables posible y concluyes con una sección sobre a quién considerar para ayudar en el proceso de compartirlos.
 
 ## Objetivos de aprendizaje
 
@@ -20,13 +20,13 @@ Al finalizar esta lección deberías ser capaz de:
 
 - Reconocer las variables institucionales, las cuestiones de seguridad y el tiempo que puedan afectar tu decisión de compartir datos.
 - Recordar las características, responsabilidades inherentes, consideraciones de financiamiento y requisitos de los patrocinadores que las personas que investigan deberían tener en cuenta al seleccionar un repositorio para compartir datos.
-- Describir las herramientas y enumerar algunas buenas prácticas que optimizan la práctica de compartir datos.
+- Describir las herramientas y enumerar algunas buenas prácticas para optimizar la práctica de compartir datos.
 
 ## Descripción general del proceso de compartir datos
 
 Compartir datos es una parte crítica para mejorar la reproducibilidad de los resultados. Tanto si se trata de datos nuevos que recolectamos por nuestra parte como de datos que procesamos para realizar nuestro análisis, terminamos compartiendo algún tipo de dato. Tenemos que pensar qué datos vamos a compartir y cuál es la mejor manera de asegurar que sean de forma abierta y sean usables por otras personas.
 
-Generalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o de un repositorio que será responsable de ingestar, curar y distribuir o publicar tus Datos Abiertos. Tú eres responsable de proporcionar información y metadatos para facilitar que tus datos sean fáciles de encontrar, acceder y citar. También debes considerar el costo de archivar y publicar los datos.
+Generalmente, el intercambio de datos debe hacerse a través de un centro de datos estable o de un repositorio que será responsable de ingestar, curar, distribuir o publicar tus Datos Abiertos. Tú eres responsable de proporcionar información y metadatos para facilitar que tus datos sean fáciles de encontrar, de acceder a ellos y de citarlos. También debes considerar el costo de archivar y publicar los datos.
 
 ### La conclusión es que quieres compartir tus datos
 
@@ -42,7 +42,7 @@ Una vez que hayas decidido compartir tus datos, hay una serie de preguntas que t
 
 En esta lección, explicaremos algunos pasos hacia la obtención de datos. Específicamente, nos enfocaremos en las secciones "cuándo", "dónde", "cómo" y "quién" de un PGD.
 
-### Proceso de compartición de datos abiertos
+### Proceso de compartir Datos Abiertos
 
 En general, compartir tus Datos Abiertos requiere de los siguientes pasos:
 
@@ -59,14 +59,14 @@ A veces, puede que trabajes con un repositorio bien preparado que gestione mucho
 
 ### ¿Cuándo compartir datos?
 
-La decisión sobre cuándo compartir datos debería discutirse con todas las personas del equipo y documentarse en el Plan de Gestión de Datos. Las agencias de financiamiento y organizaciones pueden tener requerimientos específicos sobre cuándo deben compartirse los datos, pero aquí te animamos a pensar si es posible compartir tus datos antes de que te lo exija tu patrocinador. Hay distintos momentos en que los datos pueden ser compartidos:
+La decisión sobre cuándo compartir datos debería discutirse con todas las personas del equipo y documentarse en el Plan de Gestión de Datos. Las agencias de financiamiento y las organizaciones pueden tener requerimientos específicos sobre cuándo deben compartirse los datos, pero aquí te animamos a pensar si es posible compartir tus datos antes de que tu patrocinador te lo exija. Hay distintos momentos en que los datos pueden ser compartidos:
 
-- **Compartir de forma anticipada:** Compartir al momento de la recolección o poco después. Algunas agencias de financiamiento requieren que así sea o permiten un pequeño período de "embargo", pero normalmente se requiere una razón (control de calidad, calibración, etc). Esto maximiza el reuso de los datos y el impacto, y puede resultar en un aumento de las colaboraciones.
+- **Compartir de forma anticipada:** Compartir al momento de la recolección o poco después. Algunas agencias de financiamiento requieren que así sea o permiten un breve período de "embargo", pero normalmente se requiere una razón (control de calidad, calibración, etc.). Esto maximiza el reuso de los datos y el impacto y puede resultar en un aumento de las colaboraciones.
 - **Compartir de forma intermedia:** Al momento de la publicación. Muchas revistas (y algunas agencias de financiamiento) requieren compartir los datos necesarios para replicar los resultados al momento de la publicación.
-- **Compartir de forma mínima** Fin del subsidio. Todos los datos científicamente relevantes deben compartirse al final del subsidio de investigación.
+- **Compartir de forma mínima** Fin del subsidio. Todos los datos científicamente relevantes deben compartirse al finalizar el subsidio de investigación.
 - **No compartir:** Hay muchos motivos por los que los datos pueden ser restringidos o no compartidos en absoluto.
   
-Como ya comentamos anteriormente en este curso, hay muchos beneficios de compartir los datos lo antes posible. Compartir temprano puede llevar a nuevos e inesperados descubrimientos y a la expansión de tu red de colaboraciones. Recuerda que, aun cuando compartes tus datos, tú sigues siendo la persona experta a nivel mundial en ellos. Es muy probable que, cuando las personas quieran trabajar con tus datos, se pongan en contacto contigo para colaborar.
+Como ya comentamos anteriormente en este curso, hay muchos beneficios de compartir los datos lo antes posible. Compartir temprano puede llevar a nuevos e inesperados descubrimientos y a la expansión de tu red de colaboraciones. Recuerda que aun cuando compartes tus datos, tú sigues siendo la persona experta a nivel mundial en ellos. Es muy probable que, cuando las personas quieran trabajar con tus datos, se pongan en contacto contigo para colaborar.
 
 ### ¿Se deben compartir los datos?
 
@@ -102,13 +102,13 @@ NASA STD 1006.1 [Estándar de Protección del Sistema Espacial (Space System Pro
 
 Leyes y regulaciones relevantes que pueden evitar la publicación de datos incluyen, pero no están limitadas a:
 
-- [Ley de portabilidad y responsabilidad del seguro médico (Health Insurance Portability and Accountability Act)](https://www.hhs.gov/hipaa/for-professionals/index.html) (HIPAA por su nombre en inglés), que establece estándares para proteger la información sensible de los pacientes de la divulgación.
+- [Ley de portabilidad y responsabilidad del seguro médico (Health Insurance Portability and Accountability Act)](https://www.hhs.gov/hipaa/for-professionals/index.html) (HIPAA por sus siglas en inglés), que establece estándares para proteger la información sensible de los pacientes de la divulgación.
 - [Información no clasificada controlada (Controlled Unclassified Information)](https://www.archives.gov/cui) (enlace externo) proporciona estándares para manejar información no clasificada que requiere salvaguardas o controles de divulgación acordes con las leyes, las regulaciones federales y las políticas.
 - Leyes y reglamentos federales que rigen la información clasificada o los requisitos de seguridad.
 
 ### Consideraciones de propiedad intelectual
 
-Los datos pueden estar sujetos a derechos de propiedad intelectual, derechos de autor y licencias. Algunas de las regulaciones y políticas relevantes incluyen leyes de propiedad intelectual y patentes, como la Ley [Bayh-Dole Act](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm) (enlace externo), que permite a las universidades, instituciones de investigación sin fines de lucro y pequeñas empresas poseer, patentar y comercializar invenciones desarrolladas bajo programas de investigación con fondos federales.
+Los datos pueden estar sujetos a derechos de propiedad intelectual, derechos de autor y licencias. Algunas de las regulaciones y políticas relevantes incluyen leyes de propiedad intelectual y patentes, como la Ley [Bayh-Dole Act](https://www.govinfo.gov/content/pkg/USCODE-2011-title35/html/USCODE-2011-title35-partII-chap18.htm) (enlace externo), que permite a las universidades, instituciones de investigación sin fines de lucro y pequeñas empresas poseer, patentar y comercializar invenciones desarrolladas en el marco de programas de investigación financiados por fondos federales.
 
 
 **Ejemplo: Suplemento FAR de la NASA 1852.227**
@@ -117,25 +117,25 @@ El [Suplemento FAR 1852.227 (NASA FAR Supplement 1852.227)](https://prod.nais.na
 
 ---
 
-Muchas instituciones de investigación tienen personas residentes expertas en propiedad intelectual, derechos de autoría y derecho de patentes. Pueden ser un gran recurso si tienes alguna pregunta o preocupación.
+Muchas instituciones de investigación cuentan con personal residente experto en propiedad intelectual, derechos de autoría y derechos de patente. Pueden ser un gran recurso si tienes alguna pregunta o preocupación.
 
 ## Dónde compartir datos
 
-Los datos pueden compartirse en una enorme variedad de lugares. Si bien es común compartir datos a través de correos electrónicos o sitios web, estos no son medios recomendados, ya que no cumplen con los requisitos de que sean fáciles de encontrar o de ser archivados a largo plazo. Compartir datos como parte del material complementario de una publicación revisada por pares, especialmente para conjuntos de datos pequeños, es aceptable en algunos campos. Un repositorio a largo plazo que proporcione un identificador permanente es la mejor opción para compartir datos.
+Los datos pueden compartirse en una enorme variedad de lugares. Si bien es común compartir datos a través de correos electrónicos o sitios web, estos no son medios recomendados, ya que no cumplen con los requisitos de ser fáciles de encontrar ni de ser archivados a largo plazo. Compartir datos como parte del material complementario de una publicación revisada por pares, especialmente para conjuntos de datos pequeños, es aceptable en algunos campos. Un repositorio a largo plazo que proporcione un identificador permanente es la mejor opción para compartir datos.
 
 ### Seleccionar un repositorio de datos
 
 Si aún no tienes un repositorio de datos en mente, ten en cuenta lo siguiente para acotar tus opciones:
 
-- ¿Quien te financia requiere un repositorio de datos específico?
-- ¿Quien te financia requiere un repositorio de datos específico?
+- ¿Quién te financia requiere un repositorio de datos específico?
+- ¿Quién te financia requiere un repositorio de datos específico?
 - ¿Tu organización o institución recomienda un repositorio de datos específico?
 - ¿Existe un repositorio de dominio específico ampliamente usado en tu área de investigación?
 - ¿El repositorio provee Acceso Abierto a los datos?
-- ¿Crees que las herramientas que ofrece el repositorio para el descubrimiento y la distribución de datos son apropiadas para tus datos y los principios FAIR?
+- ¿Crees que las herramientas que ofrece el repositorio para el descubrimiento y la distribución de datos son apropiadas para tus datos y para los principios FAIR?
 - ¿El repositorio requiere financiamiento de tu proyecto, se ajusta a tu presupuesto y requiere soporte constante más allá del ciclo de vida del proyecto?
 
-Encuentra y compara los servicios, beneficios y limitaciones de los repositorios que estás considerando. Cada repositorio tendrá sus propios procesos y requerimientos para aceptar y albergar tus datos, de acuerdo con el nivel de financiamiento, el propósito y la base de personas usuarias.
+Encuentra y compara los servicios, beneficios y limitaciones de los repositorios que estás considerando. Cada repositorio tendrá sus propios procesos y requisitos para aceptar y albergar tus datos, de acuerdo con el nivel de financiamiento, el propósito y la base de personas usuarias.
 
 Los datos con preocupaciones de privacidad pueden requerir procesos adicionales de anonimización, aprobación o restricciones de acceso.
 
@@ -208,7 +208,7 @@ Adicionalmente, los repositorios pueden requerir autorización y autenticación 
     <tr>
         <td colspan="3">
             <p>Cuando tu proyecto finalice, asegúrate de haber actualizado y subido cualquier documentación complementaria (discutida en la lección anterior "Hacer Datos Abiertos") con tu versión final (incluso si sólo se hizo una versión única de los datos).</p>
-            <p>Asegúrate que el repositorio mantendrá tus datos (o al menos tus metadatos) en línea durante un período de tiempo razonable luego de que tu proyecto termine.</p>
+            <p>Asegúrate de que el repositorio mantendrá tus datos (o al menos tus metadatos) en línea durante un período de tiempo razonable luego de que tu proyecto termine.</p>
             <p>Si se encuentra algún problema con los datos después de la finalización de tu proyecto, asegúrate de que el repositorio aceptará revisiones de la base de datos si son necesarias.</p>
         </td>
     </tr>
@@ -232,10 +232,10 @@ Las personas responsables de los datos deberán facilitar información resumida 
 Los repositorios se encargan de compartir, distribuir y conservar los datos. Algunos servicios adicionales que pueden ofrecer incluyen:
 
 - La asignación de un identificador persistente (como un DOI) a tu conjunto de datos.
-- La indexación y/o el registro de tus datos y metadatos en diversos servicios para que puedan buscarse y encontrarse en línea (es decir, a través de motores de búsqueda).
+- La indexación y/o el registro de tus datos y metadatos en diversos servicios para que puedan buscarse y encontrarse en línea (es decir, mediante motores de búsqueda).
 - La provisión de retroalimentación a quienes crearon los datos para ayudarles a optimizar sus metadatos y facilitar la búsqueda.
 - La coordinación con las personas responsables de datos para garantizar que los metadatos hagan referencia al DOI.
-- Asegurarse de que el DOI está asociado a un sitio o página con información sobre sus datos.
+- Asegurarse de que el DOI esté asociado a un sitio o página que contenga información sobre sus datos.
 
 ### Facilitar la cita de tus datos
 
@@ -243,7 +243,7 @@ El objetivo es facilitar la citación de tus datos. Las mejores prácticas inclu
 
 - Incluir una referencia de cita que incluya tu DOI.
 - Incorporar un archivo .CFF si el repositorio lo recomienda.
-- Identificar claramente a quienes crean los datos y/o su institución.
+- Identificar claramente a quienes generan los datos y/o a su institución.
   - Incluir el ORCiD siempre que sea posible.
 
 Ahora que tus datos están en un repositorio y tienen una referencia de cita y un DOI, publícalo entre las personas usuarias y recuérdales que citen tus datos en sus trabajos.
@@ -257,9 +257,9 @@ Compartir datos abiertamente es un esfuerzo en equipo. Una parte importante de l
 Determina quién se encargará de:
 
 - Proporcionar información sobre el volumen de datos, el número de archivos y su naturaleza (por ejemplo, archivos revisados).
-- Verificar que el nombre del archivo cumpla con buenas prácticas.
+- Verificar que el nombre del archivo cumpla con las buenas prácticas.
 - ¿Cómo se moverán los datos? (especialmente cuando los archivos son grandes)
-- Verificar la integridad de los datos, los metadatos y la transferencia de la documentación.
+- Verificar la integridad de los datos y de los metadatos, así como la transferencia de la documentación.
 
 ### ¿Quién desarrollará la documentación y los metadatos?
 
@@ -268,14 +268,14 @@ Determina quién:
 - Organizará el contenido.
 - Desarrollará metadatos.
 - Elaborará documentación (por ejemplo, el archivo README (LEEME)).
-- Extraerá metadatos de archivos y documentación.
+- Extraerá metadatos de archivos y de documentación.
 
 ### ¿Quién ayudará con el reuso de los datos?
 
 Identifica quién:
 
-- Verificará accesibilidad y facilidad de encontrar.
-- Colaborará con el repositorio para optimizar herramientas.
+- Verificará la accesibilidad y la facilidad de encontrar.
+- Colaborará con el repositorio para optimizar las herramientas.
 - Evaluará los protocolos de acceso.
 
 ### ¿Quién desarrollará una guía sobre privacidad y sensibilidad cultural de los datos?
@@ -285,7 +285,7 @@ Decide quién:
 - Identificará preocupaciones de privacidad.
 - Definirá procesos de aprobación.
 - Desarrollará pautas de interpretación.
-- Evaluará restricciones necesarias para una compartición respetuosa.
+- Evaluará las restricciones necesarias para una compartición respetuosa.
 
 ## Lección 4: Resumen
 
@@ -340,9 +340,9 @@ Es una buena práctica empezar a trabajar con un repositorio _____.
 
 **04/04**
 
-¿Cuáles de los siguientes son roles a considerar al compartir datos? Selecciona todas opciones que correspondan.
+¿Cuáles de los siguientes son roles a considerar al compartir datos? Selecciona todas las opciones que correspondan.
 
-- Desarrollar una guía sobre la privacidad y sensibilidad cultural de los datos.
+- Desarrollar una guía sobre la privacidad y la sensibilidad cultural de los datos.
 - Desarrollar la documentación de datos y los metadatos.
 - Asignar un DOI a los datos.
-- Verificar la integridad de los datos, metadatos y gestión de la documentación.
+- Verificar la integridad de los datos, metadatos y la gestión de la documentación.
