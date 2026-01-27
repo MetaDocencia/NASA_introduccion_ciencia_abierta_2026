@@ -20,27 +20,27 @@ Luego de completar este módulo, deberías poder:
 
 Estos términos clave son tópicos importantes para este módulo. Selecciona el término para ver la descripción.
 
-**Código fuente** – Conjunto de sentencias legible por humanos escrito en un lenguaje de programación que juntos componen software. Quienes programan escriben software en código fuente, a menudo guardado como un archivo de texto en un ordenador. Los términos código y código fuente se utilizan a menudo de forma intercambiable. (National Academies of Sciences, Engineering, and Medicine, 2018)
+**Código fuente** – Conjunto de sentencias legible por humanos escrito en un lenguaje de programación que juntos componen software. Quienes programan escriben software en código fuente, a menudo guardado como un archivo de texto en un ordenador. Los términos "código" y "código fuente" se usan a menudo de forma intercambiable. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
-**Software** – Este término general se utiliza para programas de computadora y aplicaciones que proporcionan a las personas usuarias un cierto grado de utilidad o producen un resultado o servicio. El software se puede distribuir en forma ejecutable, como código fuente o como un servicio a través de Internet. (National Academies of Sciences, Engineering, and Medicine, 2018)
+**Software** – Este término general se usa para referirse a programas de computadora y aplicaciones que proporcionan a las personas usuarias un cierto grado de utilidad o producen un resultado o un servicio. El software puede distribuirse en formato ejecutable, como código fuente o como un servicio a través de Internet. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
 **Licencia de software** – Un documento que establece los derechos de la persona que desarrolló el sofware y de las personas que lo usan.
 
-**Licencia de código abierto** – Licencia de software, aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la definición de Código Abierto, otorgando permisos a cualquiera para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Estándares similares pueden ser promulgados por otras organizaciones. (National Academies of Sciences, Engineering, and Medicine, 2018)
+**Licencia de Código Abierto** – Licencia de software aprobada por la Iniciativa de Código Abierto (OSI) como compatible con la definición de Código Abierto, que otorga a cualquiera el permiso para inspeccionar, usar, modificar y distribuir el código fuente del software para cualquier propósito. Estándares similares pueden ser promulgados por otras organizaciones. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
-**Software de código abierto** – Software cuyo código fuente está bajo una licencia de Código Abierto, por el cual el titular de los derechos de autor concede a cualquier persona el derecho de inspeccionar, modificar y distribuir el código fuente. Sinónimo de Código Abierto. (National Academies of Sciences, Engineering, and Medicine, 2018)
+**Software de Código Abierto** – Software cuyo código fuente está bajo una licencia de Código Abierto, mediante la cual el titular de los derechos de autor concede a cualquier persona el derecho de inspeccionar, modificar y distribuir el código fuente. Sinónimo de Código Abierto. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
-**Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo las personas autoras originales, no las usuarias, tienen derechos para copiar, modificar, actualizar y editar el código fuente. Las personas usuarias no tienen acceso al código.
+**Software de código cerrado** – Software propietario con código fuente que no está disponible públicamente. Sólo las personas autoras originales, no las usuarias, tienen derecho a copiar, modificar, actualizar y editar el código fuente. Las personas usuarias no tienen acceso al código.
 
-**Obra derivada** – Una obra creativa que se deriva o se basa en una obra preexistente que es traducida, alterada, organizada o transformada de una manera que requiere permiso de la persona titular de los derechos de autor de la obra original o proviene de obras de dominio público. (National Academies of Sciences, Engineering, and Medicine, 2018)
+**Obra derivada** – Una obra creativa que se deriva o se basa en una obra preexistente, ya sea que sea traducida, alterada, organizada o transformada de una manera que requiera permiso de la persona titular de los derechos de autor de la obra original, o provenga de obras de dominio público. (National Academies of Sciences, Engineering, and Medicine, 2018)
 
-**Control de versiones** – Un sistema para gestionar automáticamente las diferentes versiones de un archivo de computadora que sufre cambios, en especial uno que contiene código fuente. En el desarrollo de software, el control de versiones preserva un historial completo de los cambios en el código fuente y permite a un desarrollador retroceder a una versión anterior si es necesario.
+**Control de versiones** – Un sistema para gestionar automáticamente las diferentes versiones de un archivo de computadora que sufre cambios, especialmente aquel que contiene código fuente. En el desarrollo de software, el control de versiones preserva un historial completo de los cambios en el código fuente y permite a un desarrollador retroceder a una versión anterior si es necesario.
 
-**Repositorio de código** – Una ubicación central de almacenamiento para el código fuente. Los repositorios de código pueden contener código fuente en uno o más lenguajes de programación. Los repositorios pueden ofrecer herramientas para fusionar entradas de las personas que desarrollan, pruebas automatizadas para verificar el correcto funcionamiento del código fuente, control de versiones para rastrear cambios con el tiempo y funcionalidades de gestión de proyectos. Estos sitios pueden no prometer conservación a largo plazo.
+**Repositorio de código** – Una ubicación central de almacenamiento para el código fuente. Los repositorios de código pueden contener código fuente en uno o más lenguajes de programación. Los repositorios pueden ofrecer herramientas para fusionar entradas de los desarrolladores, pruebas automatizadas para verificar el correcto funcionamiento del código fuente, control de versiones para rastrear cambios a lo largo del tiempo y funcionalidades de gestión de proyectos. Estos sitios pueden no prometer una conservación a largo plazo.
 
-**Repositorio de software** – Colecciones de aplicaciones independientes o paquetes de software disponibles en línea. Los repositorios normalmente controlan el acceso y rastrean las implementaciones/descargas de paquetes. Estos pueden incluir código fuente o ejecutables.
+**Repositorio de software** – Colecciones de aplicaciones independientes o de paquetes de software disponibles en línea. Los repositorios normalmente controlan el acceso y rastrean las implementaciones/descargas de paquetes. Estos pueden incluir código fuente o ejecutables.
 
-**Repositorio de largo plazo** – un servicio para la conservación a largo plazo y referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
+**Repositorio de largo plazo** – un servicio para la conservación a largo plazo y la referencia de software histórico y contemporáneo. Los repositorios facilitan que las citas de código sean sostenibles.
 
 ### Referencias
 
