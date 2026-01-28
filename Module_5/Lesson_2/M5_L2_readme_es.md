@@ -24,7 +24,7 @@ Al finalizar esta lección deberías ser capaz de:
 - Enumerar las responsabilidades de las personas que usan Resultados Abiertos, incluido el envío de comentarios a quienes los desarrollaron.
 - Listar las formas de citar Resultados Abiertos en tu propio proceso de investigación.
 
-## Cómo descubrir resultados abiertos
+## Cómo descubrir Resultados Abiertos
 
 ¿Cómo puedo conocer el estado de la investigación en un campo concreto? ¿Cómo participar en la conversación actual? Las personas dedicadas a la investigación a menudo comienzan con una búsqueda de artículos revisados por pares. Esta revisión le indica cuánto se ha investigado en un campo y qué conclusiones se han obtenido recientemente. En la mayoría de los campos, el proceso de revisión por pares puede tardar hasta un año. La posibilidad de encontrar preimpresiones (preprints) puede ayudar a reducir este retraso, ya que ofrecen los hallazgos más recientes antes de la fecha de publicación. Quienes deciden compartir sus resultados antes de la publicación suelen hacerlo de las formas indicadas anteriormente como mejores prácticas. Al empezar a investigar un tema, ¿cómo identificar los distintos tipos de resultados y centrarse en la investigación más pertinente?
 
@@ -118,7 +118,7 @@ Los diversos objetos de investigación, incluidos los conjuntos de datos y el so
 
 **Ejemplo de Kerchunk:** En la Lección 1 se presentó una entrada de blog sobre una biblioteca de software llamada “Kerchunk”. Veamos una [publicación](https://discourse.pangeo.io/t/trick-for-improving-kerchunk-performance-for-large-numbers-of-chunks-files/3090) (enlace externo, en inglés) sobre Kerchunk que tiene una gran cantidad de visualizaciones en el [foro Pangeo Discourse](https://discourse.pangeo.io/) (enlace externo, en inglés). El proyecto de Ciencia Abierta Pangeo trabaja completamente de forma abierta. El [sitio web del proyecto](https://pangeo.io/) (enlace externo, en inglés) incluye enlaces a entradas de blog, un foro de debate y un calendario de todas sus reuniones, a las que cualquiera puede unirse. Esto ha dado lugar a una comunidad comprometida y dinámica. Un ejemplo de ello es el post enlazado más arriba, en el que una persona pide ayuda, otras responden y la conversación se documenta abiertamente. Las 1300 visitas del post indican que esta pregunta, o una parecida, se les ha ocurrido a otras personas. ¿Imaginen si esto se hubiera hecho por correo electrónico privado? Al trabajar de forma abierta, están mejorando la ciencia y ayudando a todas las personas a ser más rápidas y precisas.
 
-## Cómo evaluar resultados abiertos
+## Cómo evaluar Resultados Abiertos
 
 «Basura que entra, basura que sale»: tus propios productos de investigación son tan buenos como los datos que usas.
 
@@ -206,7 +206,7 @@ Ten en cuenta que no cumplir uno o varios de los criterios no implica automátic
 
 Ejemplo fiable: los vídeos de YouTube de Qiusheng Wu (mencionado en la lección anterior). El profesor Wu es un experto en su campo. Presenta los resultados junto con cuadernos que demuestran la reproducibilidad. Los comentarios en sus vídeos tutoriales de YouTube representan interacciones significativas entre los usuarios que reproducen los resultados y quienes generaron el material.
 
-## Cómo usar resultados abiertos
+## Cómo usar Resultados Abiertos
 
 Aunque los Resultados Abiertos benefician a la ciencia y ya han aportado valiosas ventajas a la sociedad, el uso indebido y el intercambio imprudente de materiales abiertos pueden tener efectos perjudiciales de gran alcance. Quien hace uso de los Resultados Abiertos tiene la responsabilidad de garantizar que los datos a los que hace referencia se usan de forma responsable y que siguen las directrices pertinentes para el uso de los datos.
 
@@ -309,7 +309,7 @@ Algunos ejemplos de plagio son:
 
 [Información sobre plagio del editor Elsevier](https://www.elsevier.com/editor/perk/plagiarism-complaints#0-introduction) (enlace externo)
 
-## Cómo citar resultados abiertos
+## Cómo citar Resultados Rbiertos
 
 Brindar una atribución adecuada a los Resultados Abiertos es una responsabilidad importante y ética al usar materiales de Código Abierto. El proceso de citación depende de la naturaleza del material.
 
