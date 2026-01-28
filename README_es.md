@@ -29,7 +29,8 @@ La NASA también utilizará este plan de estudios para apoyar a quienes investig
 
 ### 5 módulos organizados como flujo de trabajo científico
 
-<img src="./Module_1/images/media/image441_es.png" style="width:100%;height:auto;" />
+<img src="./Module_1/images/media/image441_es.png" style="width:100%;height:auto;" alt="Banner del curso con cinco insignias y los módulos: insignias circulares ‘PRINCIPIOS DE LA CIENCIA ABIERTA’, ‘HERRAMIENTAS Y RECURSOS ABIERTOS’, ‘DATOS ABIERTOS’, ‘CÓDIGO ABIERTO’ y ‘RESULTADOS ABIERTOS’, cada una con el texto ‘NASA CIENCIA ABIERTA’. Debajo aparece una franja con ‘MÓDULO 1: Qué es, por qué y cómo hacer Ciencia Abierta’; ‘MÓDULO 2: Cómo usar herramientas populares de Ciencia Abierta’; ‘MÓDULO 3: Cómo usar, crear y compartir Datos Abiertos’; ‘MÓDULO 4: Cómo usar, crear y compartir Código Abierto’; ‘MÓDULO 5: Cómo usar, crear y compartir Resultados Abiertos’. A la derecha se ve una insignia grande ‘NASA CIENCIA ABIERTA 101’ y un listón con el texto ‘Completa los 5 módulos para obtener una insignia digital de Ciencia Abierta de la NASA’." />
+
 
 [IMG: badge1.png](https://drive.google.com/file/d/1os_7dqHlsVOYAUOzb5JRu-DtKA316maK/view?usp=drive_link)
 
