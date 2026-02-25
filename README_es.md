@@ -115,7 +115,6 @@ Esta versión actualiza la contextualización en español de *Open Science 101* 
 **5. Documentación del proceso**
 - Registro de decisiones editoriales relevantes.
 - Actualización de los criterios aplicados para futuras iteraciones.
-- Aplicación de los lineamientos vigentes de la Guía de Contextualización.
 
 ## Sobre la versión anterior 
 
