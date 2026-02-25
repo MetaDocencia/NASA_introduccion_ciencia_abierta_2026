@@ -1,15 +1,15 @@
-cff-version: 1.2.0
-message: "To reference the latest version of the TOPS Open Science 101 curriculum, please cite it as below."
+cff-version: 2.0.0
+message: "To reference the latest version of the contextualization of the NASA Open Science curriculum – Introduction to Open Science, please cite it as indicated below."
 authors:
-  - name: "NASA TOPS Open Science 101 Curriculum Development Team"
-title: "NASA TOPS Open Science 101."
-version: 1.0.0
+  - name: "MetaDocencia Team"
+title: "Introduction to Open Science"
+version: 2.0.0
 identifiers:
-  - description: The concept DOI for the collection containing all versions of the Citation File Format.
+  - description: Concept DOI for the collection containing all versions of the citation file format.
     type: doi
     value: "10.5281/zenodo.10161527"
 license: "CC-BY-4.0"
-date-released: "2023-12-06"
+date-released: "2026-01-28"
 keywords:
   - training materials
   - open science
@@ -20,4 +20,4 @@ keywords:
   - open results
 doi: 10.5281/zenodo.10161527
 references:
-   - type: edited-work
+  - type: edited-work
