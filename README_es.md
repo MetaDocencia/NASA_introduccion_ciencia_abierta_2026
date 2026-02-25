@@ -90,7 +90,32 @@ Este boletín mensual destaca iniciativas actuales, nuevas herramientas y recurs
 
 ## Sobre esta versión
 
-[Completar]
+Esta versión actualiza la contextualización en español de *Open Science 101* en función de los cambios introducidos por el equipo de NASA Open Science. Además de incorporar las modificaciones de contenido, fortalecimos aspectos terminológicos, editoriales e infraestructurales para garantizar la coherencia, la trazabilidad y la sostenibilidad.
+
+### Cambios principales en esta versión
+
+**1. Actualización de contenidos**
+- Incorporación de las modificaciones realizadas por el equipo de NASA Open Science en los cinco módulos.
+- Revisión de las definiciones clave para mantener la consistencia conceptual con la versión original vigente.
+- Ajuste de referencias y de recursos externos.
+
+**2. Revisión terminológica**
+- Actualización de los términos de acuerdo con el Glosario activo de MetaDocencia.
+- Homogeneización del uso de conceptos como Ciencia Abierta, Datos Abiertos, Código Abierto y Resultados Abiertos.
+- Revisión de siglas y primera mención, según las pautas de contextualización.
+
+**3. Mejora en accesibilidad y lenguaje**
+- Simplificación de las estructuras sintácticas para mejorar la claridad y la legibilidad.
+
+**4. Infraestructura y trazabilidad**
+- Verificación y actualización de enlaces internos y externos.
+- Revisión de imágenes, textos alternativos y metadatos.
+- Control de versiones para facilitar futuras actualizaciones.
+
+**5. Documentación del proceso**
+- Registro de decisiones editoriales relevantes.
+- Actualización de los criterios aplicados para futuras iteraciones.
+- Aplicación de los lineamientos vigentes de la Guía de Contextualización.
 
 ## Sobre la versión anterior 
 
