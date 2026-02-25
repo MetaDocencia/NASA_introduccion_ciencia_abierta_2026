@@ -1,15 +1,15 @@
 cff-version: 1.2.0
-message: "Para hacer referencia a la última versión del currículum de TOPS Open Science 101, por favor citarlo como se menciona a continuación."
+Para hacer referencia a la última versión de la contextualización del currículum de NASA Open Science - Introducción a la Ciencia Abierta, por favor, citarla como se indica a continuación."
 authors:
-  - name: "Equipo de desarrollo del currículum de NASA TOPS Open Science 101"
-title: "NASA TOPS Open Science 101."
-version: 1.0.0
+  - name: "Equipo de MetaDocencia"
+title: "Introducción a la Ciencia Abierta"
+version: 2.0.0
 identifiers:
   - description: El DOI de concepto para la colección que contiene todas las versiones del formato de archivo de cita.
     type: doi
     value: "10.5281/zenodo.10161527"
 license: "CC-BY-4.0"
-date-released: "2023-12-06"
+date-released: "2026-28-01"
 keywords:
   - materiales de entrenamiento
   - ciencia abierta
