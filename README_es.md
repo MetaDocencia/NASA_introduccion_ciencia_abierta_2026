@@ -148,3 +148,70 @@ Este trabajo es fruto del esfuerzo colectivo y colaborativo de la comunidad de M
 - Vanesa Ruiz (traducción y revisión)
 - Vanina	Varni (traducción y revisión)
 - Verónica Xhardez (edición)
+
+-------------------------------------------------------------------
+
+# Open Science 101 Introduction
+
+Please note: Upon finishing our training(s), there can be a delay of an hour or more to receive your digital badge. This depends on how many individuals we are processing at any given time. Thank you for understanding!
+
+## Manage Notifications
+Feel like you're getting too many emails from this course?  Manage your notification settings [here](https://nasastem.instructure.com/profile).
+
+## Need Help?
+Reach out to us through the [inbox](https://nasastem.instructure.com/conversations).
+
+## Taking This Course
+Visit the [Modules](https://nasastem.instructure.com/courses/283/modules) page to navigate content in each module.  Each module has an assessment associated with it.  Take all 5 [assessments](https://nasastem.instructure.com/courses/283/quizzes) in order to complete the course.
+
+## Receive Credit
+When you finish all 5 assessments, you will automatically receive a digital badge from Credly that you can share anywhere such as your resume or social media profiles.  You may also add your Credly badge to your ORCID in the Complete [Open Science 101 module](https://nasastem.instructure.com/courses/283/modules/900).
+
+[IMG: [readme1.png](https://drive.google.com/file/d/1Jz-LxjX6OQL3lCMlZoNX9g4xkgdq0jG8/view?usp=drive_link) (html embedded)]
+
+## Curriculum Overview
+
+NASA's Open Science training is a NASA initiative designed to rapidly transform agencies, organizations, and communities into a collaborative culture of open science. Developed by the NASA Open Science team, the guidance provided by the Open Science 101 curriculum will promote the transformation of the research landscape and the accompanying advancement of scientific discovery. The Open Science 101 curriculum aims to introduce learners to a nuanced understanding of open science, enabling participants to better understand an open science workflow from end to end. The focus of the curriculum is to provide learners with a basic understanding of how to share and publish research in an open but responsible way to maximize the scientific and economic impact from research, enabling future researchers to build from shared work. NASA Open Science 101 will also be used to support researchers looking to engage with NASA as it moves to adopt more open science requirements. Scientists will need to acquire the new skills highlighted in the curriculum to participate in open science effectively and to demonstrate those skills when applying for NASA funding opportunities.
+
+## Open Science Curriculum: Open Science 101 
+
+### 5 Modules Organized as a Scientiﬁc Workﬂow
+
+A NASA Open Science digital badge is earned by completing all five modules and passing the assessment at the end of each module.}
+
+## Join the Open Science Community
+
+Throughout this course, we will provide information about how you can become aware of open science opportunities and be more involved in the open science community. An easy way to get started is to subscribe to the free NASA Open Science newsletter. Our monthly newsletter not only highlights our ongoing open science efforts, but also keeps you informed about the latest tools and resources designed to empower scientists and researchers to more effectively engage with NASA's vast amount of science data. Upcoming highlights include insights into cutting-edge AI tools, the continued development of dynamic search engines like the Science Discovery Engine, and much more.
+
+**Sign up here!**
+
+[Button](https://lp.constantcontactpages.com/sl/dngxZy8/NASAOpenScience)
+
+
+## About this version
+
+This version updates the Spanish contextualization of *Open Science 101* following the changes introduced by the NASA Open Science team. In addition to incorporating content updates, we strengthened terminological, editorial, and infrastructural aspects to ensure coherence, traceability, and sustainability.
+
+### Main changes in this version
+
+**1. Content updates**
+- Incorporated modifications made by the NASA Open Science team across the five modules.
+- Reviewed key definitions to maintain conceptual consistency with the current official version.
+- Updated references and external resources.
+
+**2. Terminology review**
+- Updated terms in alignment with MetaDocencia’s active Glossary.
+- Standardized the use of concepts such as Open Science, Open Data, Open Code, and Open Results.
+- Reviewed acronyms and first mentions according to our contextualization guidelines.
+
+**3. Accessibility and language improvements**
+- Simplified syntactic structures to improve clarity and readability.
+
+**4. Infrastructure and traceability**
+- Verified and updated internal and external links.
+- Reviewed images, alternative text, and metadata.
+- Maintained version control to facilitate future updates.
+
+**5. Process documentation**
+- Recorded relevant editorial decisions.
+- Updated criteria to support future iterations.
