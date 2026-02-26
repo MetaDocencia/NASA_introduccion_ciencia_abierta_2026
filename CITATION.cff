@@ -1,23 +1,12 @@
-cff-version: 2.0.0
-Para hacer referencia a la última versión de la contextualización del currículum de NASA Open Science - Introducción a la Ciencia Abierta, por favor, citarla como se indica a continuación."
+cff-version: 1.2.0
+message: "Para hacer referencia a la última versión de la contextualización del currículum de NASA Open Science - Introducción a la Ciencia Abierta, por favor, citarla como se indica a continuación."
+ / If you use this software, please cite it as below."
 authors:
-  - name: "Equipo de MetaDocencia"
-title: "Introducción a la Ciencia Abierta"
-version: 2.0.0
-identifiers:
-  - description: El DOI de concepto para la colección que contiene todas las versiones del formato de archivo de cita.
-    type: doi
-    value: "10.5281/zenodo.10161527"
+- family-names: "Equipo de MetaDocencia"
+  given-names: "Equipo de MetaDocencia"
+title: "Contextualización del curso: Introducción a la Ciencia Abierta"
+version: 1.2.0
+doi: 10.5281/zenodo.1234
 license: "CC-BY-4.0"
-date-released: "2026-01-28"
-keywords:
-  - materiales de entrenamiento
-  - ciencia abierta
-  - ethos abierto
-  - datos abiertos
-  - código abierto
-  - herramientas abiertas
-  - resultados abiertos
-doi: 10.5281/zenodo.10161527
-referencias:
-   - type: edited-work
+date-released: 2026-02-26
+url: "https://github.com/MetaDocencia/NASA_introduccion_ciencia_abierta_2026"
