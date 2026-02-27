@@ -3,7 +3,7 @@ message: "Para hacer referencia a la última versión de la contextualización d
 authors:
 - family-names: "Equipo de MetaDocencia"
   given-names: "Equipo de MetaDocencia"
-title: "Contextualización del curso: Introducción a la Ciencia Abierta"
+title: "Introducción a la Ciencia Abierta : NASA Open Science 101"
 version: 1.2.0
 doi: 10.5281/zenodo.1234
 license: "CC-BY-4.0"
